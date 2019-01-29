@@ -1,5 +1,16 @@
 # Vue.js Events
 
-This site will be built with [VuePress](https://vuepress.vuejs.org).
+This site is built with [VuePress](https://vuepress.vuejs.org).
 
-More details to come soon!
+## Setup
+
+```bash
+# Install dependencies
+yarn 
+
+# Run local server
+yarn dev
+
+# Build production files
+yarn build
+```
