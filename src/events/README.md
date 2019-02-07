@@ -26,3 +26,25 @@ sidebar: auto
 - Date: April 12th - 13th, 2019
 - Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
 
+# Events
+
+Here you will find a list of upcoming events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
+
+::: tip
+Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sure we can find and retweet your meetup!
+:::
+
+To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups/edit/master/docs/events/README.md).
+
+<events-list>
+<template slot="upcoming">
+
+## Upcoming
+
+</template>
+<template slot="past">
+
+## Past
+
+</template>
+</events-list>

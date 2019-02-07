@@ -1,0 +1,443 @@
+{
+  "January": [
+    {
+      "date": "3rd",
+      "time": "at 6:30PM",
+      "startDate": "2019-01-03",
+      "endDate": "2019-01-03",
+      "organiser": "<vue-zurich/>",
+      "organiserLink": "https://www.meetup.com/vue_zurich/",
+      "name": "№ 5",
+      "eventLink": "https://www.meetup.com/vue_zurich/events/255051721/",
+      "type": "meetup"
+    },
+    {
+      "date": "8th",
+      "time": "at 6:30PM",
+      "startDate": "2019-01-08",
+      "endDate": "2019-01-08",
+      "organiser": "VueJS Ft Lauderdale",
+      "organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/",
+      "type": "meetup"
+    },
+    {
+      "date": "8th",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-08",
+      "endDate": "2019-01-08",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzcblb/",
+      "type": "meetup"
+    },
+    {
+      "date": "24th",
+      "time": "at 7:30PM",
+      "startDate": "2019-01-24",
+      "endDate": "2019-01-24",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 6",
+      "eventLink": "https://www.facebook.com/events/264299674245444/",
+      "type": "meetup"
+    },
+    {
+      "date": "26th",
+      "time": "at 10:00AM",
+      "startDate": "2019-01-26",
+      "endDate": "2019-01-26",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://www.meetup.com/vue-bangalore/",
+      "name": "VueBLR #10 - Kick-start your Vuetiful Journey (Free Workshop)",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/256686922/",
+      "type": "meetup"
+    },
+    {
+      "date": "28th",
+      "time": "at 6:00PM",
+      "startDate": "2019-01-28",
+      "endDate": "2019-01-28",
+      "organiser": "Denver Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup/",
+      "name": "Denver Vue meetup!",
+      "eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzcblc/",
+      "type": "meetup"
+    },
+    {
+      "date": "29th",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-29",
+      "endDate": "2019-01-29",
+      "organiser": "VueJS Madrid",
+      "organiserLink": "https://www.meetup.com/VueJS-Madrid/",
+      "name": "VENoM y Dock(er). El stack de desarrollo simbionte.",
+      "eventLink": "https://www.meetup.com/VueJS-Madrid/events/257939275/",
+      "type": "meetup"
+    },
+    {
+      "date": "29th",
+      "time": "at 6:30PM",
+      "startDate": "2019-01-29",
+      "endDate": "2019-01-29",
+      "organiser": "VueJS Manchester",
+      "organiserLink": "https://www.meetup.com/VueJS-Manchester/",
+      "name": "Quasar Framework - create & deploy a Vue.js app to web, mobile & desktop",
+      "eventLink": "https://www.meetup.com/VueJS-Manchester/events/257778788/",
+      "type": "meetup"
+    },
+    {
+      "date": "29th",
+      "time": "at 6:30PM",
+      "startDate": "2019-01-29",
+      "endDate": "2019-01-29",
+      "organiser": "Hamburg Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Hamburg-Vue-js-Meetup/",
+      "name": "Vue.js Meetup #4",
+      "eventLink": "https://www.meetup.com/Hamburg-Vue-js-Meetup/events/257995734/",
+      "type": "meetup"
+    },
+    {
+      "date": "30th",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-30",
+      "endDate": "2019-01-30",
+      "organiser": "Vuejs @ Lima",
+      "organiserLink": "https://www.meetup.com/Vuejs-Lima/",
+      "name": "1er Meetup - Vuejs @ Lima",
+      "eventLink": "https://www.meetup.com/Vuejs-Lima/events/258106002/",
+      "type": "meetup"
+    },
+    {
+      "date": "31st",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-31",
+      "endDate": "2019-01-31",
+      "organiser": "VueJS Milano",
+      "organiserLink": "https://www.meetup.com/VueJS-Milano/",
+      "name": "Vuejs - The Progressive Talk",
+      "eventLink": "https://www.meetup.com/VueJS-Milano/events/258185761/",
+      "type": "meetup"
+    }
+  ],
+  "February": [
+    {
+      "date": "5th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-05",
+      "endDate": "2019-02-05",
+      "organiser": "Vue.js Lisbon",
+      "organiserLink": "https://www.meetup.com/vue-js-lisbon/",
+      "name": "Meetup #2 Vue.js Lisbon | Let's talk Performance",
+      "eventLink": "https://www.meetup.com/vue-js-lisbon/events/258096043/",
+      "type": "meetup"
+    },
+    {
+      "date": "5th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-05",
+      "endDate": "2019-02-05",
+      "organiser": "Sevilla JS",
+      "organiserLink": "https://www.meetup.com/sevilla-js/",
+      "name": "SevillaJS Talks. Especial Vue.js",
+      "eventLink": "https://www.meetup.com/sevilla-js/events/258435991/",
+      "type": "meetup"
+    },
+    {
+      "date": "6th",
+      "time": "at 6:00PM",
+      "startDate": "2019-02-06",
+      "endDate": "2019-02-06",
+      "organiser": "Aachen Vue.js meetup",
+      "organiserLink": "https://www.meetup.com/aachen-vue-js-meetup/",
+      "name": "Episode V - A Vuetiful Mind",
+      "eventLink": "https://www.meetup.com/aachen-vue-js-meetup/events/258236999/",
+      "type": "meetup"
+    },
+    {
+      "date": "7th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "VueJS Barcelona",
+      "organiserLink": "https://www.meetup.com/VueJS-BCN/",
+      "name": "Vue Server Side Rendering",
+      "eventLink": "https://www.meetup.com/VueJS-BCN/events/258353786/",
+      "type": "meetup"
+    },
+    {
+      "date": "7th",
+      "time": "at 5:30PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "VueCLE",
+      "organiserLink": "https://www.meetup.com/vuecle/",
+      "name": "Getting Started with Vue CLI 3",
+      "eventLink": "https://www.meetup.com/vuecle/events/257002211/",
+      "type": "meetup"
+    },
+    {
+      "date": "7th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "VueJS Frankfurt",
+      "organiserLink": "https://www.meetup.com/vuejsfrankfurt/",
+      "name": "Next level Vuex - do & Redo for your Users",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255459806/",
+      "type": "meetup"
+    },
+    {
+      "date": "7th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-07",
+      "endDate": "2019-02-07",
+      "organiser": "Tokyo Vue Meetup",
+      "organiserLink": "https://www.meetup.com/Tokyo-Vue-Meetup/",
+      "name": "Meetup Tokyo Vue.js #1 - Let's get started!",
+      "eventLink": "https://www.meetup.com/Tokyo-Vue-Meetup/events/258151785/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "time": "at 6:00PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "Vue Sydney",
+      "organiserLink": "https://www.meetup.com/vue-sydney/",
+      "name": "Vue Sydney Meetup #9",
+      "eventLink": "https://www.meetup.com/vue-sydney/events/258145181/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "VueJS Ft Lauderdale",
+      "organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "VueJS LA",
+      "organiserLink": "https://www.meetup.com/VuejsLA/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/VuejsLA/events/258405362/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-12",
+      "endDate": "2019-02-12",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzdbqb/",
+      "type": "meetup"
+    },
+    {
+      "date": "14th-15th",
+      "startDate": "2019-02-14",
+      "endDate": "2019-02-15",
+      "name": "Vuejs Amsterdam",
+      "eventLink": "http://www.vuejs.amsterdam/",
+      "type": "conference"
+    },
+    {
+      "date": "18th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-18",
+      "endDate": "2019-02-18",
+      "organiser": "Vue.js Dresden",
+      "organiserLink": "https://www.meetup.com/vue-js-dresden/",
+      "name": "Go static with Vue - Vue.js Dresden #4",
+      "eventLink": "https://www.meetup.com/vue-js-dresden/events/258288967/",
+      "type": "meetup"
+    },
+    {
+      "date": "19th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-19",
+      "endDate": "2019-02-19",
+      "organiser": "Dallas Vue Meetup",
+      "organiserLink": "https://www.meetup.com/Dallas-Vue-Meetup/",
+      "name": "Vue.js Meetup 4",
+      "eventLink": "https://www.meetup.com/Dallas-Vue-Meetup/events/257968050/",
+      "type": "meetup"
+    },
+    {
+      "date": "21st",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
+      "organiser": "Vue.js Vienna",
+      "organiserLink": "https://www.meetup.com/Vue-js-Vienna/",
+      "name": "Vue.js Vienna February Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Vienna/events/258219153/",
+      "type": "meetup"
+    },
+    {
+      "date": "21st",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
+      "organiser": "VueJs Dublin",
+      "organiserLink": "https://www.meetup.com/DublinVueJS/",
+      "name": "February Meetup",
+      "eventLink": "https://www.meetup.com/DublinVueJS/events/258492845/",
+      "type": "meetup"
+    },
+    {
+      "date": "21st",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-21",
+      "endDate": "2019-02-21",
+      "organiser": "Stuttgart Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Stuttgart-Vue-js-Meetup/",
+      "name": "2. Stuttgart Vue.js Meetup",
+      "eventLink": "https://www.meetup.com/Stuttgart-Vue-js-Meetup/events/257167830/",
+      "type": "meetup"
+    },
+    {
+      "date": "25th",
+      "time": "at 6:00PM",
+      "startDate": "2019-02-25",
+      "endDate": "2019-02-25",
+      "organiser": "Denver Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Denver-Vue-js-Meetup",
+      "name": "Denver Vue meetup!",
+      "eventLink": "https://www.meetup.com/Denver-Vue-js-Meetup/events/ltwpwmyzdbhc/",
+      "type": "meetup"
+    },
+    {
+      "date": "27th",
+      "time": "at 5:00AM",
+      "startDate": "2019-01-27",
+      "endDate": "2019-01-27",
+      "organiser": "VueJS Oslo",
+      "organiserLink": "https://www.meetup.com/VueJS-Oslo/",
+      "name": "Vue.js #5",
+      "eventLink": "https://www.meetup.com/VueJS-Oslo/events/258502200/",
+      "type": "meetup"
+    },
+    {
+      "date": "28th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-28",
+      "endDate": "2019-02-28",
+      "organiser": "Vue Basel",
+      "organiserLink": "https://www.meetup.com/Vue-Basel/",
+      "name": "Developing for the WebAssembly target",
+      "eventLink": "https://www.meetup.com/Vue-Basel/events/258287307/",
+      "type": "meetup"
+    },
+    {
+      "date": "28th",
+      "time": "at 7:30PM",
+      "startDate": "2019-02-28",
+      "endDate": "2019-02-28",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 6",
+      "eventLink": "https://www.facebook.com/events/145466683019787/",
+      "type": "meetup"
+    }
+  ],
+  "March": [
+    {
+      "date": "4th",
+      "time": "at 7:00M",
+      "startDate": "2019-03-04",
+      "endDate": "2019-03-04",
+      "organiser": "<vue-zurich/>",
+      "organiserLink": "https://www.meetup.com/vue_zurich/",
+      "name": "№ 6",
+      "eventLink": "https://www.meetup.com/vue_zurich/events/257781608/",
+      "type": "meetup"
+    },
+    {
+      "date": "4th",
+      "time": "at 6:00PM",
+      "startDate": "2019-03-04",
+      "endDate": "2019-03-04",
+      "organiser": "VueJS Frankfurt",
+      "organiserLink": "https://www.meetup.com/vuejsfrankfurt/",
+      "name": "Vue.js Frankfurt Event March 2019",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255460169/",
+      "type": "meetup"
+    },
+    {
+      "date": "6th",
+      "time": "at 5:30PM",
+      "startDate": "2019-03-06",
+      "endDate": "2019-03-06",
+      "organiser": "Utah Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/utah-vue/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/utah-vue/events/phgjnqyzfbjb/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "time": "at 7:00PM",
+      "startDate": "2019-03-12",
+      "endDate": "2019-03-12",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzfbqb/",
+      "type": "meetup"
+    },
+    {
+      "date": "21th",
+      "time": "at 7:30PM",
+      "startDate": "2019-03-21",
+      "endDate": "2019-03-21",
+      "organiser": "Vue.js Hong Kong",
+      "organiserLink": "https://www.facebook.com/groups/887185518120024/",
+      "name": "Hong Kong Vue.js Meetup 7",
+      "eventLink": "https://www.facebook.com/events/316720068975039/",
+      "type": "meetup"
+    },
+    {
+      "date": "26-27th",
+      "startDate": "2019-03-26",
+      "endDate": "2019-03-27",
+      "name": "VueConf US",
+      "eventLink": "http://www.vueconf.us/",
+      "type": "conference"
+    }
+  ],
+  "April": [
+    {
+      "date": "9th",
+      "time": "at 7:00PM",
+      "startDate": "2019-04-09",
+      "endDate": "2019-04-09",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Meetup",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/jdhfzpyzgbmb/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
+      "startDate": "2019-04-12",
+      "endDate": "2019-04-12",
+      "organiser": "GrUSP",
+      "organiserLink": "http://www.grusp.org/",
+      "name": "VueDay",
+      "eventLink": "https://2019.vueday.it/",
+      "type": "conference"
+    }
+  ]
+}

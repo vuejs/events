@@ -1,7 +1,55 @@
 module.exports = {
 	title: 'Vue.js Events',
 	themeConfig: {
-		logo: '/vue-events-logo.png'
+		logo: '/vue-events-logo.png',
+		nav: [
+			{
+				text: 'Home',
+				link: '/'
+			},
+			{
+				text: 'Events',
+				link: '/events/'
+			},
+			{
+				text: 'Meetups',
+				link: '/meetups/'
+			},
+			{
+				text: 'Resources',
+				items: [
+					{
+						text: 'Getting Started',
+						link: '/resources/#getting-started'
+					},
+					{
+						text: "Organizers' Handbook",
+						link: '/resources/#organizers-handbook'
+					},
+					{
+						text: "Speakers' Handbook",
+						link: '/resources/#speakers-handbook'
+					},
+					{
+						text: 'Code of Conduct',
+						link: '/code-of-conduct/'
+					}
+				]
+			},
+			{
+				text: 'Contact',
+				items: [
+					{
+						text: 'Twitter',
+						link: 'https://www.twitter.com/vuemeetups'
+					},
+					{
+						text: 'Discord',
+						link: 'https://vue-land.js.org/'
+					}
+				]
+			}
+		]
 	},
 	head: [
 		[
@@ -110,7 +158,7 @@ module.exports = {
 			'meta',
 			{ name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' }
 		],
-		['meta', { name: 'theme-color', content: '#ffffff' }],
+		['meta', { name: 'theme-color', content: '#ffffff' }]
 	],
 	plugins: [
 		[
