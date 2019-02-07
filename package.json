@@ -24,6 +24,6 @@
   "homepage": "https://github.com/vuejs/events#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
-    "vuepress": "^0.14.8"
+    "vuepress": "^1.0.0-alpha.36"
   }
 }
