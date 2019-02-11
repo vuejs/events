@@ -107,7 +107,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Ireland
 
-- Dublin - [VueJS Dublin](https://www.meetup.com/DublinVueJS/)
+- Dublin - [VueJS Dublin](https://www.vuejsdublin.com/)
 
 ### Israel
 
