@@ -4,18 +4,6 @@ sidebar: auto
 
 # Find an Event
 
-## Call for Proposals
-
-### VueConfUS 2019 - Lightning Talks
-
-::: warning Note
-This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
-:::
-
-- **Date**: March 26th - 27th, 2019
-- **Location**: Tampa, Florida
-- **Deadline**: TBD (but estimate somewhere around March 20th)
-
 ## Conferences
 
 ### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
@@ -42,3 +30,15 @@ Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sur
 :::
 
 <EventsTimeline type="meetup" />
+
+## Call for Proposals
+
+### VueConfUS 2019 - Lightning Talks
+
+::: warning Note
+This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
+:::
+
+- **Date**: March 26th - 27th, 2019
+- **Location**: Tampa, Florida
+- **Deadline**: TBD (but estimate somewhere around March 20th)
