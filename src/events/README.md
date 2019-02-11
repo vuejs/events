@@ -6,12 +6,15 @@ sidebar: auto
 
 ## Call for Proposals
 
-**VueDay 2019 CFP**
+### VueConfUS 2019 - Lightning Talks
 
-- Date: April 12th, 2019
-- Location: Verona, Italy
-- Deadline: February 1st, 2019
-- [Apply Now](https://docs.google.com/forms/d/e/1FAIpQLSeqbB8BEmzIop-2jcRfSNyblNY8EQ5d55ff9uYktQX5eoDcOQ/viewform)
+::: warning Note
+This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
+:::
+
+- **Date**: March 26th - 27th, 2019
+- **Location**: Tampa, Florida
+- **Deadline**: TBD (but estimate somewhere around March 20th)
 
 ## Conferences
 
@@ -30,25 +33,12 @@ sidebar: auto
 - Date: April 12th - 13th, 2019
 - Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
 
-# Events
+## Meetups
 
-Here you will find a list of upcoming events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
+Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
 
 ::: tip
 Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sure we can find and retweet your meetup!
 :::
 
-To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups/edit/master/docs/events/README.md).
-
-<events-list>
-<template slot="upcoming">
-
-## Upcoming
-
-</template>
-<template slot="past">
-
-## Past
-
-</template>
-</events-list>
+<EventsTimeline type="meetup" />
