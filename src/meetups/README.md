@@ -250,7 +250,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Peru
 
-- Lima - [Vuejs @ Lima[(https://www.meetup.com/Vuejs-Lima/)
+- Lima - [Vuejs @ Lima](https://www.meetup.com/Vuejs-Lima/)
 
 ### Uruguay
 
