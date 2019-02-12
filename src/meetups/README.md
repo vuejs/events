@@ -100,6 +100,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
 - München - [Vue.js Munich](https://meetup.com/Vue-js-Munich)
 - Nürnberg - [Vue.js // Nürnberg, Fürth, Erlangen](https://meetup.com/vue-nfe)
+- Stuttgart - [Stuttgart Vue.js Meetup](https://www.meetup.com/Stuttgart-Vue-js-Meetup/)
 
 ### Hungary
 
