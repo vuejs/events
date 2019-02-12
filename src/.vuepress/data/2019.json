@@ -319,6 +319,17 @@
       "type": "meetup"
     },
     {
+      "date": "26th",
+      "time": "at 6:30PM",
+      "startDate": "2019-02-26",
+      "endDate": "2019-02-26",
+      "organiser": "Atlanta Vue.js Meetup",
+      "organiserLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/",
+      "name": "Enhancing Web Pages with VueJS: When You Don’t Need a full SPA!",
+      "eventLink": "https://www.meetup.com/Atlanta-Vue-js-Meetup/events/258448353/",
+      "type": "meetup"
+    },
+    {
       "date": "27th",
       "time": "at 5:00AM",
       "startDate": "2019-01-27",
