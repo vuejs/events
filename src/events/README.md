@@ -31,6 +31,12 @@ Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sur
 
 <EventsTimeline type="meetup" />
 
+## Workshops
+
+Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
+
+<EventsTimeline type="workshop" />
+
 ## Call for Proposals
 
 ### VueConfUS 2019 - Lightning Talks
