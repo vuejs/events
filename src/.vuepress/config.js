@@ -2,6 +2,7 @@ module.exports = {
 	title: 'Vue.js Events',
 	themeConfig: {
 		logo: '/logo.png',
+		repo: 'vuejs/events',
 		nav: [
 			{
 				text: 'Events',
