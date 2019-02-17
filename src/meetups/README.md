@@ -59,6 +59,9 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
 
+### South Korea
+- South Korea - [Vue.js Korea](https://www.facebook.com/groups/1152461054807344/)
+
 ## Australia
 
 ### New South Wales
