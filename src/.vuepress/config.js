@@ -46,7 +46,9 @@ module.exports = {
 					}
 				]
 			}
-		]
+		],
+		lastUpdated: 'Last Updated',
+		editLinks: true
 	},
 	head: [
 		[
