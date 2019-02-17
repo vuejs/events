@@ -4,10 +4,6 @@ module.exports = {
 		logo: '/logo.png',
 		nav: [
 			{
-				text: 'Home',
-				link: '/'
-			},
-			{
 				text: 'Events',
 				link: '/events/'
 			},
