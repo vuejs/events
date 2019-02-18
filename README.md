@@ -1,5 +1,7 @@
 # Vue.js Events
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e0142b9-085f-4737-adb3-d11aa02481ee/deploy-status)](https://app.netlify.com/sites/vuejs-events/deploys)
+
 This repo contains the site for Vue.js Events in an effort to centralize all Vue.js community efforts (e.g., meetups, conferences and workshops).
 
 Please check out the [Issues board](https://github.com/vuejs/events/issues) for discussions and tracking progress.
