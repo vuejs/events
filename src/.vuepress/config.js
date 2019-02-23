@@ -5,12 +5,20 @@ module.exports = {
 		repo: 'vuejs/events',
 		nav: [
 			{
-				text: 'Events',
-				link: '/events/'
+				text: 'Upcoming',
+				items: [
+					{ text: 'Conferences', link: '/events/#conferences' },
+					{ text: 'Meetups', link: '/events/#meetups' },
+					{ text: 'Workshops', link: '/events/#workshops' },
+					{ text: 'Call for Proposals', link: '/events/#call-for-proposals' }
+				]
 			},
 			{
-				text: 'Meetups',
-				link: '/meetups/'
+				text: 'Find',
+				items: [
+					{ text: 'Conferences', link: '/conferences/' },
+					{ text: 'Meetups', link: '/meetups/' },
+				]
 			},
 			{
 				text: 'Resources',
