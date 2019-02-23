@@ -6,11 +6,6 @@ sidebar: auto
 
 ## Conferences
 
-### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
-
-- Date: February 14th - 15th, 2019
-- Location: [Danzigerkade 5, 1013 AP Amsterdam, Netherlands](https://www.google.com/maps/place/Amsterdam+Theater/@52.3970285,4.8750425,17z/data=!3m1!4b1!4m5!3m4!1s0x47c608288dc127bf:0xdb0d328fc38eae6!8m2!3d52.3970285!4d4.8772312)
-
 ### [VueConfUS](https://vueconf.us)
 
 - Date: March 26th - 27th, 2019
