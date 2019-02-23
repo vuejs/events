@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Netlify deployment badge on README
 - Site version badge on README
+- Dedicated conferences page
 
 ## 0.2.0-alpha - 2019.02.17
 ### Added
