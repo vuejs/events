@@ -20,37 +20,41 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Past
 
-### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
+### 2019
+
+#### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
 
 - Date: February 14th - 15th, 2019
 - Location: [Danzigerkade 5, 1013 AP Amsterdam, Netherlands](https://www.google.com/maps/place/Amsterdam+Theater/@52.3970285,4.8750425,17z/data=!3m1!4b1!4m5!3m4!1s0x47c608288dc127bf:0xdb0d328fc38eae6!8m2!3d52.3970285!4d4.8772312)
 
-### [VueConf Toronto](https://vuetoronto.com/)
+### 2018
+
+#### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 14th to 16th
 - Location: Toronto, Canada
 
-### [Vue Fes Japan](https://vuefes.jp/)
+#### [Vue Fes Japan](https://vuefes.jp/)
 
 - Date: November 3rd, 2018
 - Location: Tokyo, Japan
 
-### [Connect.Tech](http://connect.tech/)
+#### [Connect.Tech](http://connect.tech/)
 
 - Date: October 17th - 19th, 2018
 - Location: Atlanta, Georgia
 
-### [Framework Summit](https://www.frameworksummit.com/)
+#### [Framework Summit](https://www.frameworksummit.com/)
 
 - Date: October 2nd - 3rd, 2018
 - Location: Park City, UT
 
-### [VueJS Summit](https://vuejssummit.com/)
+#### [VueJS Summit](https://vuejssummit.com/)
 
 - Date: August 31st - September 1st, 2018
 - Location: Sao Paulo, Brasil
 
-### [VueJS London](https://vuejs.london/)
+#### [VueJS London](https://vuejs.london/)
 
 - Date: September 20th - 21st, 2018
 - Location: London, United Kingdom
