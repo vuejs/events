@@ -33,3 +33,9 @@ This is primarily for attendees of the conference to apply since the application
 - **Deadline**: TBD (but estimate somewhere around March 20th)
 - **Event Dates**: March 26th - 27th, 2019
 - **Location**: Tampa, Florida, USA
+
+## FAQs
+
+### How do I add my conference on here?
+
+Looking for Vue.js speakers? You're in the right place! All you have to do is [submit a new issue](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D) to request and you should hear back from the team within 24-48 hours.
