@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 0.4.0-alpha - 2019.02.26
+### Added
+- Call for Proposals section
+
 ## 0.3.0-alpha - 2019.02.23
 ### Added
 - Netlify deployment badge on README
