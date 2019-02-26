@@ -34,12 +34,24 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### VueConfUS 2019 - Lightning Talks
+### [JSConfUS](https://2019.jsconf.us/)
+
+- **Deadline**: March 1st, 2019
+- **Event Dates**: August 12th - 14th, 2019
+- **Location**: Carslbad, California, USA
+
+### [ComponentsConf](https://www.componentsconf.com.au/)
+
+- **Deadline**: April 6th, 2019
+- **Event Dates**: September 6th, 2019
+- **Location**: Melbourne, Australia
+
+### [VueConfUS 2019](https://vueconf.us/) - Lightning Talks
 
 ::: warning Note
 This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
 :::
 
-- **Date**: March 26th - 27th, 2019
-- **Location**: Tampa, Florida
 - **Deadline**: TBD (but estimate somewhere around March 20th)
+- **Event Dates**: March 26th - 27th, 2019
+- **Location**: Tampa, Florida, USA
