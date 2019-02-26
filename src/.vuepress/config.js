@@ -18,6 +18,7 @@ module.exports = {
 				items: [
 					{ text: 'Conferences', link: '/conferences/' },
 					{ text: 'Meetups', link: '/meetups/' },
+					{ text: 'Call for Proposals', link: '/call-for-proposals/' }
 				]
 			},
 			{
