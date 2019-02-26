@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Find an Event
+# Upcoming Events
 
 ## Conferences
 
