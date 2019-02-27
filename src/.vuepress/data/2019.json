@@ -519,6 +519,17 @@
       "type": "meetup"
     },
     {
+      "date": "12th",
+      "time": "at 7:00PM",
+      "startDate": "2019-03-12",
+      "endDate": "2019-03-12",
+      "organiser": "Vue.js @ Belo Horizonte",
+      "organiserLink": "https://www.meetup.com/Vuejs-at-BH/",
+      "name": "Beer.vue",
+      "eventLink": "https://www.meetup.com/Vuejs-at-BH/events/gqxvrqyzfbqb/",
+      "type": "meetup"
+    },
+    {
       "date": "21th",
       "time": "at 7:30PM",
       "startDate": "2019-03-21",
