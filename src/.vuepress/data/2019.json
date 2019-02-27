@@ -363,6 +363,17 @@
       "type": "meetup"
     },
     {
+      "date": "27th",
+      "time": "at 7:00PM",
+      "startDate": "2019-01-27",
+      "endDate": "2019-01-27",
+      "organiser": "VanCity Vue.js",
+      "organiserLink": "https://www.meetup.com/Vancity-Vue-js/",
+      "name": "Hybrid apps and the backendification of front-end!",
+      "eventLink": "https://www.meetup.com/Vancity-Vue-js/events/258603558/",
+      "type": "meetup"
+    },
+    {
       "date": "28th",
       "time": "at 7:00PM",
       "startDate": "2019-02-28",
