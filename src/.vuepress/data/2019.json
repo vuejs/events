@@ -386,6 +386,17 @@
     },
     {
       "date": "28th",
+      "time": "at 7:00PM",
+      "startDate": "2019-02-28",
+      "endDate": "2019-02-28",
+      "organiser": "Boston Vue.js",
+      "organiserLink": "https://www.meetup.com/Boston-Vue-js/",
+      "name": "Vuely, Madly, Deeply - Vuelentines Day for Vuebies",
+      "eventLink": "https://www.meetup.com/Boston-Vue-js/events/258684278/",
+      "type": "meetup"
+    },
+    {
+      "date": "28th",
       "time": "at 7:30PM",
       "startDate": "2019-02-28",
       "endDate": "2019-02-28",
