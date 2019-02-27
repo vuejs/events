@@ -541,6 +541,17 @@
       "type": "meetup"
     },
     {
+      "date": "13th",
+      "startDate": "2019-03-13 16:30",
+      "endDate": "2019-03-13 18:30",
+      "organiser": "Alexander Schwartz",
+      "organiserLink": "https://twitter.com/ahus1de",
+      "name": "Vue.js Beginner's Training - Testing with Jest",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/258844567/",
+      "type": "workshop",
+      "location": "Frankfurt, Germany"
+    },
+    {
       "date": "21th",
       "time": "at 7:30PM",
       "startDate": "2019-03-21",
