@@ -646,7 +646,18 @@
       "name": "VueConf US",
       "eventLink": "http://www.vueconf.us/",
       "type": "conference"
-    }
+    },
+    {
+      "date": "28th",
+      "time": "at 6:00PM",
+      "startDate": "2019-03-21",
+      "endDate": "2019-03-21",
+      "organiser": "Vue.js Belgium",
+      "organiserLink": "https://www.meetup.com/vuejs-belgium/",
+      "name": "Vue.js Antwerp #1 at Lunar Gravity",
+      "eventLink": "https://www.meetup.com/vuejs-belgium/events/258760980/",
+      "type": "meetup"
+      }
   ],
   "April": [
     {
