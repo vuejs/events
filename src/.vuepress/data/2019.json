@@ -498,6 +498,17 @@
     },
     {
       "date": "12th",
+      "time": "at 6:45PM",
+      "startDate": "2019-03-12",
+      "endDate": "2019-03-12",
+      "organiser": "Vue.js Lisbon",
+      "organiserLink": "https://www.meetup.com/vue-js-lisbon/",
+      "name": "Meetup #3 Vue.js Lisbon",
+      "eventLink": "https://www.meetup.com/vue-js-lisbon/events/259162055/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
       "time": "at 7:00PM",
       "startDate": "2019-03-12",
       "endDate": "2019-03-12",
