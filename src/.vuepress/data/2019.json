@@ -498,6 +498,17 @@
     },
     {
       "date": "12th",
+      "time": "at 6:30PM",
+      "startDate": "2019-03-12",
+      "endDate": "2019-03-12",
+      "organiser": "VueJS Ft Lauderdale",
+      "organiserLink": "https://www.meetup.com/meetup-group-wemNbYEa/",
+      "name": "Monthly Meetup",
+      "eventLink": "https://www.meetup.com/meetup-group-wemNbYEa/events/mnsjzpyzcblb/",
+      "type": "meetup"
+    },
+    {
+      "date": "12th",
       "time": "at 6:45PM",
       "startDate": "2019-03-12",
       "endDate": "2019-03-12",
