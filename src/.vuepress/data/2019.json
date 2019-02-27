@@ -473,18 +473,29 @@
       "name": "Monthly Meetup",
       "eventLink": "https://www.meetup.com/utah-vue/events/phgjnqyzfbjb/",
       "type": "meetup"
-		},
-		{
-			"date": "6th",
-			"startDate": "2019-03-06 08:45",
-			"endDate": "2019-03-06 18:00",
-			"organiser": "Chris Fritz",
-			"organiserLink": "https://www.twitter.com/chrisvfritz",
-			"name": "Proven Patterns for Building Vue Apps",
-			"eventLink": "https://www.eventbrite.es/e/proven-patterns-for-building-vue-apps-tickets-55907735542",
-			"type": "workshop",
-			"location": "Madrid, Spain"
-		},
+    },
+    {
+      "date": "6th",
+      "time": "at 6:00PM",
+      "startDate": "2019-03-06",
+      "endDate": "2019-03-06",
+      "organiser": "Vue.js Poland",
+      "organiserLink": "https://www.meetup.com/Vue-js-Poland/",
+      "name": "Vue.js Poz Meetup #1",
+      "eventLink": "https://www.meetup.com/Vue-js-Poland/events/259189570/",
+      "type": "meetup"
+    },
+    {
+      "date": "6th",
+      "startDate": "2019-03-06 08:45",
+      "endDate": "2019-03-06 18:00",
+      "organiser": "Chris Fritz",
+      "organiserLink": "https://www.twitter.com/chrisvfritz",
+      "name": "Proven Patterns for Building Vue Apps",
+      "eventLink": "https://www.eventbrite.es/e/proven-patterns-for-building-vue-apps-tickets-55907735542",
+      "type": "workshop",
+      "location": "Madrid, Spain"
+    },
     {
       "date": "12th",
       "time": "at 7:00PM",
