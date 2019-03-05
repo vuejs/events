@@ -18,6 +18,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - Date: April 12th - 13th, 2019
 - Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
 
+### [AwesomeConf](https://awesomeconf.dev/)
+
+- Date: May 4th, 2019
+- Location: Bangalore, India
+
 ## Past
 
 ### 2019

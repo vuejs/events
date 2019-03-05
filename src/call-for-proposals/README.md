@@ -34,6 +34,12 @@ This is primarily for attendees of the conference to apply since the application
 - **Event Dates**: March 26th - 27th, 2019
 - **Location**: Tampa, Florida, USA
 
+### [AwesomeConf](https://awesomeconf.dev/)
+
+- **Deadline**: TBA
+- **Event Dates**: May 4th, 2019
+- **Location**: Bangalore, India
+
 ## FAQs
 
 ### How do I add my conference on here?

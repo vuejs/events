@@ -16,6 +16,11 @@ sidebar: auto
 - Date: April 12th - 13th, 2019
 - Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
 
+### [AwesomeConf](https://awesomeconf.dev/)
+
+- Date: May 4th, 2019
+- Location: Bangalore, India
+
 ## Meetups
 
 Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
@@ -55,3 +60,9 @@ This is primarily for attendees of the conference to apply since the application
 - **Deadline**: TBD (but estimate somewhere around March 20th)
 - **Event Dates**: March 26th - 27th, 2019
 - **Location**: Tampa, Florida, USA
+
+### [AwesomeConf](https://awesomeconf.dev/)
+
+- **Deadline**: TBA
+- **Event Dates**: May 4th, 2019
+- **Location**: Bangalore, India
