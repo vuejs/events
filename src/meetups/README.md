@@ -200,6 +200,8 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Chicago - [Chicago Vue.js](https://www.meetup.com/Chicago-Vue-js)
 - Indiana
   - Indianapolis - [Vue.js Indy](https://meetup.com/vuejsindy)
+- Iowa
+	- Cedar Rapids - [Corridor Vue Developers](https://www.meetup.com/Corridor-Vue-Developers/)
 - Massachusetts
 	- Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
