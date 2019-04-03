@@ -680,6 +680,41 @@
       "name": "VueDay",
       "eventLink": "https://2019.vueday.it/",
       "type": "conference"
+    },
+    {
+      "date": "17th",
+      "time": "at 6:00PM",
+      "startDate": "2019-04-17",
+      "endDate": "2019-04-17",
+      "organiser": "Vue.js Frankfurt",
+      "organiserLink": "http://vuejsfrankfurt.de/",
+      "name": "Empowering Vue with TypeScript, Inversify, Vuex and other Super Tools!",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/259759364/",
+      "type": "meetup"
+    },
+    {
+      "date": "18th",
+      "time": "at 7:00PM",
+      "startDate": "2019-04-17",
+      "endDate": "2019-04-17",
+      "organiser": "Vue Vixens DE",
+      "organiserLink": "http://meetup.com/vuevixens",
+      "name": "Vue Vixens DE Berlin Kickoff",
+      "eventLink": "https://www.meetup.com/VueVixens/events/259603231/",
+      "type": "meetup"
     }
+  ],
+"May": [
+    {
+      "date": "6th",
+      "time": "at 6:00PM",
+      "startDate": "2019-05-06",
+      "endDate": "2019-05-06",
+      "organiser": "Vue.js Frankfurt",
+      "organiserLink": "http://vuejsfrankfurt.de/",
+      "name": "Lightning Talks",
+      "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255460193/",
+      "type": "meetup"
+    }	
   ]
 }
