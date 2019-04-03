@@ -47,7 +47,7 @@ module.exports = {
 				items: [
 					{
 						text: 'Twitter',
-						link: 'https://www.twitter.com/vuemeetups'
+						link: 'https://www.twitter.com/vuejs_events'
 					},
 					{
 						text: 'Discord',
