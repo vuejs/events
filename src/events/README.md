@@ -6,11 +6,6 @@ sidebar: auto
 
 ## Conferences
 
-### [VueConfUS](https://vueconf.us)
-
-- Date: March 26th - 27th, 2019
-- Location: [Straz Art Center, Tampa, Florida, USA](https://www.google.com/maps/place/David+A.+Straz,+Jr.+Center+for+the+Performing+Arts/@27.9516845,-82.4663922,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c46055555555:0xbaea2283bc930b0d!8m2!3d27.9516845!4d-82.4642035)
-
 ### [VueDay](https://2019.vueday.it/)
 
 - Date: April 12th - 13th, 2019
@@ -56,15 +51,6 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - **Event Dates**: September 6th, 2019
 - **Location**: Melbourne, Australia
 
-### [VueConfUS 2019](https://vueconf.us/) - Lightning Talks
-
-::: warning Note
-This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
-:::
-
-- **Deadline**: TBD (but estimate somewhere around March 20th)
-- **Event Dates**: March 26th - 27th, 2019
-- **Location**: Tampa, Florida, USA
 
 ### [AwesomeConf](https://awesomeconf.dev/)
 
