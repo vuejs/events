@@ -6,11 +6,6 @@ sidebar: auto
 
 ## Conferences
 
-### [VueConfUS](https://vueconf.us)
-
-- Date: March 26th - 27th, 2019
-- Location: [Straz Art Center, Tampa, Florida, USA](https://www.google.com/maps/place/David+A.+Straz,+Jr.+Center+for+the+Performing+Arts/@27.9516845,-82.4663922,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c46055555555:0xbaea2283bc930b0d!8m2!3d27.9516845!4d-82.4642035)
-
 ### [VueDay](https://2019.vueday.it/)
 
 - Date: April 12th - 13th, 2019
@@ -20,6 +15,11 @@ sidebar: auto
 
 - Date: May 4th, 2019
 - Location: Bangalore, India
+
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- Date: November 11th - 12th, 2019
+- Location: [Marriott Downtown at CF Toronto Eaton Centre](https://www.google.com/maps/place/Marriott+Downtown+at+CF+Toronto+Eaton+Centre/@43.6547284,-79.3824216,15z/data=!4m2!3m1!1s0x0:0x4d90f4cdb4be92f4?sa=X&ved=2ahUKEwifiaarxLThAhVFSq0KHUt9C3YQ_BIwCnoECA8QCA)
 
 ## Meetups
 
@@ -51,18 +51,15 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - **Event Dates**: September 6th, 2019
 - **Location**: Melbourne, Australia
 
-### [VueConfUS 2019](https://vueconf.us/) - Lightning Talks
-
-::: warning Note
-This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
-:::
-
-- **Deadline**: TBD (but estimate somewhere around March 20th)
-- **Event Dates**: March 26th - 27th, 2019
-- **Location**: Tampa, Florida, USA
 
 ### [AwesomeConf](https://awesomeconf.dev/)
 
 - **Deadline**: TBA
 - **Event Dates**: May 4th, 2019
 - **Location**: Bangalore, India
+
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- **Deadline**: June 30th, 2019
+- **Event Dates**: November 11th - 12th, 2019
+- **Location**: Toronto, Canada
