@@ -704,7 +704,7 @@
       "type": "meetup"
     }
   ],
-"May": [
+  "May": [
     {
       "date": "6th",
       "time": "at 6:00PM",
@@ -717,7 +717,7 @@
       "type": "meetup"
     }
   ],
-"November": [
+  "November": [
     {
       "date": "11-12th",
       "startDate": "2019-11-11",
@@ -725,6 +725,6 @@
       "name": "VueConf Toronto",
       "eventLink": "https://vuetoronto.com/",
       "type": "conference"
-    },
+    }
   ]
 }
