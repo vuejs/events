@@ -23,6 +23,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - Date: May 4th, 2019
 - Location: Bangalore, India
 
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- Date: November 11th - 12th, 2019
+- Location: Toronto, Canada
+
 ## Past
 
 ### 2019

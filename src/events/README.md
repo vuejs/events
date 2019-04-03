@@ -21,6 +21,11 @@ sidebar: auto
 - Date: May 4th, 2019
 - Location: Bangalore, India
 
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- Date: November 11th - 12th, 2019
+- Location: [Marriott Downtown at CF Toronto Eaton Centre](https://www.google.com/maps/place/Marriott+Downtown+at+CF+Toronto+Eaton+Centre/@43.6547284,-79.3824216,15z/data=!4m2!3m1!1s0x0:0x4d90f4cdb4be92f4?sa=X&ved=2ahUKEwifiaarxLThAhVFSq0KHUt9C3YQ_BIwCnoECA8QCA)
+
 ## Meetups
 
 Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
@@ -66,3 +71,9 @@ This is primarily for attendees of the conference to apply since the application
 - **Deadline**: TBA
 - **Event Dates**: May 4th, 2019
 - **Location**: Bangalore, India
+
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- **Deadline**: June 30th, 2019
+- **Event Dates**: November 11th - 12th, 2019
+- **Location**: Toronto, Canada

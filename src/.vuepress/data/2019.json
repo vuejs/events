@@ -715,6 +715,16 @@
       "name": "Lightning Talks",
       "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255460193/",
       "type": "meetup"
-    }	
+    }
+  ],
+"November": [
+    {
+      "date": "11-12th",
+      "startDate": "2019-11-11",
+      "endDate": "2019-11-12",
+      "name": "VueConf Toronto",
+      "eventLink": "https://vuetoronto.com/",
+      "type": "conference"
+    },
   ]
 }
