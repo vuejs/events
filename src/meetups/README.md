@@ -251,6 +251,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 - Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- Pará - [Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
 
 ### Colombia
 
