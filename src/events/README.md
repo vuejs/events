@@ -6,15 +6,20 @@ sidebar: auto
 
 ## Conferences
 
-### [VueConf Toronto](https://vuetoronto.com/)
+### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
 
-- Date: November 11th - 12th, 2019
-- Location: Toronto, Canada
+- Date: August 30th. 2019
+- Location: Bangalore, India
 
 ### [Vue London](https://vuejs.london/)
 
 - Dates: October 3rd - 4th, 2019
 - Location:  London, United Kingdom
+
+### [VueConf Toronto](https://vuetoronto.com/)
+
+- Date: November 11th - 12th, 2019
+- Location: Toronto, Canada
 
 ## Meetups
 
