@@ -12,33 +12,17 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [JSConfUS](https://2019.jsconf.us/)
+### [VueConf Toronto](https://vuetoronto.com/)
 
-- **Deadline**: March 1st, 2019
-- **Event Dates**: August 12th - 14th, 2019
-- **Location**: Carslbad, California, USA
+- **Deadline**: June 30th, 2019
+- **Event Dates**: November 11th - 12th, 2019
+- **Location**: Toronto, Canada
 
-### [ComponentsConf](https://www.componentsconf.com.au/)
+### [Vue London](https://vuejs.london/cfp/)
 
-- **Deadline**: April 6th, 2019
-- **Event Dates**: September 6th, 2019
-- **Location**: Melbourne, Australia
-
-### [VueConfUS 2019](https://vueconf.us/) - Lightning Talks
-
-::: warning Note
-This is primarily for attendees of the conference to apply since the application deadline and selection will occur within a week of the conference.
-:::
-
-- **Deadline**: TBD (but estimate somewhere around March 20th)
-- **Event Dates**: March 26th - 27th, 2019
-- **Location**: Tampa, Florida, USA
-
-### [AwesomeConf](https://awesomeconf.dev/)
-
-- **Deadline**: TBA
-- **Event Dates**: May 4th, 2019
-- **Location**: Bangalore, India
+- **Deadline**: July 26th, 2019
+- **Event Dates**: October 3rd - 4th, 2019
+- **Location**:  London, United Kingdom
 
 ## FAQs
 

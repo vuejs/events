@@ -39,27 +39,14 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### [JSConfUS](https://2019.jsconf.us/)
-
-- **Deadline**: March 1st, 2019
-- **Event Dates**: August 12th - 14th, 2019
-- **Location**: Carslbad, California, USA
-
-### [ComponentsConf](https://www.componentsconf.com.au/)
-
-- **Deadline**: April 6th, 2019
-- **Event Dates**: September 6th, 2019
-- **Location**: Melbourne, Australia
-
-
-### [AwesomeConf](https://awesomeconf.dev/)
-
-- **Deadline**: TBA
-- **Event Dates**: May 4th, 2019
-- **Location**: Bangalore, India
-
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - **Deadline**: June 30th, 2019
 - **Event Dates**: November 11th - 12th, 2019
 - **Location**: Toronto, Canada
+
+### [Vue London](https://vuejs.london/cfp/)
+
+- **Deadline**: July 26th, 2019
+- **Event Dates**: October 3rd - 4th, 2019
+- **Location**:  London, United Kingdom
