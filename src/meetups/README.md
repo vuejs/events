@@ -115,7 +115,8 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Israel
 
-- Sderot - [GoCode in Sderot](https://www.meetup.com/GoCode-in-Sderot/)
+- Tel Aviv - [VueJS Israel](https://www.vuejsisrael.com)
+- Sderot - [GoCode in Sderot](https://www.meetup.com/vue-js/)
 
 ### Italy
 

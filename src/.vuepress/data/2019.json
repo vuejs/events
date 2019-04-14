@@ -715,6 +715,17 @@
       "name": "Lightning Talks",
       "eventLink": "https://www.meetup.com/vuejsfrankfurt/events/255460193/",
       "type": "meetup"
+    },
+    {
+      "date": "13rd",
+      "time": "at 6:30PM",
+      "startDate": "2019-05-13",
+      "endDate": "2019-05-13",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://vuejsisrael.com/",
+      "name": "May the Vue be with you - New beginning 🎉🎉",
+      "eventLink": "https://www.meetup.com/vue-js/events/259354986/",
+      "type": "meetup"
     }
   ],
   "November": [
