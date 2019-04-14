@@ -6,20 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [VueDay](https://2019.vueday.it/)
-
-- Date: April 12th - 13th, 2019
-- Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
-
-### [AwesomeConf](https://awesomeconf.dev/)
-
-- Date: May 4th, 2019
-- Location: Bangalore, India
-
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
-- Location: [Marriott Downtown at CF Toronto Eaton Centre](https://www.google.com/maps/place/Marriott+Downtown+at+CF+Toronto+Eaton+Centre/@43.6547284,-79.3824216,15z/data=!4m2!3m1!1s0x0:0x4d90f4cdb4be92f4?sa=X&ved=2ahUKEwifiaarxLThAhVFSq0KHUt9C3YQ_BIwCnoECA8QCA)
+- Location: Toronto, Canada
+
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 3rd - 4th, 2019
+- Location:  London, United Kingdom
 
 ## Meetups
 

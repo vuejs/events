@@ -8,25 +8,29 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
+### [VueConf Toronto](https://vuetoronto.com/)
 
-### [VueDay](https://2019.vueday.it/)
+- Date: November 11th - 12th, 2019
+- Location: Toronto, Canada
 
-- Date: April 12th - 13th, 2019
-- Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 3rd - 4th, 2019
+- Location:  London, United Kingdom
+
+## Past
+
+### 2019
 
 ### [AwesomeConf](https://awesomeconf.dev/)
 
 - Date: May 4th, 2019
 - Location: Bangalore, India
 
-### [VueConf Toronto](https://vuetoronto.com/)
+### [VueDay](https://2019.vueday.it/)
 
-- Date: November 11th - 12th, 2019
-- Location: Toronto, Canada
-
-## Past
-
-### 2019
+- Date: April 12th - 13th, 2019
+- Location: [Hotel San Marco, Verona, Italy](https://www.google.com/maps/place/San+Marco/@45.439915,10.9719744,15z/data=!4m5!3m4!1s0x0:0xe22aa957cb43cd25!8m2!3d45.439915!4d10.9719744)
 
 #### [VueConfUS](https://vueconf.us)
 
