@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.5.0-alpha - 2019.04.21
 ### Added
 - New Event issue template
+### Changed
+- Made file naming consistent for issue templates
 
 ## 0.4.0-alpha - 2019.02.26
 ### Added
