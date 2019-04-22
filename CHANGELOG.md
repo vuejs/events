@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 0.1.0-beta - 2019.04.22
+### Added
+- Easier mechanism for managing CFPs
+
 ## 0.5.0-alpha - 2019.04.21
 ### Added
 - New Event issue template
