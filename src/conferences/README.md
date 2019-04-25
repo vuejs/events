@@ -8,6 +8,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
+### [VueDay Alicante 2019](http://vueday.org)
+
+- Date: May 31st. 2019
+- Location: Alicante, Spain
+
 ### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
 
 - Date: August 30th. 2019
