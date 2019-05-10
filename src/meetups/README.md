@@ -22,6 +22,10 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Dakar - [Vuejs Dakar](https://www.facebook.com/Vuejs-Dakar-179873696299957)
 
+### South Africa
+
+- Cape Town - [Vue.js in Cape Town](https://web.facebook.com/vuejsincpt/)
+
 ## Asia
 
 ### China
