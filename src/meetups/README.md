@@ -252,13 +252,14 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ### Brazil
 
-- São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
 - Belo Horizonte - [Vue.js @ Belo Horizonte](https://meetup.com/Vuejs-at-BH)
-- Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
-- Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
-- Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
+- Curitiba - [Vue Curitiba](https://www.meetup.com/pt-BR/Vue-Curitiba/)
 - Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
 - Pará - [Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
+- Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
+- Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
+- São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
 
 ### Colombia
 
