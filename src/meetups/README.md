@@ -32,9 +32,13 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
 
-### Hong Kong
+#### Hong Kong
 
 - Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
+
+#### Taiwan
+
+- Taipei - [Vue.js Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
 ### India
 
@@ -54,10 +58,6 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 ### Singapore
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
-
-### Taiwan
-
-- Taiwan - [Vue.JS Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
 ### Thailand
 
@@ -225,7 +225,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
   - Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
 - Pennsylvania
-  - Philadelphia - [Vue Philly](https://www.meetup.com/vue-philly/)  
+  - Philadelphia - [Vue Philly](https://www.meetup.com/vue-philly/)
 - South Carolina
   - Charleston - [Charleston Vue.js](https://www.meetup.com/Charleston-Vue-js/)
   - Myrtle Beach - [Myrtle Beach Vue.js Meetup](https://www.meetup.com/myrtle-beach-vue-javascript-meetup/)
