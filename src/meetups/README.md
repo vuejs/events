@@ -4,7 +4,7 @@ sidebar: auto
 
 # Meetups
 
-To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups).
+To add yours to the list, please [open an issue](https://github.com/vuejs/events/issues/new/choose) or submit a PR to the [repo](https://github.com/vuejs/events).
 
 And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
 
