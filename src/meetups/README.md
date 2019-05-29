@@ -32,13 +32,9 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
 
-#### Hong Kong
+### Hong Kong
 
 - Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
-
-#### Taiwan
-
-- Taipei - [Vue.js Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
 ### India
 
@@ -59,12 +55,17 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 - Singapore - [Vue JS Singapore](https://meetup.com/Vue-JS-Singapore)
 
+### South Korea
+
+- South Korea - [Vue.js Korea](https://www.facebook.com/groups/1152461054807344/)
+
 ### Thailand
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
 
-### South Korea
-- South Korea - [Vue.js Korea](https://www.facebook.com/groups/1152461054807344/)
+### Taiwan
+
+- Taipei - [Vue.js Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
 ## Australia
 
