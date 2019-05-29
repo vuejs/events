@@ -91,6 +91,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
 
+### Finland
+
+- Helsinki - [Vue.js Finland](https://www.meetup.com/vuejs-finland/)
+
 ### France
 
 - Lyon - [Vue.js Lyon](https://www.meetup.com/Vue-js-Lyon/)
