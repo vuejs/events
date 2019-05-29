@@ -6,7 +6,7 @@ sidebar: auto
 
 ## Introduction
 
-VueMeetups is an effort to centralize all local community efforts for Vue.js and to help continue foster and nurture the amazing community we already have. And while we have "meetup" in our name and use it often, this effort is not limited to Meetup.com events. With that said, welcome and be sure to reach out if you have any questions or feedback!
+Vue.js Events is an effort to centralize all local community efforts for Vue.js and to help continue foster and nurture the amazing community we already have. And while we have "meetup" in our name and use it often, this effort is not limited to Meetup.com events. With that said, welcome and be sure to reach out if you have any questions or feedback!
 
 ## Getting Started
 
@@ -115,7 +115,7 @@ This is the single most important item any organizer needs to secure with absolu
 The biggest misconception about meetup events is that you always need a speaker. Nothing could be further from the truth. What you actually need is a group of people with an interest in Vue.js and a basic agenda so people know why they are coming.
 
 ::: tip Coming Soon
-The following contains some basic ideas for the event, but VueMeetups will be providing more thorough guides on each format in the near future. So be sure to check back for updates!
+The following contains some basic ideas for the event, but Vue.js Events will be providing more thorough guides on each format in the near future. So be sure to check back for updates!
 :::
 
 So when you are planning your next event, consider the following options:

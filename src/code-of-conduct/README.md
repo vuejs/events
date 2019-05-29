@@ -48,7 +48,7 @@ All workshop instructors are expected to provide a safe environment for all part
 
     * For particularly hopeless and offensive people, we reserve the right to take action without issuing a warning to preserve the peace. Once again, no complaints or tears.
 
-5.  **If someone's behavior is upsetting you, let us know.** We can and will intervene. Don't try to be a hero and bottle it up inside. Friction between two participants can disrupt the entire class's dynamic. The sooner it's addressed, the healthier and happier all participants will be. Contact us at [@vuemeetups](https://www.twitter.com/vuemeetups), and we will privately hear you out.
+5.  **If someone's behavior is upsetting you, let us know.** We can and will intervene. Don't try to be a hero and bottle it up inside. Friction between two participants can disrupt the entire class's dynamic. The sooner it's addressed, the healthier and happier all participants will be. Contact us at [@vuejs_events](https://twitter.com/vuejs_events), and we will privately hear you out.
 
 ## Template
 

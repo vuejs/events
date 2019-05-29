@@ -23,7 +23,7 @@ sidebar: auto
 
 ## Meetups
 
-Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://www.twitter.com/vuemeetups) and would be glad to help spread word if you let us know about your event!
+Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://twitter.com/vuejs_events) and would be glad to help spread word if you let us know about your event!
 
 ::: tip
 Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sure we can find and retweet your meetup!
