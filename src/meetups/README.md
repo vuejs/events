@@ -77,6 +77,12 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Melbourne - [Vuers in Melbourne](https://meetup.com/Vuers-in-Melbourne)
 - Melbourne - [Melbourne Vue.js Meetup](https://meetup.com/vuejs-melbourne)
 
+## Central America
+
+### Costa Rica
+
+- San Jose - [Vue Costa Rica](https://www.meetup.com/Vue-Costa-Rica/)
+
 ## Europe
 
 ### Austria
