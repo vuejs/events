@@ -238,6 +238,8 @@ The following list prioritizes users' ability to quickly locate the regions they
   - San Antonio - [VueSA](https://meetup.com/meetup-group-mltMsxBD)
 - Utah
   - Salt Lake City - [Utah Vue.js Meetup](https://meetup.com/utah-vue)
+- Washington
+  - Seattle - [SeattleVueJS](https://www.meetup.com/SeattleVueJS)
 - Washington D.C.
   - DC Metro Area - [Vue DC](https://meetup.com/Vue-DC)
 
