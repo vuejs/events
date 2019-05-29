@@ -28,7 +28,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 
 ## Asia
 
-### China
+### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
 
