@@ -26,10 +26,6 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ## Asia
 
-### Mainland China
-
-- Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
-
 ### Hong Kong
 
 - Hong Kong - [Vue.js Hong Kong](https://www.facebook.com/groups/887185518120024/)
@@ -44,6 +40,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
 - Tokyo - [Meetup Tokyo Vue.js - MTV](https://www.meetup.com/Tokyo-Vue-Meetup/)
 - Kansai - [v-kansai Vue.js/Nuxt.js meetup](https://vuekansai.connpass.com/)
+
+### Mainland China
+
+- Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
 
 ### Philippines
 
