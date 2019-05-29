@@ -6,15 +6,13 @@ sidebar: auto
 
 To add yours to the list, please [open an issue](https://github.com/bencodezen/vue-meetups/issues/new) or submit a PR to the [repo](https://github.com/bencodezen/vue-meetups).
 
-::: tip FYI
-The list below consists of Meetups that we are currently aware of, but we have not yet verified if they are still active.
+And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
 
 Many thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for the list that got us started!
 
-In order to help preserve the integrity of the Vue.js community, this page will eventually only contain meetups that have been verified.
+::: tip Disclaimer
+The following list prioritizes users' ability to quickly locate the regions they identify with - the structure does not imply any specific political views.
 :::
-
-And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
 
 ## Africa
 
