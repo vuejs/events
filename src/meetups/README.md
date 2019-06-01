@@ -157,6 +157,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Russia
 
 - Moscow - [Moscow Vue.js Meetup](https://meetup.com/vue-js-moscow)
+- Moscow - MSK VUE.JS [(ENG)](https://www.meetup.com/MSK-VUE-JS/) / [(RUS)](https://voximplant.timepad.ru/event/986750/)
 
 ### Slovenia
 
