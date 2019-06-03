@@ -39,6 +39,10 @@ module.exports = {
 					{
 						text: 'Code of Conduct',
 						link: '/code-of-conduct/'
+					},
+					{
+						text: 'Event Graphics',
+						link: '/resources/#event-graphics'
 					}
 				]
 			},
