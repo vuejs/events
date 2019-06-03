@@ -198,3 +198,13 @@ So here are some strategies to ease people's mind:
 1. **Speak with them.** If they know that they only have to do part of a talk, it make the idea much more approachable.
 
 2. **Help them craft a topic.** What people often don't understand is that they have a lot of topics they could talk about. Whether it's case studies, or personal projects, work with them to come up with a topic so they don't feel the burden of doing it all by themselves.
+
+## Event Graphics
+
+These are fairly generic event graphics that can be reused. They are all at the dimensions used by Meetup.com ([example](https://www.meetup.com/vuejsindy/events/261422246)).
+
+Due to most file sizes being too large to host on GitHub, we have stored them in a shared Google Drive:
+
+* https://drive.google.com/drive/folders/0B1ovWdH4ntFvUXNTRVB2MG1odWc?usp=sharing
+
+The source files are all made in [Photopea](https://photopea.com) (free, browser-based alternative to Photoshop). Everything is on layers and text can be changed to say whatever you want for your event.
