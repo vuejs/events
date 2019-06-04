@@ -205,6 +205,6 @@ These are fairly generic event graphics that can be reused. They are all at the 
 
 Due to most file sizes being too large to host on GitHub, we have stored them in a shared Google Drive:
 
-* https://drive.google.com/drive/folders/0B1ovWdH4ntFvUXNTRVB2MG1odWc?usp=sharing
+* [Event Graphics and Source Files](https://drive.google.com/drive/folders/0B1ovWdH4ntFvUXNTRVB2MG1odWc?usp=sharing) (Google Drive)
 
 The source files are all made in [Photopea](https://photopea.com) (free, browser-based alternative to Photoshop). Everything is on layers and text can be changed to say whatever you want for your event.
