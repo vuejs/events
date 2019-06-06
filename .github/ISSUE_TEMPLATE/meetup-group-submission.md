@@ -1,5 +1,5 @@
 ---
-name: meetup-group-submission
+name: Meetup Group Submission
 about: Submit your new meetup group!
 title: ''
 labels: ''
