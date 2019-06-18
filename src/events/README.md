@@ -21,6 +21,11 @@ sidebar: auto
 - Dates: October 3rd - 4th, 2019
 - Location:  London, United Kingdom
 
+### [Vuecamp Germany](https://vuecamp.de/)
+
+- Dates: October 26th - 27th, 2019
+- Location:  Berlin, Germany
+
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
