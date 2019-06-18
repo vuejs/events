@@ -728,6 +728,32 @@
       "type": "meetup"
     }
   ],
+  "Jul": [
+    {
+      "date": "31st",
+      "time": "at 6:30PM",
+      "startDate": "2019-07-31",
+      "endDate": "2019-07-31",
+      "organiser": "Progressive Web Apps with modern frameworks",
+      "organiserLink": "https://www.meetup.com/Progressive-Web-Apps-with-modern-frameworks/",
+      "name": "Build Progressive Web Apps with Vue.js",
+      "eventLink": "https://www.meetup.com/Progressive-Web-Apps-with-modern-frameworks/events/262390784/",
+      "type": "meetup"
+    }
+  ],
+  "Aug": [
+    {
+      "date": "13th",
+      "time": "at 6:30PM",
+      "startDate": "2019-08-13",
+      "endDate": "2019-08-13",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://vuejsisrael.com/",
+      "name": "August meetup - Are you Nuxt?",
+      "eventLink": "https://www.meetup.com/vue-js/events/262090552/",
+      "type": "meetup"
+    }
+  ],
   "November": [
     {
       "date": "11-12th",
