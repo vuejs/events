@@ -31,6 +31,11 @@ sidebar: auto
 - Date: November 11th - 12th, 2019
 - Location: Toronto, Canada
 
+### [INTERCOM VUE.JS](https://vue.intercomconf.com/)
+
+- Date: November 14th, 2019
+- Location: Moscow, Russia
+
 ## Meetups
 
 Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://twitter.com/vuejs_events) and would be glad to help spread word if you let us know about your event!
