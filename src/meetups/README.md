@@ -240,6 +240,7 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Philadelphia - [Vue Philly](https://www.meetup.com/vue-philly/)
 - South Carolina
   - Charleston - [Charleston Vue.js](https://www.meetup.com/Charleston-Vue-js/)
+  - Columbia - [Columbia Vue.js Meetup Group](https://www.meetup.com/Columbia-Vue-js-Meetup-Group/)
   - Myrtle Beach - [Myrtle Beach Vue.js Meetup](https://www.meetup.com/myrtle-beach-vue-javascript-meetup/)
 - Texas
   - Austin - [Austin Vue.js](https://www.meetup.com/The-Austin-Vue-js-Meetup/)
