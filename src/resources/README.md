@@ -166,6 +166,14 @@ If your event is on a weekday, remember that people often don't get off of work 
 
 We highly recommend that you give attendees 30 minutes of flex time as things like traffic and late meetings inevitably happen. So when scheduling your agenda, let people know when the "doors will open" and when the official event starts.
 
+#### The Pac-Man rule
+
+The Pac-Man Rule is, as mentioned in Eric Holscher's blog post, [The Pac-Man Rule at Conferences]("https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/"):
+
+>When standing as a group of people, always leave room for 1 person to join your group.
+
+This is a best practice method if you want to keep your event inclusive. This helps attendees, especially newcomers feel more welcomed and included.
+
 ## Speakers' Handbook
 
 Let's face it, speaking is terrifying. Don't you worry though, this whole section is dedicated to helping you take that first step.
