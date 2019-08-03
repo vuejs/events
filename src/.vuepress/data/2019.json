@@ -765,6 +765,19 @@
       "type": "meetup"
     }
   ],
+  "September": [
+    {
+      "date": "19th",
+      "time": "at 7:00PM",
+      "startDate": "2019-09-19",
+      "endDate": "2019-09-19",
+      "organiser": "MSK VUE.JS",
+      "organiserLink": "https://msk-vuejs.ru/",
+      "name": "MSK VUE.JS MEETUP#3",
+      "eventLink": "https://www.meetup.com/MSK-VUE-JS/events/261865695/",
+      "type": "meetup"
+    }
+  ],
   "November": [
     {
       "date": "11-12th",
