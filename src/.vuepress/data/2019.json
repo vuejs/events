@@ -752,6 +752,17 @@
       "name": "August meetup - Are you Nuxt?",
       "eventLink": "https://www.meetup.com/vue-js/events/262090552/",
       "type": "meetup"
+    },
+    {
+      "date": "15th",
+      "time": "at 7:00PM",
+      "startDate": "2019-08-15",
+      "endDate": "2019-08-15",
+      "organiser": "MSK VUE.JS",
+      "organiserLink": "https://msk-vuejs.ru/",
+      "name": "MSK VUE.JS MEETUP#2",
+      "eventLink": "https://www.meetup.com/MSK-VUE-JS/events/261865578/",
+      "type": "meetup"
     }
   ],
   "November": [
