@@ -67,6 +67,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Taipei - [Vue.js Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
+### Vietnam
+
+- Vietnam - [Vue.js Vietnam](https://www.meetup.com/vuejs-vietnam/)
+
 ## Australia
 
 ### New South Wales
