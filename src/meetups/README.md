@@ -124,6 +124,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Nürnberg - [Vue.js // Nürnberg, Fürth, Erlangen](https://meetup.com/vue-nfe)
 - Stuttgart - [Stuttgart Vue.js Meetup](https://www.meetup.com/Stuttgart-Vue-js-Meetup/)
 
+### Greece
+
+- Athens - [VueJS Athens](https://www.meetup.com/vuejsathens/)
+
 ### Hungary
 
 - Budapest - [Vue.js Budapest](https://meetup.com/Vue-js-Budapest)
