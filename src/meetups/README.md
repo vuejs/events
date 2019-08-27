@@ -231,7 +231,7 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
   - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
-	- Ann Arbor - [Michigan Vue](https://www.meetup.com/Michigan-Vue/)
+  - Ann Arbor - [Michigan Vue](https://www.meetup.com/Michigan-Vue/)
 - Minnesota
   - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
 - New York
