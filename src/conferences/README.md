@@ -28,6 +28,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - Dates: October 3rd - 4th, 2019
 - Location:  London, United Kingdom
 
+### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+
+- Dates: October 12th, 2019
+- Location:  Tokyo, Japan
+
 ### [Vuecamp Germany](https://vuecamp.de/)
 
 - Dates: October 26th - 27th, 2019
