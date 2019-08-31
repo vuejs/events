@@ -39,7 +39,7 @@ Some examples include:
 * Melbourne Vue.js Meetup
 * VueJS Amsterdam
 
-Check out what [other meetups](/find/) named themselves if you need more inspiration!
+Check out what [other meetups](/meetups/) named themselves if you need more inspiration!
 
 ::: tip
 You're more than welcome to be more creative, but keeping it as simple as possible will help people easily find and remember it!
@@ -168,7 +168,7 @@ We highly recommend that you give attendees 30 minutes of flex time as things li
 
 #### The Pac-Man rule
 
-The Pac-Man Rule is, as mentioned in Eric Holscher's blog post, [The Pac-Man Rule at Conferences]("https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/"):
+The Pac-Man Rule is, as mentioned in Eric Holscher's blog post, [The Pac-Man Rule at Conferences](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/):
 
 >When standing as a group of people, always leave room for 1 person to join your group.
 
