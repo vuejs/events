@@ -211,7 +211,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - California
   - Los Angeles - [Vue.js LA](https://www.meetup.com/VuejsLA/)
-  - San Diego - [San Diego VueJS Meetup](https://meetup.com/San-Diego-VueJS-Meetup)
+  - San Diego - [Vue SD](https://www.meetup.com/sandiegojs/)
   - San Francisco - [Vue.sf](https://meetup.com/vue-sf)
   - San Francisco - [San Francisco Vue.js Meetup](https://meetup.com/VuejsSF)
 - Colorado
