@@ -6,11 +6,6 @@ sidebar: auto
 
 ## Conferences
 
-### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
-
-- Date: August 30th, 2019
-- Location: Bangalore, India
-
 ### [Vue London](https://vuejs.london/)
 
 - Dates: October 3rd - 4th, 2019
