@@ -168,9 +168,7 @@ We highly recommend that you give attendees 30 minutes of flex time as things li
 
 #### The Pac-Man rule
 
-The Pac-Man Rule is, as mentioned in Eric Holscher's blog post, [The Pac-Man Rule at Conferences](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/):
-
->When standing as a group of people, always leave room for 1 person to join your group.
+The Pac-Man Rule is a term that describes when you are standing with a group of people, make room for another person to join the circle. When that person joins the circle, to continuously leave room for another, in a shape of a Pac-Man's mouth. 
 
 This is a best practice method if you want to keep your event inclusive. This helps attendees, especially newcomers feel more welcomed and included.
 
