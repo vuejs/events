@@ -47,7 +47,7 @@ You're more than welcome to be more creative, but keeping it as simple as possib
 
 ### 2. Grab All The Branding Things!
 
-Now that you've decided on a name, it's time to grab all the branding thingsWhen it comes to getting the word out about your group and the meetups, there's no substitute for having the proper social media tools. There are a few major ones you want to get to make your life easier:
+Now that you've decided on a name, it's time to grab all the branding things. When it comes to getting the word out about your group and the meetups, there's no substitute for having the proper social media tools. There are a few major ones you want to get to make your life easier:
 
 * Google (for email and potential YouTube possibilities)
 * Twitter
@@ -133,7 +133,7 @@ While this can increase attendance, this is **completely, absolutely, 100% optio
 
 Basic guidance for food and drinks is the following:
 
-1.  If you are only planning on serving snacks (i.e., chips, cookies, etc), use the phrase "snacks and drinks will be provided" instead of "food and drinks will be provided." You will disappoint people expecting dinner if you say the wrong phrase.
+1.  If you are only planning on serving snacks (i.e., chips, cookies, etc), use the phrase "snacks and drinks will be provided" instead of "food and drinks will be provided". You will disappoint people expecting dinner if you say the wrong phrase.
 
 2.  If you plan on serving alcohol, please be sensitive to those who do not drink alcohol and have alternatives.
 
@@ -168,9 +168,14 @@ We highly recommend that you give attendees 30 minutes of flex time as things li
 
 #### The Pac-Man rule
 
-The Pac-Man Rule is a term that describes when you are standing with a group of people, make room for another person to join the circle. When that person joins the circle, to continuously leave room for another, in a shape of a Pac-Man's mouth. 
+The Pac-Man Rule is a term that describes when you are standing with a group of people, make room for another person to join the circle. When that person joins the circle, to continuously leave room for another, in a shape of a Pac-Man's mouth.
 
 This is a best practice method if you want to keep your event inclusive. This helps attendees, especially newcomers feel more welcomed and included.
+
+#### Visual / Banner
+Try to have a visual/banner that's directly related to specific meetup edition, with the list of speakers, date etc.
+
+If people just see "Vuejs X Meetup", they don't click on it. With a specific visual/banner even those who don't click will know what you're organizing.
 
 ## Speakers' Handbook
 
