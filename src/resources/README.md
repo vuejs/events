@@ -168,9 +168,14 @@ We highly recommend that you give attendees 30 minutes of flex time as things li
 
 #### The Pac-Man rule
 
-The Pac-Man Rule is a term that describes when you are standing with a group of people, make room for another person to join the circle. When that person joins the circle, to continuously leave room for another, in a shape of a Pac-Man's mouth. 
+The Pac-Man Rule is a term that describes when you are standing with a group of people, make room for another person to join the circle. When that person joins the circle, to continuously leave room for another, in a shape of a Pac-Man's mouth.
 
 This is a best practice method if you want to keep your event inclusive. This helps attendees, especially newcomers feel more welcomed and included.
+
+#### Visual / Banner
+Try to have a visual/banner that's directly related to specific meetup edition, with the list of speakers, date etc.
+
+If people just see "Vuejs X Meetup", they don't click on it. With a specific visual/banner even those who don't click will know what you're organizing.
 
 ## Speakers' Handbook
 
