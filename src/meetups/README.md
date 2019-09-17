@@ -94,6 +94,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Vienna - [Vue.js Vienna](https://meetup.com/Vue-js-Vienna)
 
+### Belgium
+
+- Antwerp - [Vue.js Antwerp](https://www.meetup.com/Vue-js-Antwerp/)
+
 ### Bulgaria
 
 - Bulgaria - [Vue.js Bulgaria](https://vuebulgaria.com)
