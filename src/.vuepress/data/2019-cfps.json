@@ -1,17 +1,15 @@
 {
 	"active": [
-    {
-      "name": "VueConf US",
-      "website": "http://vueconf.us/",
-      "cfp": {
-        "deadline": "October 15th, 2019",
-        "website": "http://vueconf.us/call-for-papers/"
-	    },
+		{
+			"name": "VueConf US",
+			"website": "http://vueconf.us/",
+			"cfp": {
+				"deadline": "October 15th, 2019",
+				"website": "http://vueconf.us/call-for-papers/"
+			},
 			"dates": "March 2nd-4th, 2020",
 			"location": "Austin, Texas"
-    },
-  ],
-  "inactive": [
-
-  ]
+		}
+	],
+	"inactive": []
 }
