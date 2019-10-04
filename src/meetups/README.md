@@ -36,6 +36,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
 - Pune - [VueJS Pune](https://www.meetup.com/VueJS-Pune/)
 
+### Iran
+
+- Tehran - [Vue.js Tehran Meetup](https://vuejsconf.ir/)
+
 ### Japan
 
 - Tokyo - [Vue.js Tokyo v-meetup](https://vuejs-meetup.connpass.com/)
