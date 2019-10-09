@@ -11,5 +11,36 @@
 			"location": "Austin, Texas"
 		}
 	],
-	"inactive": []
+	"inactive": [
+		{
+      "name": "ConnectTech",
+      "website": "http://connect.tech/",
+      "cfp": {
+				"deadline": "May 15th, 2019",
+				"website": "http://connect.tech/cfp/"
+			},
+			"dates": "October 16th-18th, 2019",
+			"location": "Atlanta, Georgia"
+    },
+    {
+      "name": "VueConf Toronto",
+      "website": "https://vuetoronto.com/",
+      "cfp": {
+        "deadline": "June 30th, 2019",
+        "website": "https://vuetoronto.com/call-for-papers/"
+      },
+      "dates": "November 11th-12th, 2019",
+      "location": "Toronto, Canada"
+    },
+    {
+      "name": "Vue London",
+      "website": "https://vuejs.london/",
+      "cfp": {
+        "deadline": "July 26th, 2019",
+        "website": "https://vuejs.london/cfp/"
+      },
+      "dates": "October 3rd-4th, 2019",
+      "location": "London, United Kingdom"
+    }
+	]
 }
