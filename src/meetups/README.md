@@ -288,6 +288,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Curitiba - [Vue Curitiba](https://www.meetup.com/pt-BR/Vue-Curitiba/)
 - Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 - Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
+- Juazeiro - [Vue Sertão](https://www.meetup.com/pt-BR/vuejs-sertao/)
 - Pará - [Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
