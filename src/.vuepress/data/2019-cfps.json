@@ -1,6 +1,18 @@
 {
-  "active": [
-    {
+	"active": [
+		{
+			"name": "VueConf US",
+			"website": "http://vueconf.us/",
+			"cfp": {
+				"deadline": "October 15th, 2019",
+				"website": "http://vueconf.us/call-for-papers/"
+			},
+			"dates": "March 2nd-4th, 2020",
+			"location": "Austin, Texas"
+		}
+	],
+	"inactive": [
+		{
       "name": "ConnectTech",
       "website": "http://connect.tech/",
       "cfp": {
@@ -30,8 +42,5 @@
       "dates": "October 3rd-4th, 2019",
       "location": "London, United Kingdom"
     }
-  ],
-  "inactive": [
-
-  ]
+	]
 }
