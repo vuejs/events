@@ -1,6 +1,15 @@
 {
 	"active": [
 		{
+			"name": "Vue.js Amsterdam",
+			"website": "https://vuejs.amsterdam/",
+			"cfp": {
+				"website": "https://docs.google.com/forms/d/e/1FAIpQLSea-4PlOhhRw_k6bOsU0GawkcywHb4uCgH-MTmbSIEkdu7zKA/viewform"
+			},
+			"dates": "February 20th-21st, 2020",
+			"location": "Amsterdam, Netherlands"
+		},
+		{
 			"name": "VueConf US",
 			"website": "http://vueconf.us/",
 			"cfp": {
