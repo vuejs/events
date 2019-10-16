@@ -1,0 +1,33 @@
+{
+	"active": [
+		{
+			"name": "VueConf US",
+			"website": "http://vueconf.us/",
+			"cfp": {
+				"deadline": "October 15th, 2019",
+				"website": "http://vueconf.us/call-for-papers/"
+			},
+			"dates": "March 2nd-4th, 2020",
+			"location": "Austin, Texas"
+		},
+		{
+			"name": "VueDay",
+			"website": "https://2020.vueday.it/",
+			"cfp": {
+				"deadline": "November 30th, 2019",
+				"website": "https://docs.google.com/forms/d/e/1FAIpQLSfnRUBnNUFtqxue2HX_buJNfu7wRo8rgBZNUbQtOn4xZMXopg/viewform"
+			},
+			"dates": "April 3rd, 2020",
+			"location": "Verona, Italy"
+		},
+		{
+			"name": "Vue.js Amsterdam",
+			"website": "https://vuejs.amsterdam/",
+			"cfp": {
+				"website": "https://docs.google.com/forms/d/e/1FAIpQLSea-4PlOhhRw_k6bOsU0GawkcywHb4uCgH-MTmbSIEkdu7zKA/viewform"
+			},
+			"dates": "February 20th-21st, 2020",
+			"location": "Amsterdam, Netherlands"
+		}
+	]
+}
