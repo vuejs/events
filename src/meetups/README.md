@@ -193,6 +193,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
 - Basel - [Vue Basel](https://www.meetup.com/Vue-Basel)
+- Bern - [Vue Berne](https://www.meetup.com/Vue-Bern/)
 
 ### Ukraine
 
