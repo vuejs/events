@@ -111,6 +111,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
 
+### Denmark
+
+- Aarhus - [Vue.js Aarhus](https://www.meetup.com/vue-js-aarhus/)
+
 ### Finland
 
 - Helsinki - [Vue.js Finland](https://www.meetup.com/vuejs-finland/)
