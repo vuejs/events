@@ -786,6 +786,14 @@
       "name": "VueConf Toronto",
       "eventLink": "https://vuetoronto.com/",
       "type": "conference"
+    },
+    {
+      "date": "9th",
+      "startDate": "2019-11-09",
+      "endDate": "2019-11-09",
+      "name": "VueBLR",
+      "eventLink": "https://blr.vue.community/",
+      "type": "meetup"
     }
   ]
 }
