@@ -789,11 +789,29 @@
     },
     {
       "date": "9th",
+      "time": "at 2:00PM",
       "startDate": "2019-11-09",
       "endDate": "2019-11-09",
-      "name": "VueBLR",
-      "eventLink": "https://blr.vue.community/",
-      "type": "meetup"
+      "name": "VueBLR #20",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://blr.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/265498083/",
+			"type": "meetup",
+      "location": "Bangalore, India"
+    }
+  ],
+  "December": [
+    {
+      "date": "14th",
+      "time": "at 2:00PM",
+      "startDate": "2019-12-14",
+      "endDate": "2019-12-14",
+      "name": "VueBLR #21",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://blr.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/265661584/",
+			"type": "meetup",
+      "location": "Bangalore, India"
     }
   ]
 }
