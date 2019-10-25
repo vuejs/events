@@ -33,7 +33,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
-- Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
+- Hyderabad - [Vue Hyderabad](https://www.meetup.com/vue-hyderabad)
 - Pune - [VueJS Pune](https://www.meetup.com/VueJS-Pune/)
 
 ### Iran
