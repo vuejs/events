@@ -798,6 +798,18 @@
       "eventLink": "https://www.meetup.com/vue-bangalore/events/265498083/",
 			"type": "meetup",
       "location": "Bangalore, India"
+    },
+    {
+      "date": "16th",
+      "time": "at 2:00PM",
+      "startDate": "2019-11-16",
+      "endDate": "2019-11-16",
+      "name": "VueHYD #1 - Assemble",
+      "organiser": "Vue Hyderabad",
+      "organiserLink": "https://hyd.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-hyderabad/events/265812284",
+			"type": "meetup",
+      "location": "Hyderabad, India"
     }
   ],
   "December": [
