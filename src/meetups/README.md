@@ -51,6 +51,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
+- Shanghai - [VueJS Shanghai](http://sh.vuejs.city/)
 
 ### Philippines
 
