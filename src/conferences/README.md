@@ -8,29 +8,34 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### [Vue London](https://vuejs.london/)
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
 
-- Dates: October 3rd - 4th, 2019
-- Location:  London, United Kingdom
+- Dates: November 20th - 21th, 2019
+- Location:  Amsterdam, The Netherlands
 
-### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+## Past
 
-- Dates: October 12th, 2019
-- Location:  Tokyo, Japan
-
-### [Vuecamp Germany](https://vuecamp.de/)
-
-- Dates: October 26th - 27th, 2019
-- Location:  Berlin, Germany
+### 2019
 
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
 - Location: Toronto, Canada
 
-## Past
+### [Vuecamp Germany](https://vuecamp.de/)
 
-### 2019
+- Dates: October 26th - 27th, 2019
+- Location:  Berlin, Germany
+
+### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+
+- Dates: October 12th, 2019
+- Location:  Tokyo, Japan
+
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 3rd - 4th, 2019
+- Location:  London, United Kingdom
 
 ### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
 
