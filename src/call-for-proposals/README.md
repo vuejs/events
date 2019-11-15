@@ -12,15 +12,6 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [INTERCOM VUE.JS](https://vue.intercomconf.com/#)
-
-- [CFP Link](https://docs.google.com/forms/d/e/1FAIpQLSemqJRsnBp4MzC-25qkNs1_-KBri7kc2ALTea1KPB3gBn2XvA/viewform)
-- CFP Due Date: September 1st, 2019
-- Event Date: November 14th, 2019
-- Location: Moscow, Russia
-- Speaker Package: Flight expenses covered (up to $1000), Hotel expenses covered (up to $300), Speaker Dinner, Visa support, and Tour over the city (optional)
-
-
 ## FAQs
 
 ### How do I add my conference on here?

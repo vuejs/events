@@ -6,16 +6,6 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue London](https://vuejs.london/)
-
-- Dates: October 3rd - 4th, 2019
-- Location:  London, United Kingdom
-
-### [Vuecamp Germany](https://vuecamp.de/)
-
-- Dates: October 26th - 27th, 2019
-- Location:  Berlin, Germany
-
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
@@ -25,6 +15,11 @@ sidebar: auto
 
 - Date: November 14th, 2019
 - Location: Moscow, Russia
+
+### [VueJS Amsterdam](https://vuejs.amsterdam)
+
+- Date: February 20th - 21th, 2019
+- Location: Amsterdam, The Netherlands
 
 ## Meetups
 
