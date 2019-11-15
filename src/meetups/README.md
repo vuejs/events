@@ -312,3 +312,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Uruguay
 
 - Montevideo - [Montevideo VueJS](https://www.meetup.com/Montevideo-Vue-JS-Meetup)
+
+## Remote
+
+- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
