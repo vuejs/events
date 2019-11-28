@@ -848,6 +848,18 @@
       "eventLink": "https://www.meetup.com/vue-bangalore/events/265661584/",
 			"type": "meetup",
       "location": "Bangalore, India"
+    },
+    {
+      "date": "14th",
+      "time": "at 2:00PM",
+      "startDate": "2019-12-14",
+      "endDate": "2019-12-14",
+      "name": "VueHYD #2",
+      "organiser": "Vue Hyderabad",
+      "organiserLink": "https://hyd.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-hyderabad/events/266340374/",
+      "type": "meetup",
+      "location": "Hyderabad, India"
     }
   ]
 }
