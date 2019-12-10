@@ -33,8 +33,9 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
-- Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
+- Hyderabad - [Vue Hyderabad](https://www.meetup.com/vue-hyderabad)
 - Pune - [VueJS Pune](https://www.meetup.com/VueJS-Pune/)
+- Rajkot - [Vue Rajkot](https://rjt.vue.community)
 
 ### Iran
 
@@ -50,6 +51,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
+- Shanghai - [VueJS Shanghai](http://sh.vuejs.city/)
 
 ### Philippines
 
@@ -110,6 +112,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Czech Republic
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
+
+### Denmark
+
+- Aarhus - [Vue.js Aarhus](https://www.meetup.com/vue-js-aarhus/)
 
 ### Finland
 
@@ -308,3 +314,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Uruguay
 
 - Montevideo - [Montevideo VueJS](https://www.meetup.com/Montevideo-Vue-JS-Meetup)
+
+## Remote
+
+- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
