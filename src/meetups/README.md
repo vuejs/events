@@ -175,6 +175,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Portugal
 
 - Lisbon - [Vue.js Lisbon](https://meetup.com/vue-js-lisbon)
+- Porto - [Porto.Vue](https://www.meetup.com/porto-vue)
 
 ### Russia
 
