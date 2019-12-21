@@ -1,6 +1,15 @@
-# Vue.js Events
+<p align="center">
+  <a href="https://events.vuejs.org/" target="_blank">
+    <img width="180" src="https://github.com/vuejs/events/blob/master/src/.vuepress/public/logo.png?raw=true" alt="logo">
+  </a>
+</p>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/vuejs/events/blob/master/CHANGELOG.md) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0142b9-085f-4737-adb3-d11aa02481ee/deploy-status)](https://app.netlify.com/sites/vuejs-events/deploys)
+<p align="center">
+  <a href="https://github.com/vuejs/events/blob/master/CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" /></a>
+	<a href="https://app.netlify.com/sites/vuejs-events/deploys"><img src="https://api.netlify.com/api/v1/badges/4e0142b9-085f-4737-adb3-d11aa02481ee/deploy-status" /></a>
+</p>
+
+<h1 align="center">Vue.js Events</h1>
 
 This repo contains the site for Vue.js Events in an effort to centralize all Vue.js community efforts (e.g., meetups, conferences and workshops).
 
