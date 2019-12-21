@@ -1,0 +1,41 @@
+{
+  "January": [    
+    {
+      "date": "22nd",
+      "time": "at 6:00PM",
+      "startDate": "2020-01-22",
+      "endDate": "2020-01-22",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://www.meetup.com/vue-js/",
+      "name": "UI Frameworks in Vue.js - Component or Utilities-first?",
+      "eventLink": "https://www.meetup.com/vue-js/events/266895998/",
+      "type": "meetup"
+    }
+  ],
+  "March": [    
+    {
+      "date": "18th",
+      "time": "at 6:00PM",
+      "startDate": "2020-03-18",
+      "endDate": "2020-03-18",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://www.meetup.com/vue-js/",
+      "name": "Testing in Vue.js applications",
+      "eventLink": "https://www.meetup.com/vue-js/events/267250146/",
+      "type": "meetup"
+    }
+  ],
+  "May": [    
+    {
+      "date": "20th",
+      "time": "at 6:00PM",
+      "startDate": "2020-05-20",
+      "endDate": "2020-05-20",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://www.meetup.com/vue-js/",
+      "name": "All about Vue 3.0",
+      "eventLink": "https://www.meetup.com/vue-js/events/267250181/",
+      "type": "meetup"
+    }
+  ]
+}
