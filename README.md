@@ -17,8 +17,8 @@ Please check out the [Issues board](https://github.com/vuejs/events/issues) for 
 
 1. Fork the repo
 1. Clone the repo
-1. Run `yarn` or `npm install`
-1. Run `yarn dev` or `npm run dev`
+1. Run `yarn`
+1. Run `yarn dev`
 
 ## Contributing
 
