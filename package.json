@@ -1,29 +1,29 @@
 {
-  "name": "vuejs-events",
-  "version": "0.3.0-alpha",
-  "description": "Source code for events.vuejs.org",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vuejs/events.git"
-  },
-  "keywords": [
-    "events",
-    "meetups",
-    "vuejs"
-  ],
-  "author": "Ben Hong <bencodezen@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vuejs/events/issues"
-  },
-  "homepage": "https://github.com/vuejs/events#readme",
-  "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
-    "vuepress": "^1.0.0-alpha.36"
-  }
+	"name": "vuejs-events",
+	"version": "1.0.0",
+	"description": "Source code for events.vuejs.org",
+	"main": "index.js",
+	"scripts": {
+		"dev": "vuepress dev src",
+		"build": "vuepress build src"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vuejs/events.git"
+	},
+	"keywords": [
+		"events",
+		"meetups",
+		"vuejs"
+	],
+	"author": "Ben Hong <bencodezen@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/vuejs/events/issues"
+	},
+	"homepage": "https://github.com/vuejs/events#readme",
+	"devDependencies": {
+		"@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+		"vuepress": "^1.0.0-alpha.36"
+	}
 }
