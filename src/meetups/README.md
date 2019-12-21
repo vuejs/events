@@ -175,6 +175,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Portugal
 
 - Lisbon - [Vue.js Lisbon](https://meetup.com/vue-js-lisbon)
+- Porto - [Porto.Vue](https://www.meetup.com/porto-vue)
 
 ### Russia
 
@@ -197,9 +198,11 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Switzerland
 
-- Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
+
 - Basel - [Vue Basel](https://www.meetup.com/Vue-Basel)
-- Bern - [Vue Berne](https://www.meetup.com/Vue-Bern/)
+- Bern - [Vue Berne](https://www.meetup.com/Vue-Bern)
+- Lausanne - [Vuejs Lausanne](https://www.meetup.com/Vue-js-Switzerland)
+- Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
 
 ### Ukraine
 
