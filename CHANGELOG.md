@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 1.0.0
 
 - Update README with new design and setup information
+- Update to VuePress 1.2.0
 
 ## 0.1.0-beta - 2019.04.22
 
