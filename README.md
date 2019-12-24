@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vuejs/events/blob/master/CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" /></a>
+  <a href="https://github.com/vuejs/events/blob/master/CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.1-blue.svg" /></a>
 	<a href="https://app.netlify.com/sites/vuejs-events/deploys"><img src="https://api.netlify.com/api/v1/badges/4e0142b9-085f-4737-adb3-d11aa02481ee/deploy-status" /></a>
 </p>
 
