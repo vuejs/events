@@ -219,3 +219,42 @@ Due to most file sizes being too large to host on GitHub, we have stored them in
 * [Event Graphics and Source Files](https://drive.google.com/drive/folders/0B1ovWdH4ntFvUXNTRVB2MG1odWc?usp=sharing) (Google Drive)
 
 The source files are all made in [Photopea](https://photopea.com) (free, browser-based alternative to Photoshop). Everything is on layers and text can be changed to say whatever you want for your event.
+
+## Streaming your event
+
+It's a common request for meetups to offer a live stream or recording of the event for others to watch that couldn't attend in person.
+
+### Services
+
+There are many services that allow you to stream your broadcast for free. Here are some popular options:
+
+1. [Twitch](https://twitch.tv) - Twitch is the most popular streaming service
+1. [YouTube Live](https://support.google.com/youtube/answer/2474026?hl=en) - YouTube is the most popular site for hosting videos, but also offers live streaming
+
+### Software
+
+Not all laptops are powerful enough to stream high quality video. You should set aside time to install streaming software and test out your stream.
+
+1. [Stream Labs](https://streamlabs.com) - This is probably the easiest software to get started with. Sometimes called "Stream Labs OBS" or "SLOBS".
+1. [OBS Studio](https://obsproject.com) - This is the open source software Stream Labs is built on top of. On some machines it works better.
+
+### Hardware
+
+1. A laptop and some good internet - That's all you really need.
+1. A lavalier microphone - These can be attached to your speaker for better audio in the stream. Mic'ing your speaker will make a huge difference in stream quality.
+1. [SlingStudio](https://www.myslingstudio.com) - For those wanting to spend a little money, this is a simplified set up to connect multiple input devices, save a local high quality version of the stream, while also broadcasting. **Important note:** This hardware is compatible with 
+
+### Using other people's laptops
+
+Sometimes a speaker needs to use their own laptop. Since setting up streaming software and testing that it works takes time, here are some options.
+
+* Host them on Twitch
+  * Ask them to download OBS or Stream Labs (SLOBS) in advance and set up a Twitch account to stream from.
+  * Let them stream to their own account, but have your Twitch account "Host" theirs
+* Use a video splitter
+  * Take their laptop video output and send it to a video splitter so that the video goes to a projector, and to a different computer/device that will stream the video.
+  * SlingStudio is a good option for this, but there are much less expensive solutions also
+
+### Tips
+
+* Always verify the stream is up and the video/audio are working. You don't want to get to the end of the presentation to find out you didn't have audio the entire time.
