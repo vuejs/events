@@ -1,6 +1,6 @@
 {
 	"name": "vuejs-events",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Source code for events.vuejs.org",
 	"main": "index.js",
 	"scripts": {
