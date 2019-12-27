@@ -242,7 +242,7 @@ Not all laptops are powerful enough to stream high quality video. You should set
 
 1. A laptop and some good internet - That's all you really need.
 1. A lavalier microphone - These can be attached to your speaker for better audio in the stream. Mic'ing your speaker will make a huge difference in stream quality.
-1. [SlingStudio](https://www.myslingstudio.com) - For those wanting to spend a little money, this is a simplified set up to connect multiple input devices, save a local high quality version of the stream, while also broadcasting. **Important note:** This hardware is compatible with 
+1. [SlingStudio](https://www.myslingstudio.com) - For those wanting to spend a little money, this is a simplified set up to connect multiple input devices, save a local high quality version of the stream, while also broadcasting. **Important note:** This hardware is compatible with iOS and OSX.
 
 ### Using other people's laptops
 
