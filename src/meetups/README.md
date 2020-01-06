@@ -262,7 +262,6 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Columbus - [Vue Columbus](https://www.meetup.com/Vue-Columbus/)
 - Oregon
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
-  - Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
 - Pennsylvania
   - Philadelphia - [Vue Philly](https://www.meetup.com/vue-philly/)
 - South Carolina
