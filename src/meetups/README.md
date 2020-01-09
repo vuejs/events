@@ -259,7 +259,7 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Raleigh - [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/)
 - Ohio
   - Cleveland - [Cleveland VueJS](https://www.meetup.com/Cleveland-VueJS/)
-  - Columbus - [Vue Columbus](https://www.meetup.com/Vue-Columbus/)
+  - Columbus - [Vue Columbus](https://www.javascriptandfriends.com/communityevents)
 - Oregon
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
 - Pennsylvania
@@ -318,3 +318,4 @@ The following list prioritizes users' ability to quickly locate the regions they
 ## Remote
 
 - ThisDot - [VueMeetup](https://www.vuemeetup.com/)
+- JavaScript and Friends - [VueEvents](https://www.javascriptandfriends.com/communityevents)
