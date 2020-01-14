@@ -16,6 +16,11 @@ sidebar: auto
 - **Dates:** March 2nd - 4th, 2020
 - **Location:** Austin, Texas, USA
 
+## [Vue Vixens Day](https://vvdayus.vuevixens.org/)
+
+- **Dates:** March 5th, 2020
+- **Location:** Austin, Texas, USA
+
 ## Meetups
 
 Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://twitter.com/vuejs_events) and would be glad to help spread word if you let us know about your event!
