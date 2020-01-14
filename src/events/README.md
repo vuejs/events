@@ -6,20 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [VueConf Toronto](https://vuetoronto.com/)
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
 
-- Date: November 11th - 12th, 2019
-- Location: Toronto, Canada
+- **Dates:** November 20th - 21th, 2020
+- **Location:** Amsterdam, The Netherlands
 
-### [INTERCOM VUE.JS](https://vue.intercomconf.com/)
+### [VueConfUS](https://vueconf.us/)
 
-- Date: November 14th, 2019
-- Location: Moscow, Russia
-
-### [VueJS Amsterdam](https://vuejs.amsterdam)
-
-- Date: February 20th - 21th, 2019
-- Location: Amsterdam, The Netherlands
+- **Dates:** March 2nd - 4th, 2020
+- **Location:** Austin, Texas, USA
 
 ## Meetups
 
@@ -39,4 +34,4 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-<CFPList />
+There are currently not CFPs for Vue specific conferences. If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
