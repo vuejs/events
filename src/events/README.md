@@ -16,7 +16,7 @@ sidebar: auto
 - **Dates:** March 2nd - 4th, 2020
 - **Location:** Austin, Texas, USA
 
-## [Vue Vixens Day](https://vvdayus.vuevixens.org/)
+### [Vue Vixens Day](https://vvdayus.vuevixens.org/)
 
 - **Dates:** March 5th, 2020
 - **Location:** Austin, Texas, USA

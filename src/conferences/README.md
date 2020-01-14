@@ -18,6 +18,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** March 2nd - 4th, 2020
 - **Location:** Austin, Texas, USA
 
+### [Vue Vixens Day](https://vvdayus.vuevixens.org/)
+
+- **Dates:** March 5th, 2020
+- **Location:** Austin, Texas, USA
+
 ## Past
 
 ### 2019
