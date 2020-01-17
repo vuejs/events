@@ -8,7 +8,7 @@ sidebar: auto
 
 ### [VueJS Amsterdam](https://vuejs.amsterdam/)
 
-- **Dates:** November 20th - 21th, 2020
+- **Dates:** February 20th - 21th, 2020
 - **Location:** Amsterdam, The Netherlands
 
 ### [VueConfUS](https://vueconf.us/)
