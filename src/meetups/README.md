@@ -198,7 +198,6 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Switzerland
 
-
 - Basel - [Vue Basel](https://www.meetup.com/Vue-Basel)
 - Bern - [Vue Berne](https://www.meetup.com/Vue-Bern)
 - Lausanne - [Vuejs Lausanne](https://www.meetup.com/Vue-js-Switzerland)
@@ -252,6 +251,8 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Ann Arbor - [Michigan Vue](https://www.meetup.com/Michigan-Vue/)
 - Minnesota
   - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
+- Missouri
+  - Kansas City - [VueKC](https://www.meetup.com/vue-kc)
 - New York
   - New York City - [VueNYC](https://meetup.com/vueJsNYC)
 - North Carolina
