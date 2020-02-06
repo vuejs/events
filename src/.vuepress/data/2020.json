@@ -12,6 +12,19 @@
       "type": "meetup"
     }
   ],
+  "February": [    
+    {
+      "date": "25th",
+      "time": "at 6:00PM",
+      "startDate": "2020-02-25",
+      "endDate": "2020-02-25",
+      "organiser": "Vue.js Israel",
+      "organiserLink": "https://www.meetup.com/vue-js/",
+      "name": "Performance optimization and Server-less in Vue",
+      "eventLink": "https://www.meetup.com/vue-js/events/268135981/",
+      "type": "meetup"
+    }
+  ],
   "March": [    
     {
       "date": "18th",
