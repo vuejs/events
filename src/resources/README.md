@@ -177,6 +177,16 @@ Try to have a visual/banner that's directly related to specific meetup edition, 
 
 If people just see "Vuejs X Meetup", they don't click on it. With a specific visual/banner even those who don't click will know what you're organizing.
 
+### How to Encourage New People to Speak
+
+It's a common misconception that speakers need to take up the entire meetup or have entire talks planned out. This can make it people hesitant to volunteer.
+
+So here are some strategies to ease people's mind:
+
+1. **Speak with them.** If they know that they only have to do part of a talk, it make the idea much more approachable.
+
+2. **Help them craft a topic.** What people often don't understand is that they have a lot of topics they could talk about. Whether it's case studies, or personal projects, work with them to come up with a topic so they don't feel the burden of doing it all by themselves.
+
 ## Speakers' Handbook
 
 Let's face it, speaking is terrifying. Don't you worry though, this whole section is dedicated to helping you take that first step.
@@ -200,15 +210,95 @@ One of the biggest misconceptions in the world of speaking (and writing) is that
 
 At the end of the day, the odds are in your favor that you have a unique take on the topic that sets you apart. In addition, when it comes to speaking at meetups, a majority of attendees often have not done the research you've done on X topic. So while the insecure side of you is afraid that they will be bored, you're going to do great.
 
-### How to Encourage New People to Speak
+### Know Your Audience—You're There for Them.
 
-It's a common misconception that speakers need to take up the entire meetup or have entire talks planned out. This can make it people hesitant to volunteer.
+Your audience might not have spent anytime on your topic, but they are intelligent. They just don't have your particular passions. Often they will be a mixture of novices and advanced developers/programmers. Your goal should be to introduce a topic or solution and get people curious about it&mdash;not to become experts.
 
-So here are some strategies to ease people's mind:
+### Why Should Anyone Care?
 
-1. **Speak with them.** If they know that they only have to do part of a talk, it make the idea much more approachable.
+How is your topic relevant to your audience's work? Will it speed up development time? Or will it improve their code and reduce bugs? Explain upfront how individuals can benefit from your topic. They are not there to see how knowledgable you are but to learn something interesting that could possible make their work better.
 
-2. **Help them craft a topic.** What people often don't understand is that they have a lot of topics they could talk about. Whether it's case studies, or personal projects, work with them to come up with a topic so they don't feel the burden of doing it all by themselves.
+### Outline Your Talk
+
+Resist the urge to start developing slides or demo code. Create an outline of your talk first. What are the main take aways you want your audience to have? For an hour talk a good rule of thumb is to stick to 3 or less main points. It will be impossible to turn your audience into specialists in 1 hour so don't try.
+
+You want individuals to walk away from your talk remembering the main points. Telling stories is a good way to help a message stick with your audience. Using imagery for conceptual ideas will also help your audience better understand and remember. Identify the best way to convey your points? Slides, demo code or live coding?
+
+### Slides
+
+Slides can be a good way to convey information. When creating slides the most important thing to remember is that they are for your audience, not for you. Rather than reading a slide, talk about the topics on a slide. It's okay to have notes on paper or a device that is just for your eyes.
+
+More slides are better than less with too much content. Packing too much information on an individual slide make it hard to follow, apart from the small font size. Remember your goal is to share some knowledge and inspire, not turn your audience in to experts. Consider what is the point of each slide? Does it support the main points of your talk?
+
+### Showing Code
+
+When introducing code on a slide, show snippets rather than large blocks of code. Focus on the most important aspects rather than showing the complete code. You can use ellipses to represent code that isn't important to the point.
+
+```html
+Article.vue
+<template>
+	...
+	<h1 :class="$style.headline">
+		{{ article.title }}
+	</h1>
+	...
+</template>
+```
+
+You can also use animation to introduce code and give visual cues on how chunks are connected like in this [example from a Vue DC Meetup](https://www.youtube.com/watch?v=xO3w3_hBRVQ&t=170s). Keynote was use to create the slides but Power Point and Google Slides also have some animation features. Using slides in this manner does require you to know your talk fairly well.
+
+![example of animated slide](/example-slide.gif)
+
+### Live Coding
+
+It is natural in a development talk to want to show code but think twice before going down the live coding route. Do you really need to live code to for your audience to understand?
+
+Live coding can be tricky to pull off—it is prone to mistakes and a lot of time can be spent troubleshooting. You can minimize the difficulty of live coding by having branches setup for different stages of your code. Another technique is to have your code written but commented out so that you just need to uncomment code as you go along.
+
+When live coding, don't walk through your code line by line—just focus on the main points. You can use code comments to explain nuances or difficulties and provide the code in a GitHub repo. Don't forget to zoom in on your code so audience members farther away can see what your are talking about.
+
+### Live Coding with Video
+
+Rather than live coding on the fly, consider recording a video. You'll need a screen recorder and video editing software but it will make for a more efficient presentation. If you decided that live coding is the only way to go then practice several times to work out the kinks.
+
+You might still consider always having a live-coding video available. [Gregg Pollack](https://twitter.com/greggpollack) is a master at using video for live coding so watch any talk he has given and you will have a good idea of how it should be done. At a minimum, you should consider recording a live demo of the working product for efficiency sake. However, bare in mind that video production can be incredibly time intensive if you aren't familiar with the techniques involved.
+
+### General Tips
+
+- It's normal to be nervous so kudos to you for stepping up and talking.
+- It's easy to underestimates how much time your talk will take so it is a good idea to create a talk that is a bit shorter than your allocated time.
+- Talk louder than you think you need to, unless you have a mic.
+- Zoom in your screen when view a website or live coding.
+- Try to gauge your audiences reaction and adjust. This is a tough to do but can be learned over time.
+- Practice. Practice doesn't make perfect but the better you know your talk the less nervous you are likely to be.
+- Most importantly be yourself!
+
+### Resources
+
+It's a good practice to provide your audience a way to access any slides and demo code from your talk. For your slides you can use a online slidedeck host or add a pdf to your demo code if you are providing a full repo. If you can provide a screen recording with audio that is a nice plus.
+
+#### Slidedecks Hosting
+
+* [Google Slides](https://www.google.com/slides/about/)
+* [SlideShare](https://www.slideshare.net/)
+* [Speaker Deck](https://speakerdeck.com/)
+
+#### Code Hosting
+
+* [Bitbucket](https://bitbucket.org/product/)
+* [CodePen](https://codepen.io/)
+* [GitHub](https://github.com/)
+* [JSFiddle](https://jsfiddle.net/)
+
+#### Screen Recording Options
+
+* [CloudApp](https://www.getcloudapp.com/)
+* [Quicktime](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac)
+* [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+
+#### Video Hosting
+
+* [YouTube](https://www.youtube.com/)
 
 ## Event Graphics
 
