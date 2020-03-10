@@ -36,6 +36,17 @@
       "name": "Testing in Vue.js applications",
       "eventLink": "https://www.meetup.com/vue-js/events/267250146/",
       "type": "meetup"
+    },
+     {
+      "date": "21st",
+      "time": "at 10:00AM",
+      "startDate": "2020-03-21",
+      "endDate": "2020-03-21",
+      "organiser": "Vue.js Mauritius",
+      "organiserLink": "https://www.meetup.com/frontendcodersmauritius",
+      "name": "Front-end Coders March Meetup - PWA,JWT and more",
+      "eventLink": "https://www.meetup.com/frontendcodersmauritius/events/268977842/",
+      "type": "meetup"
     }
   ],
   "May": [    
