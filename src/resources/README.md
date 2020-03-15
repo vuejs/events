@@ -292,9 +292,11 @@ It's a good practice to provide your audience a way to access any slides and dem
 
 #### Screen Recording Options
 
-* [CloudApp](https://www.getcloudapp.com/)
-* [Quicktime](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac)
+* [Loom](https://www.loom.com) (Windows compatible, free for hosting up to 25 videos per account)
+* [CloudApp](https://www.getcloudapp.com)
+* [Quicktime](https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac) (OSX only)
 * [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+
 
 #### Video Hosting
 
