@@ -43,6 +43,10 @@ module.exports = {
 					{
 						text: 'Event Graphics',
 						link: '/resources/#event-graphics'
+					},
+					{
+						text: 'Streaming your Event',
+						link: '/resources/#streaming-your-event'
 					}
 				]
 			},
