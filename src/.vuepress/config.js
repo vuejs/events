@@ -47,6 +47,19 @@ module.exports = {
 				]
 			},
 			{
+				text: 'Presentation',
+				items: [
+					{
+						text: 'Discover',
+						link: '/presentations/#discover'
+					},
+					{
+						text: "Submit your",
+						link: '/presentations/#submit'
+					},
+				]
+			},
+			{
 				text: 'Contact',
 				items: [
 					{
@@ -179,5 +192,8 @@ module.exports = {
 				ga: 'UA-46852172-1'
 			}
 		]
-	]
+	],
+	define: {
+    NODE_ENV: process.env.NODE_ENV,
+  }
 }
