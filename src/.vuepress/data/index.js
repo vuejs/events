@@ -11,11 +11,11 @@ dataFiles.keys().forEach((fileName) => {
 });
 
 presentationDataFiles.keys().forEach((fileName) => {
-  console.log(NODE_ENV)
   let fileData = presentationDataFiles(fileName);
   fileName = fileName.replace(/\.\//, '').replace(/\.json/, '')
   const [theme, year, title] = fileName.split("/", 3)
-  if (theme === "example" && NODE_ENV !== "development") {
+  // Example folder are juste for test and pr review. We do not want them in production
+  if (["example", "example2"].includes(theme.toLowerCase()) && NODE_ENV !== "development") {
     return;
   }
   if (!presentationData[theme]) {
