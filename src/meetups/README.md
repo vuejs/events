@@ -188,6 +188,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Spain
 
+- Spain - [Vue Spain](https://www.meetup.com/Vuejs-Spain/)
 - Alicante - [Alicante Frontend](https://www.meetup.com/Alicante-Frontend/)
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
