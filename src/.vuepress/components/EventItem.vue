@@ -104,7 +104,7 @@ export default {
 	float: right;
 }
 
-.content:not(.custom) .event__icon {
+.event__info img.event__icon {
 	max-width: 20px;
 	vertical-align: middle;
 }
