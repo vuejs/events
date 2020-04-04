@@ -6,10 +6,10 @@
     <div v-if="filteredPresentationsCount > 0">
       <div v-for="(yearPresentation, theme) in presentationFiltered" :key="theme">
         <div v-if="filteredPresentationsCountByTheme(theme) > 0">
+          <!-- Title actually show it like this: Theme (3 presentations) --> 
           <h2>{{ theme }} ({{filteredPresentationsCountByTheme(theme)}} {{pluralize("presentation", filteredPresentationsCountByTheme(theme))}})</h2>
           <div v-for="(presentations, year) in yearPresentation" :key="`${theme}-${year}`">
             <!--<h3>{{ year }}</h3>-->
-            <!-- put a message that say that no presentation with current filter are available and user need to change filters to see presentation in this theme ? -->
             <div v-for="presentation in presentations" :key="presentation.title">
               <PresentationItem :presentation="presentation" :year="year" />
               <hr class="dashed">
