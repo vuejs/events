@@ -1,15 +1,25 @@
 <template>
   <div>
+    <h3>Filters:</h3>
     <PresentationFilters :value="filters" />
-    <div v-for="(yearPresentation, theme) in presentationFiltered" :key="theme">
-      <h2>{{ theme }}</h2>
-      <div v-for="(presentations, year) in yearPresentation" :key="`${theme}-${year}`">
-        <!--<h3>{{ year }}</h3>-->
-        <!-- put a message that say that no presentation with current filter are available and user need to change filters to see presentation in this theme ? -->
-        <div v-for="presentation in presentations" :key="presentation.title">
-          <PresentationItem :presentation="presentation" :year="year" />
+    <h3>Presentations by themes:</h3>
+    <div v-if="filteredPresentationsCount > 0">
+      <div v-for="(yearPresentation, theme) in presentationFiltered" :key="theme">
+        <div v-if="filteredPresentationsCountByTheme(theme) > 0">
+          <h2>{{ theme }} ({{filteredPresentationsCountByTheme(theme)}} {{pluralize("presentation", filteredPresentationsCountByTheme(theme))}})</h2>
+          <div v-for="(presentations, year) in yearPresentation" :key="`${theme}-${year}`">
+            <!--<h3>{{ year }}</h3>-->
+            <!-- put a message that say that no presentation with current filter are available and user need to change filters to see presentation in this theme ? -->
+            <div v-for="presentation in presentations" :key="presentation.title">
+              <PresentationItem :presentation="presentation" :year="year" />
+              <hr class="dashed">
+            </div>
+          </div>
         </div>
       </div>
+    </div>
+    <div v-else>
+      <p>No presentation match with the current filters you selected.</p>
     </div>
   </div>
 </template>
@@ -48,6 +58,12 @@ export default {
       //        no -> remove all the presentation of this year
       //    no -> remove all presentation of this theme
       return this.filterByTheme(presentationData, this.filters);
+    },
+    filteredPresentationsCount() {
+      // This computed count all the presentation filtered
+      return Object.keys(this.presentationFiltered).reduce((count, theme) => {
+        return count + this.filteredPresentationsCountByTheme(theme);
+      }, 0);
     }
   },
   methods: {
@@ -109,7 +125,22 @@ export default {
         return false;
       }
       return true;
+    },
+    filteredPresentationsCountByTheme(theme) {
+      // This methode count all the presentation filtered by theme
+      return Object.keys(this.presentationFiltered[theme]).reduce((count, year) => {
+        return count + this.presentationFiltered[theme][year].length;
+      }, 0);
+    },
+    pluralize(text, number){
+      return number > 1 ? text + "s" : text
     }
   }
 };
 </script>
+
+<style lang="css" scoped>
+  hr.dashed {
+    border-top: 5px dashed #bbb;
+  }
+</style>

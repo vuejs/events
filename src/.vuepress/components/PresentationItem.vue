@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h4>{{presentation.title}} ({{year}}) <span class="author-by">by {{presentation.author}}</span></h4>
-    <ul>
+  <div style="margin-bottom: 35px;">
+    <h4 class="accordion" @click="isExpanded = !isExpanded">{{presentation.title}} ({{year}}) <span class="author-by">by {{presentation.author}} {{ isExpanded ? "-" : "+"}}</span></h4>
+    <ul v-if="isExpanded">
       <PresentationInfoLine text="Slides:" :value="presentation.slides" :link="presentation.slides" />
       <PresentationInfoLine text="Vue version:" :value="presentation.vueVersion" />
       <PresentationInfoLine text="Source Language:" :value="presentation.sourceLanguage" />
@@ -19,7 +19,7 @@
         </ul>
       </li>
     </ul>
-    <strong>Description:</strong>
+    <strong v-if="isExpanded">Description:</strong>
     <p>{{presentation.description}}</p>
   </div>
 </template>
@@ -42,6 +42,11 @@ export default {
       required: true
     }
   },
+  data() {
+    return {
+      isExpanded: false,
+    }
+  },
   computed: {
     presentationWithMeta() {
       const presentationWithMeta = {};
@@ -59,5 +64,8 @@ export default {
 <style lang="css" scoped>
 .author-by {
   float: right;
+}
+.accordion{
+  cursor: pointer;
 }
 </style>

@@ -5,31 +5,34 @@
       <input id="title-input" class="input-css" v-model="value.title" placeholder="Type to filter title that contains your search" />
     </div>
     <div style="margin-top: 20px;">
-      <p>Filters:</p>
-      <select v-model="value.theme" class="select-css">
-        <option value="">Theme</option>
-        <option v-for="item in themes">{{item}}</option>
-      </select>
-      <select v-model="value.year" class="select-css">
-        <option value="">Year</option>
-        <option v-for="item in years">{{item}}</option>
-      </select>
-      <select v-model="value.author" class="select-css">
-        <option value="">Author</option>
-        <option v-for="item in getItemsForPresentationKey('author')">{{item}}</option>
-      </select>
-      <select v-model="value.event" class="select-css">
-        <option value="">Event</option>
-        <option v-for="item in getItemsForPresentationKey('event', 'name')">{{item}}</option>
-      </select>
-      <select v-model="value.country" class="select-css">
-        <option value="">Country</option>
-        <option v-for="item in getItemsForPresentationKey('country')">{{item}}</option>
-      </select>
-      <select v-model="value.language" class="select-css">
-        <option value="">Language</option>
-        <option v-for="item in getItemsForPresentationKey('sourceLanguage')">{{item}}</option>
-      </select>
+      <div>
+        <select v-model="value.theme" class="select-css">
+          <option value="">Theme</option>
+          <option v-for="item in themes">{{item}}</option>
+        </select>
+        <select v-model="value.year" class="select-css">
+          <option value="">Year</option>
+          <option v-for="item in years">{{item}}</option>
+        </select>
+        <select v-model="value.author" class="select-css">
+          <option value="">Author</option>
+          <option v-for="item in getItemsForPresentationKey('author')">{{item}}</option>
+        </select>
+      </div>
+      <div style="margin-top: 10px;">
+        <select v-model="value.event" class="select-css">
+          <option value="">Event</option>
+          <option v-for="item in getItemsForPresentationKey('event', 'name')">{{item}}</option>
+        </select>
+        <select v-model="value.country" class="select-css">
+          <option value="">Country</option>
+          <option v-for="item in getItemsForPresentationKey('country')">{{item}}</option>
+        </select>
+        <select v-model="value.language" class="select-css">
+          <option value="">Language</option>
+          <option v-for="item in getItemsForPresentationKey('sourceLanguage')">{{item}}</option>
+        </select>
+      </div>
     </div>
   </div>
 </template>
@@ -87,7 +90,7 @@ export default {
 
 <style lang="css" scoped>
   .select-css {
-    margin-right: 10px;
+    margin-right: 20px;
     font-size: 16px;
     font-family: sans-serif;
     font-weight: 700;
