@@ -6,9 +6,7 @@ sidebar: auto
 
 ## Introduction
 
-Vue.js Events is an effort to centralize all public presentation about Vue.js and associated library and framework. It allow to quiclky find a presentation by theme and year. It also allow event organizer to reuse presentation to share knowledge at local area without recreating presentation each time.
-
-// TODO more introduction ? Wording ?
+This is an effort to centralize all public presentations about Vue.js and associated libraries/frameworks. It catalogs presentations by theme and year, and can be used to help speakers find presentations that are open for reuse. So that knowledge can be shared at local events without having to recreate each presentation.
 
 To submit your go to the end of the page or [click here](/presentations/#submit)
 
