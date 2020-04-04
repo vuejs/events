@@ -192,8 +192,5 @@ module.exports = {
 				ga: 'UA-46852172-1'
 			}
 		]
-	],
-	define: {
-    NODE_ENV: process.env.NODE_ENV,
-  }
+	]
 }

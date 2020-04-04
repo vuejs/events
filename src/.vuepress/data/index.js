@@ -14,10 +14,6 @@ presentationDataFiles.keys().forEach((fileName) => {
   let fileData = presentationDataFiles(fileName);
   fileName = fileName.replace(/\.\//, '').replace(/\.json/, '')
   const [theme, year, title] = fileName.split("/", 3)
-  // Example folder are juste for test and pr review. We do not want them in production
-  if (["example", "example2"].includes(theme.toLowerCase()) && NODE_ENV !== "development") {
-    return;
-  }
   if (!presentationData[theme]) {
     presentationData[theme] = {}
   }

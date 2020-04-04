@@ -4,8 +4,8 @@
 	"description": "Source code for events.vuejs.org",
 	"main": "index.js",
 	"scripts": {
-		"dev": "NODE_ENV=development vuepress dev src",
-		"build": "NODE_ENV=production vuepress build src"
+		"dev": "vuepress dev src",
+		"build": "vuepress build src"
 	},
 	"repository": {
 		"type": "git",

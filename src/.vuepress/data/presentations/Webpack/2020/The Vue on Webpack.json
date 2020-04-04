@@ -1,0 +1,21 @@
+{
+  "slides": null,
+  "author": "Adrien Montagu",
+  "sourceLanguage": "English",
+  "city": "Lyon",
+  "country": "France",
+  "vueVersion": "2",
+  "event": {
+    "name": "Vue Global Meetup #1",
+    "link": "https://www.eventbrite.com/e/vue-global-meetup-tickets-101090117262?aff=ebdssbonlinesearch"
+  },
+  "gitRepository": "https://github.com/AMontagu/WebpackAndVue",
+  "videoLink": null,
+  "reachSpeaker": {
+    "twitter": null,
+    "github": "https://github.com/amontagu",
+    "vueDiscord": "Adrien Montagu#0597",
+    "email": "adrienmontagu@gmail.com"
+  },
+  "description": "Let discover how Vue and Webpack work together: Create complex dev server, adding custom plugin, understanding the vue webpack config and more. The slide are coming soon."
+}

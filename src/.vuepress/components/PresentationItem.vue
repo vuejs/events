@@ -3,6 +3,7 @@
     <h4>{{presentation.title}} ({{year}}) <span class="author-by">by {{presentation.author}}</span></h4>
     <ul>
       <PresentationInfoLine text="Slides:" :value="presentation.slides" :link="presentation.slides" />
+      <PresentationInfoLine text="Vue version:" :value="presentation.vueVersion" />
       <PresentationInfoLine text="Source Language:" :value="presentation.sourceLanguage" />
       <PresentationInfoLine text="City:" :value="`${presentation.city}, ${presentation.country}`" />
       <PresentationInfoLine text="Event:" :value="presentation.event.name" :link="presentation.event.link" />

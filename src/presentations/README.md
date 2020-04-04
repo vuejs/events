@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Introduction
+# Presentations
 
 ## Introduction
 
@@ -10,17 +10,19 @@ This is an effort to centralize all public presentations about Vue.js and associ
 
 To submit your go to the end of the page or [click here](/presentations/#submit)
 
-# Discover
+## Discover
 
 
 <PresentationList />
 
 
-# Submit
+## Submit
 
 This page is only interresting if YOU share your presentation with the community.
 
 Adding your is really simple. You just have to create a pull request with a json file containing all the data about the presentation you want to share.
 
-<a href="http://example.com/" target="_blank">Click here to see an example</a>
-<a href="https://github.com/vuejs/events/compare/master...presnetation-pr-example?template=pull-request-presentation.md" target="_blank">Click here to submit your</a>
+<a href="https://github.com/vuejs/events/tree/master/src/.vuepress/data/presentations" target="_blank">Click here to see examples</a>
+
+
+<a href="https://github.com/vuejs/events/compare/master...presentation-pr-example?template=pull-request-presentation.md" target="_blank">Click here to submit your</a>

@@ -18,6 +18,7 @@ The json format is the following, please copy it fully even if some fields are n
   "sourceLanguage": "",
   "city": "",
   "country": "",
+  "vueVersion": "",
   "event": {
     "name": "",
     "link": ""
