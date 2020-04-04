@@ -33,6 +33,7 @@ export default {
         event: "",
         country: "",
         language: "",
+        title: "",
       }
     };
   },
@@ -104,10 +105,11 @@ export default {
       if (filters["event"] && filters["event"] !== presentation["event"]["name"]) {
         return false;
       }
+      if (filters["title"] && !presentation["title"].toLowerCase().includes(filters["title"].toLowerCase())) {
+        return false;
+      }
       return true;
     }
   }
 };
 </script>
-
-<style lang="scss" scoped></style>
