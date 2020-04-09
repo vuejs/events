@@ -20,7 +20,7 @@ To submit your go to the end of the page or [click here](/presentations/#submit)
 
 Sharing your presentation with the community is entirely voluntary.
 
-Adding your is really simple. You just have to create a pull request with a json file containing all the data about the presentation you want to share.
+To add your presentation, you need to create a pull request with a JSON file containing all the data about the presentation you want to share.
 
 <a href="https://github.com/vuejs/events/tree/master/src/.vuepress/data/presentations" target="_blank">Click here to see examples</a>
 
