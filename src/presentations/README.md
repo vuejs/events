@@ -18,7 +18,7 @@ To submit your go to the end of the page or [click here](/presentations/#submit)
 
 ## Submit
 
-This page is only interresting if YOU share your presentation with the community.
+Sharing your presentation with the community is entirely voluntary.
 
 Adding your is really simple. You just have to create a pull request with a json file containing all the data about the presentation you want to share.
 
