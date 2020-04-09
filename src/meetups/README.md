@@ -134,6 +134,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)
 - Frankfurt - [Vue.js Frankfurt](https://meetup.com/vuejsfrankfurt)
 - Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
+- Leipzig - [Vue.js Meetup - Leipzig (vue-leipzig)](https://www.meetup.com/de-DE/Vue-js-Meetup-Leipzig)
 - München - [Vue.js Munich](https://meetup.com/Vue-js-Munich)
 - Nürnberg - [Vue.js // Nürnberg, Fürth, Erlangen](https://meetup.com/vue-nfe)
 - Stuttgart - [Stuttgart Vue.js Meetup](https://www.meetup.com/Stuttgart-Vue-js-Meetup/)
