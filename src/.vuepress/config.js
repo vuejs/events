@@ -51,6 +51,19 @@ module.exports = {
 				]
 			},
 			{
+				text: 'Presentation',
+				items: [
+					{
+						text: 'Discover',
+						link: '/presentations/#discover'
+					},
+					{
+						text: "Submit",
+						link: '/presentations/#submit'
+					},
+				]
+			},
+			{
 				text: 'Contact',
 				items: [
 					{

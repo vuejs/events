@@ -1,0 +1,21 @@
+{
+  "slides": "https://github.com/AMontagu/vue-components-lib/blob/master/componentReuse.pptx",
+  "author": "Adrien Montagu",
+  "sourceLanguage": "French",
+  "city": "Lyon",
+  "country": "France",
+  "vueVersion": "2",
+  "event": {
+    "name": "Vue.js Lyon #4",
+    "link": "https://www.meetup.com/fr-FR/Vue-js-Lyon/events/255052432/"
+  },
+  "gitRepository": "https://github.com/AMontagu/vue-complex-project",
+  "videoLink": null,
+  "reachSpeaker": {
+    "twitter": null,
+    "github": "https://github.com/amontagu",
+    "vueDiscord": "Adrien Montagu#0597",
+    "email": "adrienmontagu@gmail.com"
+  },
+  "description": "Discover how to create your own component library."
+}
