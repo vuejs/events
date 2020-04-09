@@ -54,7 +54,7 @@ module.exports = {
 						link: '/presentations/#discover'
 					},
 					{
-						text: "Submit your",
+						text: "Submit",
 						link: '/presentations/#submit'
 					},
 				]
