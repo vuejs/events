@@ -305,6 +305,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
 - São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
+- Campo Grande MS - [Vue.js @ Campo Grande MS](https://t.me/vuejsms)
 
 ### Colombia
 
