@@ -178,7 +178,7 @@ Try to have a visual/banner that's directly related to specific meetup edition, 
 
 If people just see "Vuejs X Meetup", they don't click on it. With a specific visual/banner even those who don't click will know what you're organizing.
 
-#### Event Graphics
+### Event Graphics
 
 These are fairly generic event graphics that can be reused. They are all at the dimensions used by Meetup.com ([example](https://www.meetup.com/vuejsindy/events/261422246)).
 
