@@ -1,5 +1,5 @@
 {
-  "slides": null,
+  "slides": "https://docs.google.com/presentation/d/12qrxtIecVyekVvbH6CrXVLeAvSKL7FJGBhcp9aCYX84/edit?usp=sharing",
   "author": "Adrien Montagu",
   "sourceLanguage": "English",
   "city": "Lyon",
@@ -17,5 +17,5 @@
     "vueDiscord": "Adrien Montagu#0597",
     "email": "adrienmontagu@gmail.com"
   },
-  "description": "Let discover how Vue and Webpack work together: Create complex dev server, adding custom plugin, understanding the vue webpack config and more. The slide are coming soon."
+  "description": "Let discover how Vue and Webpack work together: Create complex dev server, adding custom plugin, understanding the vue webpack config, create your own SFC tag and more."
 }
