@@ -1,0 +1,21 @@
+{
+	"slides": "https://docs.google.com/presentation/d/1yUGP4DU3w_Zhb3nYScGPp46lIdp4E5VgJe4lOalriUo/edit?usp=sharing",
+	"author": "Sybren Willemot",
+	"sourceLanguage": "English",
+	"city": "Antwerp",
+	"country": "Belgium",
+	"vueVersion": "2",
+	"event": {
+	  "name": "Vue Global Meetup #1",
+	  "link": "https://www.eventbrite.com/e/vue-global-meetup-tickets-101090117262?aff=ebdssbonlinesearch"
+	},
+	"gitRepository": "https://github.com/carwack/ml5-giphy",
+	"videoLink": null,
+	"reachSpeaker": {
+	  "twitter": "https://twitter.com/Carwack",
+	  "github": "https://github.com/carwack",
+	  "vueDiscord": "SybrenW#7625",
+	  "email": "sybren.willemot@gmail.com"
+	},
+	"description": "Let's try out Machine Learning in a Vue.js project! Using the image classifier of ML5.js to get a matching gif from the Giphy API."
+  }
