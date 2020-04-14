@@ -43,7 +43,24 @@ module.exports = {
 					{
 						text: 'Event Graphics',
 						link: '/resources/#event-graphics'
+					},
+					{
+						text: 'Streaming your Event',
+						link: '/resources/#streaming-your-event'
 					}
+				]
+			},
+			{
+				text: 'Presentation',
+				items: [
+					{
+						text: 'Discover',
+						link: '/presentations/#discover'
+					},
+					{
+						text: "Submit",
+						link: '/presentations/#submit'
+					},
 				]
 			},
 			{

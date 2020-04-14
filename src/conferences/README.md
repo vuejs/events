@@ -8,29 +8,44 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### [Vue London](https://vuejs.london/)
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
 
-- Dates: October 3rd - 4th, 2019
-- Location:  London, United Kingdom
+- **Dates:** February 20th - 21th, 2020
+- **Location:** Amsterdam, The Netherlands
 
-### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+### [VueConfUS](https://vueconf.us/)
 
-- Dates: October 12th, 2019
-- Location:  Tokyo, Japan
+- **Dates:** March 2nd - 4th, 2020
+- **Location:** Austin, Texas, USA
 
-### [Vuecamp Germany](https://vuecamp.de/)
+### [Vue Vixens Day](https://vvdayus.vuevixens.org/)
 
-- Dates: October 26th - 27th, 2019
-- Location:  Berlin, Germany
+- **Dates:** March 5th, 2020
+- **Location:** Austin, Texas, USA
+
+## Past
+
+### 2019
 
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - Date: November 11th - 12th, 2019
 - Location: Toronto, Canada
 
-## Past
+### [Vuecamp Germany](https://vuecamp.de/)
 
-### 2019
+- Dates: October 26th - 27th, 2019
+- Location: Berlin, Germany
+
+### [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+
+- Dates: October 12th, 2019
+- Location: Tokyo, Japan
+
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 3rd - 4th, 2019
+- Location: London, United Kingdom
 
 ### [JSFoo: VueDay](https://hasgeek.com/jsfoo/2019-vueday/)
 
@@ -62,12 +77,10 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - Date: March 26th - 27th, 2019
 - Location: [Straz Art Center, Tampa, Florida, USA](https://www.google.com/maps/place/David+A.+Straz,+Jr.+Center+for+the+Performing+Arts/@27.9516845,-82.4663922,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c46055555555:0xbaea2283bc930b0d!8m2!3d27.9516845!4d-82.4642035)
 
-
 #### [VueJS Amsterdam](https://www.vuejs.amsterdam/)
 
 - Date: February 14th - 15th, 2019
 - Location: [Danzigerkade 5, 1013 AP Amsterdam, Netherlands](https://www.google.com/maps/place/Amsterdam+Theater/@52.3970285,4.8750425,17z/data=!3m1!4b1!4m5!3m4!1s0x47c608288dc127bf:0xdb0d328fc38eae6!8m2!3d52.3970285!4d4.8772312)
-
 
 ### 2018
 

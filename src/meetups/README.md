@@ -33,8 +33,13 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### India
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
-- Hyderabad - [Vue Hyderabad](https://www.meetup.com/Hyderabad-Vue-JS)
+- Hyderabad - [Vue Hyderabad](https://www.meetup.com/vue-hyderabad)
 - Pune - [VueJS Pune](https://www.meetup.com/VueJS-Pune/)
+- Rajkot - [Vue Rajkot](https://rjt.vue.community)
+
+### Iran
+
+- Tehran - [Vue.js Tehran Meetup](https://vuejsconf.ir/)
 
 ### Japan
 
@@ -46,6 +51,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
+- Shanghai - [VueJS Shanghai](http://sh.vuejs.city/)
 
 ### Philippines
 
@@ -107,6 +113,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Prague – [Vue.js Prague](https://www.meetup.com/vuejsprague)
 
+### Denmark
+
+- Aarhus - [Vue.js Aarhus](https://www.meetup.com/vue-js-aarhus/)
+
 ### Finland
 
 - Helsinki - [Vue.js Finland](https://www.meetup.com/vuejs-finland/)
@@ -124,6 +134,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)
 - Frankfurt - [Vue.js Frankfurt](https://meetup.com/vuejsfrankfurt)
 - Hamburg - [Hamburg Vue.js Meetup](https://meetup.com/Hamburg-Vue-js-Meetup)
+- Leipzig - [Vue.js Meetup - Leipzig (vue-leipzig)](https://www.meetup.com/de-DE/Vue-js-Meetup-Leipzig)
 - München - [Vue.js Munich](https://meetup.com/Vue-js-Munich)
 - Nürnberg - [Vue.js // Nürnberg, Fürth, Erlangen](https://meetup.com/vue-nfe)
 - Stuttgart - [Stuttgart Vue.js Meetup](https://www.meetup.com/Stuttgart-Vue-js-Meetup/)
@@ -165,6 +176,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Portugal
 
 - Lisbon - [Vue.js Lisbon](https://meetup.com/vue-js-lisbon)
+- Porto - [Porto.Vue](https://www.meetup.com/porto-vue)
 
 ### Russia
 
@@ -177,6 +189,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Spain
 
+- Spain - [Vue Spain](https://www.meetup.com/Vuejs-Spain/)
 - Alicante - [Alicante Frontend](https://www.meetup.com/Alicante-Frontend/)
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
@@ -187,8 +200,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Switzerland
 
-- Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
 - Basel - [Vue Basel](https://www.meetup.com/Vue-Basel)
+- Bern - [Vue Berne](https://www.meetup.com/Vue-Bern)
+- Lausanne - [Vuejs Lausanne](https://www.meetup.com/Vue-js-Switzerland)
+- Zürich - [\<vue-zurich\/\>](https://meetup.com/vue_zurich)
 
 ### Ukraine
 
@@ -238,6 +253,8 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Ann Arbor - [Michigan Vue](https://www.meetup.com/Michigan-Vue/)
 - Minnesota
   - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
+- Missouri
+  - Kansas City - [VueKC](https://www.meetup.com/vue-kc)
 - New York
   - New York City - [VueNYC](https://meetup.com/vueJsNYC)
 - North Carolina
@@ -245,10 +262,9 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Raleigh - [Vue Raleigh](https://www.meetup.com/Vue-Raleigh/)
 - Ohio
   - Cleveland - [Cleveland VueJS](https://www.meetup.com/Cleveland-VueJS/)
-  - Columbus - [Vue Columbus](https://www.meetup.com/Vue-Columbus/)
+  - Columbus - [Vue Columbus](https://www.javascriptandfriends.com/communityevents)
 - Oregon
   - Portland - [Portland Vue.js Meetup](https://www.meetup.com/Portland-Vue-js-Meetup)
-  - Portland - [Vue.js Study Group](https://meetup.com/Vue-js-Study-Group)
 - Pennsylvania
   - Philadelphia - [Vue Philly](https://www.meetup.com/vue-philly/)
 - South Carolina
@@ -284,10 +300,12 @@ The following list prioritizes users' ability to quickly locate the regions they
 - Curitiba - [Vue Curitiba](https://www.meetup.com/pt-BR/Vue-Curitiba/)
 - Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 - Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
+- Juazeiro - [Vue Sertão](https://www.meetup.com/pt-BR/vuejs-sertao/)
 - Pará - [Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
 - São Paulo - [Vue.js @ São Paulo](https://www.meetup.com/VueJS-SP/)
+- Campo Grande MS - [Vue.js @ Campo Grande MS](https://t.me/vuejsms)
 
 ### Colombia
 
@@ -300,3 +318,8 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Uruguay
 
 - Montevideo - [Montevideo VueJS](https://www.meetup.com/Montevideo-Vue-JS-Meetup)
+
+## Remote
+
+- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
+- JavaScript and Friends - [VueEvents](https://www.javascriptandfriends.com/communityevents)

@@ -786,6 +786,80 @@
       "name": "VueConf Toronto",
       "eventLink": "https://vuetoronto.com/",
       "type": "conference"
+    },
+    {
+      "date": "9th",
+      "time": "at 2:00PM",
+      "startDate": "2019-11-09",
+      "endDate": "2019-11-09",
+      "name": "VueBLR #20",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://blr.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/265498083/",
+			"type": "meetup",
+      "location": "Bangalore, India"
+    },
+    {
+      "date": "12th",
+      "time": "at 7:00PM",
+      "startDate": "2019-11-12",
+      "endDate": "2019-11-12",
+      "name": "Vue.js // Berlin",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://vuejs.berlin",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/msgmdryzpbqb/",
+      "type": "meetup",
+      "location": "Berlin, Germany"
+    },
+    {
+      "date": "16th",
+      "time": "at 2:00PM",
+      "startDate": "2019-11-16",
+      "endDate": "2019-11-16",
+      "name": "VueHYD #1 - Assemble",
+      "organiser": "Vue Hyderabad",
+      "organiserLink": "https://hyd.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-hyderabad/events/265812284",
+			"type": "meetup",
+      "location": "Hyderabad, India"
+    }
+  ],
+  "December": [
+    {
+      "date": "10th",
+      "time": "at 7:00PM",
+      "startDate": "2019-12-10",
+      "endDate": "2019-12-10",
+      "name": "Vue.js // Berlin",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://vuejs.berlin",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/msgmdryzqbnb/",
+      "type": "meetup",
+      "location": "Berlin, Germany"
+    },
+    {
+      "date": "14th",
+      "time": "at 2:00PM",
+      "startDate": "2019-12-14",
+      "endDate": "2019-12-14",
+      "name": "VueBLR #21",
+      "organiser": "Vue Bangalore",
+      "organiserLink": "https://blr.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-bangalore/events/265661584/",
+			"type": "meetup",
+      "location": "Bangalore, India"
+    },
+    {
+      "date": "14th",
+      "time": "at 2:00PM",
+      "startDate": "2019-12-14",
+      "endDate": "2019-12-14",
+      "name": "VueHYD #2",
+      "organiser": "Vue Hyderabad",
+      "organiserLink": "https://hyd.vue.community/",
+      "eventLink": "https://www.meetup.com/vue-hyderabad/events/266340374/",
+      "type": "meetup",
+      "location": "Hyderabad, India"
     }
   ]
 }

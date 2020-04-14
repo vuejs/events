@@ -1,6 +1,6 @@
 <template>
 	<div class="cfp-list">
-		<slot/>
+		<slot />
 		<div class="cfp-list__list">
 			<CFPItem
 				v-for="(event, index) in allEvents"
@@ -13,13 +13,13 @@
 </template>
 
 <script>
-import cfpTimeline from '../data/2019-cfps.json';
-import CFPItem from './CFPItem';
-import { isPast } from '../utils';
+import cfpTimeline from '../data/2020-cfps.json'
+import CFPItem from './CFPItem'
+import { isPast } from '../utils'
 
 export default {
 	components: {
-		CFPItem,
+		CFPItem
 	},
 
 	data() {
@@ -30,13 +30,12 @@ export default {
 
 	methods: {
 		showEvent(event) {
-			const checkDate = isPast(event.endDate) === this.past;
-			const checkType = (this.type) ? this.type === event.type : true;
+			const checkDate = isPast(event.endDate) === this.past
+			const checkType = this.type ? this.type === event.type : true
 
-			return checkDate && checkType;
+			return checkDate && checkType
 		}
-	},
-
+	}
 }
 </script>
 

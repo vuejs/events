@@ -2,37 +2,27 @@
 	<div class="cfp">
 		<div>
 			<h5 class="cfp__title">
-				<a
-					:href="event.website"
-					target="_blank"
-					rel="noopener noreferrer">
+				<a :href="event.website" target="_blank" rel="noopener noreferrer">
 					{{ event.name }}
 				</a>
 			</h5>
 		</div>
 		<div>
 			<p class="cfp__info">
-				<img
-					class="cfp__icon"
-					src="/calendar.svg"
-					aria-hidden="true"/>
+				<img class="cfp__icon" src="/calendar.svg" aria-hidden="true" />
 				Dates: {{ event.dates }}
 			</p>
 			<p class="cfp__info" v-if="event.location">
-				<img
-					class="cfp__icon"
-					src="/pin.svg"
-					aria-hidden="true"/>
+				<img class="cfp__icon" src="/pin.svg" aria-hidden="true" />
 				{{ event.location }}
 			</p>
 			<p class="cfp__info">
-				<img
-					class="cfp__icon"
-					src="/checkered-flag.svg"
-					aria-hidden="true"/>
+				<img class="cfp__icon" src="/checkered-flag.svg" aria-hidden="true" />
 				Deadline: {{ event.cfp.deadline }}
 			</p>
-			<a class="button cfp__cta" :href="event.cfp.website" target="_blank">Apply Now!</a>
+			<a class="button cfp__cta" :href="event.cfp.website" target="_blank"
+				>Apply Now!</a
+			>
 		</div>
 	</div>
 </template>
@@ -42,9 +32,9 @@ export default {
 	props: {
 		event: {
 			type: Object,
-			required: true,
+			required: true
 		}
-	},
+	}
 }
 </script>
 
@@ -78,7 +68,7 @@ export default {
 	border-radius: 5px;
 	font-size: 12px;
 	text-transform: uppercase;
-	margin: 0 0 .5rem;
+	margin: 0 0 0.5rem;
 	display: inline-block;
 }
 
@@ -96,13 +86,13 @@ export default {
 	margin: 0;
 }
 
-.content:not(.custom) .cfp__logo {
+.theme-default-content:not(.custom) .cfp__logo {
 	max-width: 60px;
 	vertical-align: middle;
 	float: right;
 }
 
-.content:not(.custom) .cfp__icon {
+.theme-default-content:not(.custom) .cfp__icon {
 	max-width: 20px;
 	vertical-align: middle;
 }

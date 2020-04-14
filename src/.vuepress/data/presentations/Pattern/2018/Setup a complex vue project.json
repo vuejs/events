@@ -1,0 +1,21 @@
+{
+  "slides": "https://github.com/AMontagu/vue-complex-project/blob/master/VueWorkshop.pptx",
+  "author": "Adrien Montagu",
+  "sourceLanguage": "French",
+  "city": "Lyon",
+  "country": "France",
+  "vueVersion": "2",
+  "event": {
+    "name": "Vue.js Lyon Workshop",
+    "link": "https://www.meetup.com/fr-FR/Vue-js-Lyon/events/253089389/"
+  },
+  "gitRepository": "https://github.com/AMontagu/vue-complex-project",
+  "videoLink": null,
+  "reachSpeaker": {
+    "twitter": null,
+    "github": "https://github.com/amontagu",
+    "vueDiscord": "Adrien Montagu#0597",
+    "email": "adrienmontagu@gmail.com"
+  },
+  "description": "How create a good base for a complex project in Vue ? See how integrate vue-i18n, code splitting, automatic component registration, vuex namespace, with a bonus or login reusable logic (on the separate branch withLogin)"
+}
