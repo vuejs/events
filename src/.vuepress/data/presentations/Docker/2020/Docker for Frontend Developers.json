@@ -1,0 +1,21 @@
+{
+	"slides": "https://docs.google.com/presentation/d/1OUa1ijqeLUWRyzNEuSRohCb9TVjHH__I7QObWEif1Vc",
+	"author": "Frederic Cabassut",
+	"sourceLanguage": "English",
+	"city": "Berlin",
+	"country": "Germany",
+	"vueVersion": "any",
+	"event": {
+		"name": "Vue Global Meetup #1",
+		"link": "https://www.eventbrite.com/e/vue-global-meetup-tickets-101090117262"
+	},
+	"gitRepository": "https://github.com/fredicious/vue-docker-starter-kit",
+	"videoLink": null,
+	"reachSpeaker": {
+		"twitter": null,
+		"github": "https://github.com/fredicious/",
+		"vueDiscord": "Frederic Cabassut#3486",
+		"email": "cabassut.frederic@gmail.com"
+	},
+	"description": "A short introduction on how I use docker in my workflow as a Frontend Developer, making it the only dependency I ever need to bootstrap a new project. I share and show you a concrete example using VueJS."
+}
