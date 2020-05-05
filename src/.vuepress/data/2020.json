@@ -38,7 +38,18 @@
       "type": "meetup"
     }
   ],
-  "May": [    
+  "May": [   
+    {
+      "date": "12th",
+      "time": "at 7:00PM (CEST)",
+      "startDate": "2020-05-12",
+      "endDate": "2020-05-12",
+      "organiser": "Vue.js // Berlin",
+      "organiserLink": "https://www.meetup.com/Vue-js-Berlin/",
+      "name": "Vue.js // Berlin Online Edition #2",
+      "eventLink": "https://www.meetup.com/Vue-js-Berlin/events/wwtgqrybchbqb/",
+      "type": "meetup"
+    }, 
     {
       "date": "20th",
       "time": "at 6:00PM",
