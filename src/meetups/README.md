@@ -69,7 +69,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
 
-### Taiwan
+### Taiwan China
 
 - Taipei - [Vue.js Taiwan](https://www.facebook.com/groups/vuejs.tw/)
 
