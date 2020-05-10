@@ -8,22 +8,26 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### [VueJS Amsterdam](https://vuejs.amsterdam/)
+N/A
 
-- **Dates:** February 20th - 21th, 2020
-- **Location:** Amsterdam, The Netherlands
+## Past
 
-### [VueConfUS](https://vueconf.us/)
-
-- **Dates:** March 2nd - 4th, 2020
-- **Location:** Austin, Texas, USA
+### 2020
 
 ### [Vue Vixens Day](https://vvdayus.vuevixens.org/)
 
 - **Dates:** March 5th, 2020
 - **Location:** Austin, Texas, USA
 
-## Past
+### [VueConfUS](https://vueconf.us/)
+
+- **Dates:** March 2nd - 4th, 2020
+- **Location:** Austin, Texas, USA
+
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** February 20th - 21th, 2020
+- **Location:** Amsterdam, The Netherlands
 
 ### 2019
 
