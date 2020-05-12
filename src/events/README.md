@@ -2,9 +2,9 @@
 sidebar: auto
 ---
 
-# Upcoming Events
+# Upcoming
 
-## Events
+## Meetups
 
 ### [VueDC](https://www.meetup.com/Vue-DC/)
 
@@ -66,16 +66,6 @@ sidebar: auto
 - **Dates:** June 30th, 2020
 - **Location:** Online
 
-## Meetups
-
-Here you will find a list of upcoming local events for Vue.js community efforts. We also have an active [Twitter account](https://twitter.com/vuejs_events) and would be glad to help spread word if you let us know about your event!
-
-::: tip
-Be sure to use [#vuemeetups](https://twitter.com/hashtag/vuemeetups) to make sure we can find and retweet your meetup!
-:::
-
-<EventsTimeline type="meetup" />
-
 ## Workshops
 
 Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
@@ -84,4 +74,6 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-There are currently not CFPs for Vue specific conferences. If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
+There are currently no CFPs for Vue specific conferences.
+
+If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
