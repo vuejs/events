@@ -51,7 +51,6 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
-- Shanghai - [VueJS Shanghai](http://sh.vuejs.city/)
 
 ### Philippines
 
@@ -85,7 +84,6 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Victoria
 
-- Melbourne - [Vuers in Melbourne](https://meetup.com/Vuers-in-Melbourne)
 - Melbourne - [Melbourne Vue.js Meetup](https://meetup.com/vuejs-melbourne)
 
 ## Central America
@@ -220,11 +218,6 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Montreal - [Montreal Vue.js](https://www.meetup.com/Vue-js-Montreal/)
 - Toronto - [Vue Toronto](https://www.meetup.com/Vue-Toronto/)
-- Vancouver - [Vancity Vue.js](https://www.meetup.com/Vancity-Vue-js/)
-
-### Mexico
-
-- Monterrey - [Vue.js](https://meetup.com/Vue-js)
 
 ### United States
 
@@ -250,7 +243,6 @@ The following list prioritizes users' ability to quickly locate the regions they
   - Boston - [Boston Vue.js](https://www.meetup.com/Boston-Vue-js/)
 - Michigan
   - Detroit - [Vuetroit](https://www.meetup.com/Vuetroit/)
-  - Ann Arbor - [Michigan Vue](https://www.meetup.com/Michigan-Vue/)
 - Minnesota
   - Twin Cities - [Mpls Vue.js Meetup](https://www.meetup.com/mpls-vue)
 - Missouri
@@ -297,10 +289,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Brazil
 
 - Belo Horizonte - [Vue.js @ Belo Horizonte](https://meetup.com/Vuejs-at-BH)
-- Curitiba - [Vue Curitiba](https://www.meetup.com/pt-BR/Vue-Curitiba/)
+- Curitiba - [Vue Curitiba](https://www.facebook.com/Vuejs-Curitiba-286947468925534)
 - Espírito Santo - [Vue.js Vix](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 - Florianópolis - [Vue.js Floripa](https://meetup.com/floripa-vuejs)
-- Juazeiro - [Vue Sertão](https://www.meetup.com/pt-BR/vuejs-sertao/)
+- Juazeiro - [Vue Sertão](https://www.facebook.com/pages/category/Sports-Event/Vue-sert%C3%A3o-324971338132377/)
 - Pará - [Vue.js Norte](https://www.meetup.com/pt-BR/Vue-js-Norte)
 - Porto Alegre - [Vue.js Porto Alegre](https://www.meetup.com/Meetup-de-Vue-js-Porto-Alegre/)
 - Rio de Janeiro - [Vue.js in Rio](https://meetup.com/Vue-js-in-Rio)
