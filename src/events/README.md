@@ -4,7 +4,7 @@ sidebar: auto
 
 # Upcoming Events
 
-## Conferences
+## Events
 
 ### [VueDC](https://www.meetup.com/Vue-DC/)
 
