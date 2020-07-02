@@ -34,6 +34,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Bangalore - [Vue Bangalore | VueBLR](https://meetup.com/vue-bangalore)
 - Hyderabad - [Vue Hyderabad](https://www.meetup.com/vue-hyderabad)
+- Indore - [Vue Indore](https://www.vuejsindore.com)
 - Pune - [VueJS Pune](https://www.meetup.com/VueJS-Pune/)
 - Rajkot - [Vue Rajkot](https://rjt.vue.community)
 
