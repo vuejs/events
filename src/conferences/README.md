@@ -8,7 +8,12 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-N/A
+### 2021
+
+### [vueday](https://2021.vueday.it/)
+
+- **Date:** April 29th, 2021
+- **Location:** Online
 
 ## Past
 
