@@ -52,7 +52,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### Mainland China
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
-
+- Shenzhen - [Vue.js Shenzhen](http://vueshenzhen.com/)
 ### Philippines
 
 - Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
