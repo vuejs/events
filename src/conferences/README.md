@@ -8,7 +8,10 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-N/A
+### [Vue London](https://vuejs.london/)
+
+- Dates: October 20th - 21st, 2021
+- Location: London, United Kingdom + Remote (hybrid)
 
 ## Past
 
