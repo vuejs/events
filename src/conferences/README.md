@@ -8,7 +8,7 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### 2020
+### 2021
 
 ### [Vue London](https://vuejs.london/)
 
