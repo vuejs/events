@@ -12,6 +12,11 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
+### [Vue London](https://forms.gle/MyHUPCyiiNUj9Aht8)
+
+- Dates: October 20th - 21st, 2021
+- Location: London, United Kingdom / Remote
+
 ## FAQs
 
 ### How do I add my conference on here?
