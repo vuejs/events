@@ -10,6 +10,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2021
 
+### [Vuejs Global](https://vuejs.amsterdam/)
+
+- **Dates:** October 1-4, 2021
+- **Location:** Amsterdam, Netherlands and Online
+
 ### [Vue London](https://vuejs.london/)
 
 - **Dates:** October 20th - 21st, 2021
