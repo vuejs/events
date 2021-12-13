@@ -8,6 +8,13 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
+### 2022
+
+#### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 26-27th, 2022
+- **Location:** [Remote Conference](https://vuejsnation.com/)
+
 ### 2021
 
 #### [Vuejs Global](https://vuejs.amsterdam/)
