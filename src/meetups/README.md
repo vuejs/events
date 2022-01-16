@@ -16,6 +16,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ## Africa
 
+### Burkina Faso
+
+- Ouagadougou - [VueJS Ouagadougou](https://www.facebook.com/vuejsOuagadougou)
+
 ### Senegal
 
 - Dakar - [Vuejs Dakar](https://www.facebook.com/Vuejs-Dakar-179873696299957)
