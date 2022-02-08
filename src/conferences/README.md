@@ -10,6 +10,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2022
 
+#### [Vuejs.de Conf](https://conf.vuejs.de/)
+
+- **Dates:** September 22nd, 2022
+- **Location:** Berlin, Germany
+
 #### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 26-27th, 2022
