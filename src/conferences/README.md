@@ -15,12 +15,21 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** September 22nd, 2022
 - **Location:** Berlin, Germany
 
+## Past
+
+### 2022
+
 #### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 26-27th, 2022
 - **Location:** [Remote Conference](https://vuejsnation.com/)
 
 ### 2021
+
+##### [vueday](https://2021.vueday.it/)
+
+- **Date:** April 29th, 2021
+- **Location:** Online
 
 #### [Vuejs Global](https://vuejs.amsterdam/)
 
@@ -36,8 +45,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 22-23rd, 2021
 - **Location:** [Remote Conference](https://www.vuetoronto.com/)
-
-## Past
 
 ### 2020
 
