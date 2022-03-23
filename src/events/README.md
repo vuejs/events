@@ -6,6 +6,11 @@ sidebar: auto
 
 ## Conferences
 
+### [Vuejs.de Conf](https://conf.vuejs.de/)
+
+- **Dates:** September 22nd, 2022
+- **Location:** Berlin, Germany
+
 ### [Vuejs Global](https://vuejs.amsterdam/)
 
 - **Dates:** October 1-4, 2021

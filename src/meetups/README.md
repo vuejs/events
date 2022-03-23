@@ -136,6 +136,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Germany
 
+- Germay - [vuejs.de Germany](https://www.vuejs.de/)
 - Aachen - [Aachen Vue.js](https://www.meetup.com/aachen-vue-js-meetup/)
 - Berlin - [Vue.js // Berlin](https://meetup.com/Vue-js-Berlin)
 - Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)
