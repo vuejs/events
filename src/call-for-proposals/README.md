@@ -12,11 +12,6 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vuejs.de Conf](https://conf.vuejs.de/call-for-paper)
-
-- Dates: September 22nd, 2022
-- Location: Berlin, Germany
-
 ### [Vue London](https://forms.gle/MyHUPCyiiNUj9Aht8)
 
 - Dates: October 20th - 21st, 2021

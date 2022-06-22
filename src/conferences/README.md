@@ -12,7 +12,7 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 #### [Vuejs.de Conf](https://conf.vuejs.de/)
 
-- **Dates:** September 22nd, 2022
+- **Dates:** October 5th, 2022
 - **Location:** Berlin, Germany
 
 ## Past
