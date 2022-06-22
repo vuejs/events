@@ -8,7 +8,7 @@ sidebar: auto
 
 ### [Vuejs.de Conf](https://conf.vuejs.de/)
 
-- **Dates:** September 22nd, 2022
+- **Dates:** October 5th, 2022
 - **Location:** Berlin, Germany
 
 ### [Vuejs Global](https://vuejs.amsterdam/)
