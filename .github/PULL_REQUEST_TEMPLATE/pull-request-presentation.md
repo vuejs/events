@@ -1,6 +1,6 @@
 ---
 name: Presentation PR
-about: Share a new presnetation
+about: Share a new presentation
 title: ''
 labels: ''
 assignees: ''
