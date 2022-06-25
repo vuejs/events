@@ -20,6 +20,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Ouagadougou - [VueJS Ouagadougou](https://www.facebook.com/vuejsOuagadougou)
 
+### Kenya
+
+- Nairobi - [VueJS Kenya](https://www.meetup.com/fr-FR/vue-js-kenya/)
+
 ### Senegal
 
 - Dakar - [Vuejs Dakar](https://www.facebook.com/Vuejs-Dakar-179873696299957)
