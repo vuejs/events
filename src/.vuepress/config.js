@@ -72,7 +72,7 @@ module.exports = {
 					},
 					{
 						text: 'Discord',
-						link: 'https://vue-land.js.org/'
+						link: 'https://chat.vuejs.org'
 					}
 				]
 			}
