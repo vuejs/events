@@ -6,6 +6,11 @@ sidebar: auto
 
 ## Conferences
 
+### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** July 13-14th, 2022
+- **Location:** [Remote Conference](https://vuejsforge.com/)
+
 ### [Vuejs.de Conf](https://conf.vuejs.de/)
 
 - **Dates:** October 5th, 2022
