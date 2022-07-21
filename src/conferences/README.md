@@ -10,11 +10,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2022
 
-#### [Vue.js Forge](https://vuejsforge.com/)
-
-- **Dates:** July 13-14th, 2022
-- **Location:** [Remote Conference](https://vuejsforge.com/)
-
 #### [Vuejs.de Conf](https://conf.vuejs.de/)
 
 - **Dates:** October 5th, 2022
@@ -35,6 +30,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 ## Past
 
 ### 2022
+
+#### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** July 13-14th, 2022
+- **Location:** [Remote Conference](https://vuejsforge.com/)
 
 #### [Vue.js Nation](https://vuejsnation.com/)
 
