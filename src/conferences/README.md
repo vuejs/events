@@ -15,6 +15,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** October 5th, 2022
 - **Location:** Berlin, Germany
 
+#### [VueJS Live](https://vuejslive.com/)
+
+- **Dates:** October 28 & 31, 2022
+- **Location:** London, UK + Online
+
 #### [VueConf Toronto](https://vuetoronto.com/)
 
 - **Dates:** November 1-3, 2022
@@ -24,11 +29,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 18, 2022
 - **Location:** Verona, Italy
-
-#### [VueJS Live](https://vuejslive.com/)
-
-- **Dates:** October 28 & 31, 2022
-- **Location:** London, UK + Online
 
 ### 2023
 
