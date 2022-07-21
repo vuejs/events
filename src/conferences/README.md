@@ -8,13 +8,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### 2023
-
-#### [Vue.js Amsterdam](https://vuejs.amsterdam/)
-
-- **Dates:** July 8-10th, 2023
-- **Location:** Amsterdam, Netherlands and Online
-
 ### 2022
 
 #### [Vue.js Forge](https://vuejsforge.com/)
@@ -31,6 +24,13 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 1-3, 2022
 - **Location:** Toronto, Canada
+
+### 2023
+
+#### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** July 8-10th, 2023
+- **Location:** Amsterdam, Netherlands and Online
 
 ## Past
 
