@@ -15,7 +15,7 @@ sidebar: auto
 
 - **Dates:** October 28 & 31, 2022
 - **Location:** London, UK + Online
--
+
 ### [VueConf Toronto](https://vuetoronto.com/)
 
 - **Dates:** November 1-3, 2022
@@ -26,7 +26,6 @@ sidebar: auto
 - **Dates:** November 18, 2022
 - **Location:** Verona, Italy
 
-
 ## Workshops
 
 Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
@@ -34,6 +33,14 @@ Looking for in-person training? Look no further. You will be able to find worksh
 <EventsTimeline type="workshop" />
 
 ## Call for Proposals
+
+### [VueJS Live's CFP link](https://docs.google.com/forms/d/e/1FAIpQLSdMPHgvtFXU3dGSnYnvsPIuTdZ6DDya8_b4mYiAQWpgS-Y4qQ/viewform)
+
+Perks:
+- conference ticket (either remote or in-person) with access to all conf activities
+- speakers dinner
+- hotel booking for 2 nights for speakers coming from the European continent and 3 nights for people coming from outside the European continent (for speakers with the talks approved for the in-person part of the program only)
+- travel costs reimbursement ~ will be discussed separately after talk confirmation (for speakers with the talks approved for the in-person part of the program only)
 
 ### [vueday's CFP link](grusp.org/CFPvueday)
 
