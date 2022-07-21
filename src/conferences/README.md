@@ -27,7 +27,7 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 #### [VueJS Live](https://vuejslive.com/)
 
-- **Dates:** November 28 & 31, 2022
+- **Dates:** October 28 & 31, 2022
 - **Location:** London, UK + Online
 
 ### 2023
