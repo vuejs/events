@@ -42,7 +42,7 @@ Perks:
 - hotel booking for 2 nights for speakers coming from the European continent and 3 nights for people coming from outside the European continent (for speakers with the talks approved for the in-person part of the program only)
 - travel costs reimbursement ~ will be discussed separately after talk confirmation (for speakers with the talks approved for the in-person part of the program only)
 
-### [vueday's CFP link](grusp.org/CFPvueday)
+### [vueday's CFP link](https://docs.google.com/forms/d/e/1FAIpQLSc6sjm6KCjVWzoJPFCvxXDyGtEvq-dtXf95EZTFUyWmp_zBhw/viewform)
 
 Perks:
 - conference ticket, coffee breaks and lunch on the event's day
