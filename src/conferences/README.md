@@ -8,28 +8,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### 2022
-
-#### [Vuejs.de Conf](https://conf.vuejs.de/)
-
-- **Dates:** October 5th, 2022
-- **Location:** Berlin, Germany
-
-#### [VueJS Live](https://vuejslive.com/)
-
-- **Dates:** October 28 & 31, 2022
-- **Location:** London, UK + Online
-
-#### [VueConf Toronto](https://vuetoronto.com/)
-
-- **Dates:** November 1-3, 2022
-- **Location:** Toronto, Canada
-
-#### [vueday](https://2022.vueday.it/)
-
-- **Dates:** November 18, 2022
-- **Location:** Verona, Italy
-
 ### 2023
 
 #### [Vue.js Amsterdam](https://vuejs.amsterdam/)
@@ -37,19 +15,54 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** July 8-10th, 2023
 - **Location:** Amsterdam, Netherlands and Online
 
+#### [Vue.js Live](https://vuejslive.com/)
+
+- **Dates:** May 12-15th, 2023
+- **Location:** London, UK and Online
+
 ## Past
 
 ### 2022
+
+#### [vueday](https://2022.vueday.it/)
+
+- **Dates:** November 18, 2022
+- **Location:** Verona, Italy
+
+#### [NuxtNation](https://nuxtnation.com/)
+
+- **Dates:** November 16-17, 2022
+- **Location:** [Remote Conference](https://vi.to/hubs/nuxtnation)
+
+#### [VueConf Toronto](https://vuetoronto.com/)
+
+- **Dates:** November 1-3, 2022
+- **Location:** Toronto, Canada
+
+#### [VueJS Live](https://vuejslive.com/)
+
+- **Dates:** October 28 & 31, 2022
+- **Location:** London, UK + Online
+
+#### [Vuejs.de Conf](https://conf.vuejs.de/)
+
+- **Dates:** October 5th, 2022
+- **Location:** Berlin, Germany
+
+#### [Vue.js Forge #2](https://vuejsforge.com/)
+
+- **Dates:** August 30-31th, 2022
+- **Location:** [Remote Conference](https://vuejsforge.com/episode-2)
+
+#### [Vue.js Forge #1](https://vuejsforge.com/)
+
+- **Dates:** July 13-14th, 2022
+- **Location:** [Remote Conference](https://vuejsforge.com/episode-1)
 
 #### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 26-27th, 2022
 - **Location:** [Remote Conference](https://vuejsnation.com/)
-
-#### [Vue.js Forge](https://vuejsforge.com/)
-
-- **Dates:** July 13-14th, 2022
-- **Location:** [Remote Conference](https://vuejsforge.com/)
 
 ### 2021
 
@@ -72,6 +85,24 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 22-23rd, 2021
 - **Location:** [Remote Conference](https://www.vuetoronto.com/)
+
+#### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** August 30-31st, 2022
+- **Location:** [Remote Conference] (https://vuejsforge.com/)
+
+#### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** November 16-17th, 2022
+- **Location:** [Remote Conference] (https://nuxtnation.com/)
+
+#### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 26-27th, 2023
+- **Location:** [Remote Conference] (https://vuejsnation.com/)
+
+
+## Past
 
 ### 2020
 
