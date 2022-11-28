@@ -12,10 +12,15 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vue London](https://forms.gle/MyHUPCyiiNUj9Aht8)
+### [Vue London](https://forms.gle/V1727ta24LLFBqKD7)
 
-- Dates: October 20th - 21st, 2021
-- Location: London, United Kingdom / Remote
+- Dates: Open until February 5
+- Location: London, UK and Remote
+
+### [VueJS Amsterdam](???)
+
+- Dates: ???
+- Location: Amsterdam, Netherlands and Online
 
 ## FAQs
 

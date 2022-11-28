@@ -16,6 +16,18 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ## Africa
 
+### Burkina Faso
+
+- Ouagadougou - [VueJS Ouagadougou](https://www.facebook.com/vuejsOuagadougou)
+
+### Kenya
+
+- Nairobi - [VueJS Kenya](https://www.meetup.com/fr-FR/vue-js-kenya/)
+
+### Nigeria
+
+- Lagos - [Vue.js Nigeria](https://www.meetup.com/fr-FR/vuejs-nigeria/)
+
 ### Senegal
 
 - Dakar - [Vuejs Dakar](https://www.facebook.com/Vuejs-Dakar-179873696299957)
@@ -23,6 +35,10 @@ The following list prioritizes users' ability to quickly locate the regions they
 ### South Africa
 
 - Cape Town - [Vue.js in Cape Town](https://web.facebook.com/vuejsincpt/)
+
+### Uganda
+
+- Kampala - [VueVasity](https://twitter.com/VueVasity)
 
 ## Asia
 
@@ -132,6 +148,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 ### Germany
 
+- Germay - [vuejs.de Germany](https://www.vuejs.de/)
 - Aachen - [Aachen Vue.js](https://www.meetup.com/aachen-vue-js-meetup/)
 - Berlin - [Vue.js // Berlin](https://meetup.com/Vue-js-Berlin)
 - Dresden - [Vue.js Dresden](https://www.meetup.com/Vue-js-Dresden/)

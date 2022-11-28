@@ -6,20 +6,7 @@ sidebar: auto
 
 ## Conferences
 
-### [Vuejs Global](https://vuejs.amsterdam/)
-
-- **Dates:** October 1-4, 2021
-- **Location:** Amsterdam, Netherlands and Online
-
-### [Vue London](https://vuejs.london/)
-
-- **Dates:** October 20th - 21st, 2021
-- **Location:** London, United Kingdom / [Remote Conference](https://portal.gitnation.org/multipass)
-
-### [Vue Toronto](https://www.vuetoronto.com/)
-
-- **Dates:** November 22-23rd, 2021
-- **Location:** [Remote Conference](https://www.vuetoronto.com/)
+The dates were not confirmed yet, but [probably those](/conferences/).
 
 ## Workshops
 
@@ -29,6 +16,12 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-- [Vue.js Amsterdam 2021](https://docs.google.com/forms/d/e/1FAIpQLScfb5mGcxCEO43iQ4ldUP2pG4vak2CWmiRQvkPJyfORkHGaXA/viewform)
+### [VueJS Live's CFP link](https://forms.gle/V1727ta24LLFBqKD7)
+
+Perks:
+- conference ticket (either remote or in-person) with access to all conf activities
+- speakers dinner
+- hotel booking for 2 nights for speakers coming from the European continent and 3 nights for people coming from outside the European continent (for speakers with the talks approved for the in-person part of the program only)
+- travel costs reimbursement ~ will be discussed separately after talk confirmation (for speakers with the talks approved for the in-person part of the program only)
 
 If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
