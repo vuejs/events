@@ -11,7 +11,7 @@ And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to 
 Many thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for the list that got us started!
 
 ::: tip Disclaimer
-The following list prioritizes users' ability to quickly locate the regions they identify with - the structure does not imply any specific political views.
+The following list includes **both countries and regions**, in alphabetic order. The purpose is to prioritize users' ability to quickly locate the regions they identify with - the structure does not imply any specific political views.
 :::
 
 ## Africa
@@ -73,6 +73,7 @@ The following list prioritizes users' ability to quickly locate the regions they
 
 - Beijing - [Vue.js Beijing](https://www.vuebeijing.io/)
 - Shenzhen - [Vue.js Shenzhen](http://vueshenzhen.com/)
+
 ### Philippines
 
 - Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
