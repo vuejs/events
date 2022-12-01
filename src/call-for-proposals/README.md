@@ -12,15 +12,15 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vue London](https://forms.gle/V1727ta24LLFBqKD7)
+### [Vue.js Live London](https://forms.gle/V1727ta24LLFBqKD7)
 
-- Dates: Open until February 5
+- Dates: Open until February 5th, 2023
 - Location: London, UK and Remote
 
-### [VueJS Amsterdam](???)
+### [VueConf US](https://sessionize.com/vueconf-us-2023/)
 
-- Dates: ???
-- Location: Amsterdam, Netherlands and Online
+- Dates: Open until Jan 15th, 2023
+- Location: New Orleans, USA
 
 ## FAQs
 
