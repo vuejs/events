@@ -15,12 +15,54 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** January 25-26th, 2023
 - **Location:** [Remote Conference] (https://vuejsnation.com/)
 
+#### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** July 8-10th, 2023
+- **Location:** Amsterdam, Netherlands and Online
+
+#### [Vue.js Live](https://vuejslive.com/)
+
+- **Dates:** May 12-15th, 2023
+- **Location:** London, UK and Online
+
+## Past
+
 ### 2022
 
-#### [Vue.js Forge](https://vuejsforge.com/)
+#### [vueday](https://2022.vueday.it/)
+
+- **Dates:** November 18, 2022
+- **Location:** Verona, Italy
+
+#### [NuxtNation](https://nuxtnation.com/)
+
+- **Dates:** November 16-17, 2022
+- **Location:** [Remote Conference](https://vi.to/hubs/nuxtnation)
+
+#### [VueConf Toronto](https://vuetoronto.com/)
+
+- **Dates:** November 1-3, 2022
+- **Location:** Toronto, Canada
+
+#### [VueJS Live](https://vuejslive.com/)
+
+- **Dates:** October 28 & 31, 2022
+- **Location:** London, UK + Online
+
+#### [Vuejs.de Conf](https://conf.vuejs.de/)
+
+- **Dates:** October 5th, 2022
+- **Location:** Berlin, Germany
+
+#### [Vue.js Forge #2](https://vuejsforge.com/)
+
+- **Dates:** August 30-31th, 2022
+- **Location:** [Remote Conference](https://vuejsforge.com/episode-2)
+
+#### [Vue.js Forge #1](https://vuejsforge.com/)
 
 - **Dates:** July 13-14th, 2022
-- **Location:** [Remote Conference] (https://vuejsforge.com/)
+- **Location:** [Remote Conference](https://vuejsforge.com/episode-1)
 
 #### [Vue.js Nation](https://vuejsnation.com/)
 
@@ -28,6 +70,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Location:** [Remote Conference](https://vuejsnation.com/)
 
 ### 2021
+
+#### [vueday](https://2021.vueday.it/)
+
+- **Date:** April 29th, 2021
+- **Location:** Online
 
 #### [Vuejs Global](https://vuejs.amsterdam/)
 
@@ -53,7 +100,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 16-17th, 2022
 - **Location:** [Remote Conference] (https://nuxtnation.com/)
-
 
 ## Past
 

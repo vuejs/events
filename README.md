@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://events.vuejs.org/" target="_blank">
-    <img width="180" src="https://github.com/vuejs/events/blob/master/src/.vuepress/public/logo.png?raw=true" alt="logo">
+    <img width="180" src="https://events.vuejs.org/logo.png" alt="logo">
   </a>
 </p>
 
