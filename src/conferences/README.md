@@ -10,6 +10,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2023
 
+#### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 25-26th, 2023
+- **Location:** Remote Conference
+
 #### [Vue.js Amsterdam](https://vuejs.amsterdam/)
 
 - **Dates:** July 8-10th, 2023
@@ -95,12 +100,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 16-17th, 2022
 - **Location:** [Remote Conference] (https://nuxtnation.com/)
-
-#### [Vue.js Nation](https://vuejsnation.com/)
-
-- **Dates:** January 26-27th, 2023
-- **Location:** [Remote Conference] (https://vuejsnation.com/)
-
 
 ## Past
 
