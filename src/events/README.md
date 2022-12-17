@@ -6,7 +6,14 @@ sidebar: auto
 
 ## Conferences
 
-The dates were not confirmed yet, but [probably those](/conferences/).
+### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 25-26th, 2023
+- **Location:** Remote Conference
+
+---
+
+The dates were not confirmed yet, but [probably those](/conferences/) too.
 
 ## Workshops
 
