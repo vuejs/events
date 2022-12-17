@@ -13,7 +13,7 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 #### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 25-26th, 2023
-- **Location:** [Remote Conference] (https://vuejsnation.com/)
+- **Location:** Remote Conference
 
 #### [Vue.js Amsterdam](https://vuejs.amsterdam/)
 
