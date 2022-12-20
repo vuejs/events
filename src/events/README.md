@@ -11,6 +11,16 @@ sidebar: auto
 - **Dates:** January 25-26th, 2023
 - **Location:** Remote Conference
 
+#### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** Feb 9-10th, 2023
+- **Location:** Amsterdam, Netherlands
+
+#### [Vue.js Live](https://vuejslive.com/)
+
+- **Dates:** May 12-15th, 2023
+- **Location:** London, UK and Online
+
 ---
 
 The dates were not confirmed yet, but [probably those](/conferences/) too.
