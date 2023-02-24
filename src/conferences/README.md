@@ -25,6 +25,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** May 12-15th, 2023
 - **Location:** London, UK and Online
 
+#### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** April 26-27th, 2023
+- **Location:** [Remote Conference] (https://vuejsforge.com/)
+
 ## Past
 
 ### 2022
