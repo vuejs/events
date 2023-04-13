@@ -86,6 +86,10 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - South Korea - [Vue.js Korea](https://www.facebook.com/groups/1152461054807344/)
 
+### Sri Lanka
+
+- Colombo - [Vue.js Sri Lanka](https://www.facebook.com/groups/956997605457925/)
+
 ### Thailand
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
@@ -304,10 +308,6 @@ The following list includes **both countries and regions**, in alphabetic order.
 - Wellington - [Wellington.vue](https://www.meetup.com/Wellington-vue/)
 
 ## South America
-
-## Sri Lanka
-
-- Colombo - [Vue.js Sri Lanka](https://www.facebook.com/groups/956997605457925/)
 
 ### Argentina
 
