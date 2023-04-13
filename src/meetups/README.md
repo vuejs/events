@@ -305,6 +305,10 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 ## South America
 
+## Sri Lanka
+
+- Colombo - [Vue.js Sri Lanka](https://www.facebook.com/groups/956997605457925/)
+
 ### Argentina
 
 - Buenos Aires - [Vuenos Aires](https://meetup.com/vuenos-aires)
