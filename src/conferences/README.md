@@ -10,6 +10,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2023
 
+#### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** August 2-3rd, 2023
+- **Location:** [Remote Conference] (https://vuejsforge.com/)
+
 #### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 25-26th, 2023
