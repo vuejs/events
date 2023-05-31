@@ -22,18 +22,30 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 #### [Vue.js Amsterdam](https://vuejs.amsterdam/)
 
-- **Dates:** July 8-10th, 2023
-- **Location:** Amsterdam, Netherlands and Online
+- **Dates:** January 25-26th, 2023
+- **Location:** Remote Conference
 
-#### [Vue.js Live](https://vuejslive.com/)
+### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** Feb 9-10th, 2023
+- **Location:** Amsterdam, Netherlands
+
+### [Vue.js Live](https://vuejslive.com/)
 
 - **Dates:** May 12-15th, 2023
 - **Location:** London, UK and Online
+
 
 #### [Vue.js Forge](https://vuejsforge.com/)
 
 - **Dates:** April 26-27th, 2023
 - **Location:** [Remote Conference] (https://vuejsforge.com/)
+
+
+### [VueConf US](https://us.vuejs.org/)
+
+- **Dates:** May 24-26th, 2023
+- **Location:** New Orleans, USA
 
 ## Past
 

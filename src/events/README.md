@@ -6,7 +6,29 @@ sidebar: auto
 
 ## Conferences
 
-The dates were not confirmed yet, but [probably those](/conferences/).
+### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 25-26th, 2023
+- **Location:** Remote Conference
+
+### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** Feb 9-10th, 2023
+- **Location:** Amsterdam, Netherlands
+
+### [Vue.js Live](https://vuejslive.com/)
+
+- **Dates:** May 12-15th, 2023
+- **Location:** London, UK and Online
+
+### [VueConf US](https://us.vuejs.org/)
+
+- **Dates:** May 24-26th, 2023
+- **Location:** New Orleans, USA
+
+---
+
+The dates were not confirmed yet, but [probably those](/conferences/) too.
 
 ## Workshops
 
