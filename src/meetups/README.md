@@ -86,6 +86,10 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - South Korea - [Vue.js Korea](https://www.facebook.com/groups/1152461054807344/)
 
+### Sri Lanka
+
+- Sri Lanka - [Vue.js Sri Lanka](https://www.facebook.com/groups/956997605457925)/[Github](https://github.com/vuejssrilanka)
+
 ### Thailand
 
 - Thailand - [Vue.JS Thailand](https://www.facebook.com/groups/VuejsThailand/)
