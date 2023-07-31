@@ -20,6 +20,10 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - Ouagadougou - [VueJS Ouagadougou](https://www.facebook.com/vuejsOuagadougou)
 
+### Democratic Republic of the Congo (DRC)
+
+- Lubumbashi - [VueJs Lubumbashi](https://www.facebook.com/people/Vuejs-Lubumbashi/100091689452990/)
+
 ### Kenya
 
 - Nairobi - [VueJS Kenya](https://www.meetup.com/fr-FR/vue-js-kenya/)
@@ -217,6 +221,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 - Spain - [Vue Spain](https://www.meetup.com/Vuejs-Spain/)
 - Alicante - [Alicante Frontend](https://www.meetup.com/Alicante-Frontend/)
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
+- Girona, Catalonia - [Vue Girona](https://www.meetup.com/fr-FR/vue-js-girona/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
 
 ### Sweden
@@ -238,6 +243,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - London - [London VueJS Meetup](https://meetup.com/London-Vue-js-Meetup)
 - Manchester - [VueJS Manchester Community](https://www.meetup.com/VueJS-Manchester/)
+- Southampton, Hampshire - [Vue.js Southampton](https://www.meetup.com/fr-FR/vuejs-southampton/)
 
 ## North America
 
