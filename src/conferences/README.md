@@ -15,6 +15,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** August 2-3rd, 2023
 - **Location:** Online
 
+### [ViteConf 2023](https://viteconf.org/23/)
+
+- **Dates:** October 5-6th, 2023
+- **Location:** Online
+
 ### [Vueday](https://2023.vueday.it/)
 
 - **Dates:** November 10th, 2023
