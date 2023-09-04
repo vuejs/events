@@ -6,29 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue.js Nation](https://vuejsnation.com/)
+### [Vue.js Forge](https://vuejsforge.com/)
 
-- **Dates:** January 25-26th, 2023
-- **Location:** Remote Conference
+- **Dates:** August 2-3rd, 2023
+- **Location:** Online
 
-### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+### [Vueday](https://2023.vueday.it/)
 
-- **Dates:** Feb 9-10th, 2023
-- **Location:** Amsterdam, Netherlands
-
-### [Vue.js Live](https://vuejslive.com/)
-
-- **Dates:** May 12-15th, 2023
-- **Location:** London, UK and Online
-
-### [VueConf US](https://us.vuejs.org/)
-
-- **Dates:** May 24-26th, 2023
-- **Location:** New Orleans, USA
-
----
-
-The dates were not confirmed yet, but [probably those](/conferences/) too.
+- **Dates:** November 10th, 2023
+- **Location:** Verona, Italy (and Online)
 
 ## Workshops
 
@@ -38,28 +24,14 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### [VueJS Live London](https://forms.gle/V1727ta24LLFBqKD7)
+### [Vueday](https://2023.vueday.it/welcome/cfp.html) (CFP ends August 31st)
 
 Perks:
+- conference ticket, coffee breaks and lunch on the event's day
+- a single room for 1 night (2 nights for people coming from outside the European continent)
+- speakers' dinner
+- a refund of up to €250 for travel costs within Europe (up to €500 outside the European continent)
 
-- conference ticket (either remote or in-person) with access to all conf activities
-- speakers dinner
-- hotel booking for 2 nights for speakers coming from the European continent and 3 nights for people coming from outside the European continent (for speakers with the talks approved for the in-person part of the program only)
-- travel costs reimbursement ~ will be discussed separately after talk confirmation (for speakers with the talks approved for the in-person part of the program only)
-
-### [VueConf US 2023](https://sessionize.com/vueconf-us-2023/)
-
-The VueConf.US 2023 call for proposals is now open! Workshop day: March 22. Main conf days: March 23-24.
-
-Tracks/Topic areas:
-
-- Vue Fundamentals
-- Vue In Practice
-- Tools, Testing
-- Design & UI & UX
-- Vue on Mobile, Mobile Web & PWAs
-- Full Day workshops
-
-Please email hello@vueconf.us for questions.
+---
 
 If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
