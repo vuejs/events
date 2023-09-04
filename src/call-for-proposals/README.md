@@ -12,6 +12,11 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
+### [Nuxt Nation](https://forms.gle/GrVk2M7bt4GfLPCF7)
+
+- Dates: Open until October 4th, 2023
+- Location: Remote 
+
 ### [Vue.js Live London](https://forms.gle/V1727ta24LLFBqKD7)
 
 - Dates: Open until February 5th, 2023
