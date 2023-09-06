@@ -6,10 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue.js Forge](https://vuejsforge.com/)
+### [Nuxt Nation](https://nuxtnation.com/)
 
-- **Dates:** August 2-3rd, 2023
-- **Location:** Online
+- **Dates:** October 18-19th, 2023
+- **Location:** Remote Conference
+
+### [VueConf Toronto](https://www.vuetoronto.com/)
+
+- **Dates:** November 8-9th, 2023
+- **Location:** Toronto, Ontario
 
 ### [Vueday](https://2023.vueday.it/)
 
@@ -24,13 +29,9 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### [Vueday](https://2023.vueday.it/welcome/cfp.html) (CFP ends August 31st)
+### [VueConf Toronto](https://app.formester.com/f/9c3c4031-6d84-463e-aca0-4c10dad1da8c) (CFP ends September 15th)
 
-Perks:
-- conference ticket, coffee breaks and lunch on the event's day
-- a single room for 1 night (2 nights for people coming from outside the European continent)
-- speakers' dinner
-- a refund of up to €250 for travel costs within Europe (up to €500 outside the European continent)
+### [Nuxt nation](https://docs.google.com/forms/d/e/1FAIpQLSdfmH4CrFG9QI3wg20EaWfvH1C1P0jLaUbh1VqAc1kd0HIl6A/viewform) (CFP ends October 4th)
 
 ---
 
