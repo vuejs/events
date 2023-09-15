@@ -223,6 +223,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 - Barcelona - [VueJS Barcelona](https://www.meetup.com/VueJS-BCN/)
 - Girona, Catalonia - [Vue Girona](https://www.meetup.com/fr-FR/vue-js-girona/)
 - Madrid - [VueJS Madrid](https://www.meetup.com/VueJS-Madrid/)
+- Málaga - [Vue Málaga](https://www.vuemalaga.com/)
 
 ### Sweden
 
