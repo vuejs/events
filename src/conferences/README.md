@@ -10,6 +10,47 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2023
 
+### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** October 18-19th, 2023
+- **Location:** Remote Conference
+
+### [Vue Fes Japan](https://vuefes.jp/2023/)
+
+- **Dates:** October 28th, 2023
+- **Location:** Nakano, TOKYO
+
+### [VueConf Toronto](https://www.vuetoronto.com/)
+
+- **Dates:** November 8-9th, 2023
+- **Location:** Toronto, Ontario
+
+### [Vueday](https://2023.vueday.it/)
+
+- **Dates:** November 10th, 2023
+- **Location:** Verona, Italy (and Online)
+
+### 2024
+
+### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January (TBD), 2024
+- **Location:** Remote Conference
+
+### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** February 28-29th, 2024
+- **Location:** Amsterdam, Netherlands and Online
+
+## Past
+
+### 2023
+
+### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** August 2-3rd, 2023
+- **Location:** Online
+
 ### [Vue.js Nation](https://vuejsnation.com/)
 
 - **Dates:** January 25-26th, 2023
@@ -29,8 +70,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** May 24-26th, 2023
 - **Location:** New Orleans, USA
-
-## Past
 
 ### 2022
 

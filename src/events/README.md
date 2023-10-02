@@ -6,29 +6,25 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue.js Nation](https://vuejsnation.com/)
+### [Nuxt Nation](https://nuxtnation.com/)
 
-- **Dates:** January 25-26th, 2023
+- **Dates:** October 18-19th, 2023
 - **Location:** Remote Conference
 
-### [Vue.js Amsterdam](https://vuejs.amsterdam/)
+### [Vue Fes Japan](https://vuefes.jp/2023/)
 
-- **Dates:** Feb 9-10th, 2023
-- **Location:** Amsterdam, Netherlands
+- **Dates:** October 28th, 2023
+- **Location:** Nakano, TOKYO
 
-### [Vue.js Live](https://vuejslive.com/)
+### [VueConf Toronto](https://www.vuetoronto.com/)
 
-- **Dates:** May 12-15th, 2023
-- **Location:** London, UK and Online
+- **Dates:** November 8-9th, 2023
+- **Location:** Toronto, Ontario
 
-### [VueConf US](https://us.vuejs.org/)
+### [Vueday](https://2023.vueday.it/)
 
-- **Dates:** May 24-26th, 2023
-- **Location:** New Orleans, USA
-
----
-
-The dates were not confirmed yet, but [probably those](/conferences/) too.
+- **Dates:** November 10th, 2023
+- **Location:** Verona, Italy (and Online)
 
 ## Workshops
 
@@ -38,28 +34,10 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### [VueJS Live London](https://forms.gle/V1727ta24LLFBqKD7)
+### [VueConf Toronto](https://app.formester.com/f/9c3c4031-6d84-463e-aca0-4c10dad1da8c) (CFP ends September 15th)
 
-Perks:
+### [Nuxt nation](https://docs.google.com/forms/d/e/1FAIpQLSdfmH4CrFG9QI3wg20EaWfvH1C1P0jLaUbh1VqAc1kd0HIl6A/viewform) (CFP ends October 4th)
 
-- conference ticket (either remote or in-person) with access to all conf activities
-- speakers dinner
-- hotel booking for 2 nights for speakers coming from the European continent and 3 nights for people coming from outside the European continent (for speakers with the talks approved for the in-person part of the program only)
-- travel costs reimbursement ~ will be discussed separately after talk confirmation (for speakers with the talks approved for the in-person part of the program only)
-
-### [VueConf US 2023](https://sessionize.com/vueconf-us-2023/)
-
-The VueConf.US 2023 call for proposals is now open! Workshop day: March 22. Main conf days: March 23-24.
-
-Tracks/Topic areas:
-
-- Vue Fundamentals
-- Vue In Practice
-- Tools, Testing
-- Design & UI & UX
-- Vue on Mobile, Mobile Web & PWAs
-- Full Day workshops
-
-Please email hello@vueconf.us for questions.
+---
 
 If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
