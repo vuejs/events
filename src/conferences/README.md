@@ -136,12 +136,12 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 #### [Vue.js Forge](https://vuejsforge.com/)
 
 - **Dates:** August 30-31st, 2022
-- **Location:** [Remote Conference] (https://vuejsforge.com/)
+- **Location:** [Remote Conference](https://vuejsforge.com/)
 
 #### [Nuxt Nation](https://nuxtnation.com/)
 
 - **Dates:** November 16-17th, 2022
-- **Location:** [Remote Conference] (https://nuxtnation.com/)
+- **Location:** [Remote Conference](https://nuxtnation.com/)
 
 ## Past
 
