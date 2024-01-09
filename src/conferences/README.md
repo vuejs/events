@@ -20,6 +20,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** February 28-29th, 2024
 - **Location:** Amsterdam, Netherlands and Online
 
+### [VueConf US](https://us.vuejs.org/)
+
+- **Dates:** May 15-17th, 2024
+- **Location:** New Orleans, USA
+
 ## Past
 
 ### 2023
