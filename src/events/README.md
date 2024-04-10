@@ -16,6 +16,11 @@ sidebar: auto
 - **Dates:** October 08-11th, 2024
 - **Location:** [Bonn, Germany](https://conf.vuejs.de/)
 
+### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
+
+- **Dates:** October 19th, 2024
+- **Location:** [Tokyo, Japan](https://vuefes.jp/2024/)
+
 ## Workshops
 
 Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
