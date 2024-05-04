@@ -30,6 +30,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** October 08-11th, 2024
 - **Location:** Bonn, Germany
 
+### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
+
+- **Dates:** October 19th, 2024
+- **Location:** Tokyo, Japan
+
 ## Past
 
 ### 2023
@@ -64,10 +69,10 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** October 18-19th, 2023
 - **Location:** Remote Conference
 
-### [Vue Fes Japan](https://vuefes.jp/2023/)
+### [Vue Fes Japan 2023](https://vuefes.jp/2023/)
 
 - **Dates:** October 28th, 2023
-- **Location:** Nakano, TOKYO
+- **Location:** Tokyo, Japan
 
 ### [VueConf Toronto](https://www.vuetoronto.com/)
 
