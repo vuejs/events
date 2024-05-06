@@ -195,6 +195,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 ### Netherlands
 
+- Amsterdam - [VueJS Rocks](https://www.meetup.com/vuejsrocks/)
 - Amsterdam - [VueJS Meetup Amsterdam](https://meetup.com/VueJSMeetupAmsterdam)
 - Amsterdam - [VueJS Amsterdam](https://meetup.com/VueJS-Amsterdam)
 
