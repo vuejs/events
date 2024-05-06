@@ -12,21 +12,6 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vuejs.de Conf](https://conf.vuejs.de/call-for-paper/)
-
-- Dates: Open until April 10th, 2024
-- Location: Bonn, Germany
-
-### [VueConf Toronto](https://app.formester.com/f/9c3c4031-6d84-463e-aca0-4c10dad1da8c)
-
-- Dates: Open until September 15th, 2023
-- Location: Toronto, Ontario
-
-### [Nuxt Nation](https://forms.gle/GrVk2M7bt4GfLPCF7)
-
-- Dates: Open until October 4th, 2023
-- Location: Remote
-
 ## FAQs
 
 ### How do I add my conference on here?
