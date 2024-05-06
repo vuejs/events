@@ -6,10 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue.js Nation](https://vuejsnation.com/)
+### [VueConf US](https://us.vuejs.org/)
 
-- **Dates:** January 24-25th, 2024
-- **Location:** [Remote Conference](https://vuejsnation.com/)
+- **Dates:** May 15-17th, 2024
+- **Location:** New Orleans, USA
+
+### [Frontend Nation](https://frontendnation.com/)
+
+- **Dates:** June 4-7th, 2024
+- **Location:** [Remote Conference](https://frontendnation.com/)
 
 ### [Vuejs.de Conf](https://conf.vuejs.de/)
 
@@ -28,10 +33,6 @@ Looking for in-person training? Look no further. You will be able to find worksh
 <EventsTimeline type="workshop" />
 
 ## Call for Proposals
-
-### [Vuejs.de Conf](https://conf.vuejs.de/call-for-paper/) (CFP ends April 10th 2024)
-
-### [Vue.js Nation](https://docs.google.com/forms/d/e/1FAIpQLSeG4gilJmGcK4PStWt831FRFiwGSUzohKpZwFk3Xfa5KEiU3Q/viewform) (CFP ends December 23rd)
 
 ---
 
