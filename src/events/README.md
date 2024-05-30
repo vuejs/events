@@ -6,15 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [VueConf US](https://us.vuejs.org/)
-
-- **Dates:** May 15-17th, 2024
-- **Location:** New Orleans, USA
-
 ### [Frontend Nation](https://frontendnation.com/)
 
 - **Dates:** June 4-7th, 2024
 - **Location:** [Remote Conference](https://frontendnation.com/)
+
+### [VueConf CN 2024](https://vueconf.cn/)
+
+- **Dates:** July 6th, 2024
+- **Location:** 中国·深圳 (Shenzhen Zhuoyuehui Store)
 
 ### [Vuejs.de Conf](https://conf.vuejs.de/)
 
