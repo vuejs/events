@@ -20,6 +20,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** July 6th, 2024
 - **Location:** 中国·深圳 (Shenzhen Zhuoyuehui Store)
 
+### [PragVue 2024](https://pragvue.com/)
+
+- **Dates:** September 17th, 2024
+- **Location:** Cinema City - Nový Smíchov, Czechia
+
 ### [Vuejs.de Conf](https://conf.vuejs.de/)
 
 - **Dates:** October 08-11th, 2024
