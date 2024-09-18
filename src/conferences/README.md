@@ -10,6 +10,16 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## 2024
 
+#### [Vue.js Forge] (https://vuejsforge.com/)
+
+- **Dates:** November 14th, 2024
+- **Location:** [Remote Conference] (https://vuejsforge.com/)
+
+#### [Nuxt Nation](https://nuxtnation.com/))
+
+- **Dates:** November 12-13th, 2024
+- **Location:** [Remote Conference] (https://nuxtnation.com/)
+
 #### [Frontend Nation](https://frontendnation.com/)
 
 - **Dates:** June 4-7th, 2024
