@@ -10,6 +10,25 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2024
 
+### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
+
+- **Dates:** October 19th, 2024
+- **Location:** Tokyo, Japan
+
+### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** November 12-13th, 2024
+- **Location:** [Remote Conference](https://nuxtnation.com/)
+
+### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** November 14th, 2024
+- **Location:** [Remote Conference](https://vuejsforge.com/)
+
+## Past
+
+### 2024
+
 ### [Frontend Nation](https://frontendnation.com/)
 
 - **Dates:** June 4-7th, 2024
@@ -29,15 +48,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** October 08-11th, 2024
 - **Location:** Bonn, Germany
-
-### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
-
-- **Dates:** October 19th, 2024
-- **Location:** Tokyo, Japan
-
-## Past
-
-### 2024
 
 ### [VueConf US](https://us.vuejs.org/)
 

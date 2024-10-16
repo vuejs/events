@@ -6,30 +6,20 @@ sidebar: auto
 
 ## Conferences
 
-### [Frontend Nation](https://frontendnation.com/)
-
-- **Dates:** June 4-7th, 2024
-- **Location:** [Remote Conference](https://frontendnation.com/)
-
-### [VueConf CN 2024](https://vueconf.cn/)
-
-- **Dates:** July 6th, 2024
-- **Location:** 中国·深圳 (Shenzhen Zhuoyuehui Store)
-
-### [PragVue 2024](https://pragvue.com/)
-
-- **Dates:** September 17th, 2024
-- **Location:** Cinema City - Nový Smíchov, Czechia
-
-### [Vuejs.de Conf](https://conf.vuejs.de/)
-
-- **Dates:** October 08-11th, 2024
-- **Location:** [Bonn, Germany](https://conf.vuejs.de/)
-
 ### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
 
 - **Dates:** October 19th, 2024
 - **Location:** [Tokyo, Japan](https://vuefes.jp/2024/)
+
+### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** November 12-13th, 2024
+- **Location:** [Remote Conference](https://nuxtnation.com/)
+
+### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** November 14th, 2024
+- **Location:** [Remote Conference](https://vuejsforge.com/)
 
 ## Workshops
 
