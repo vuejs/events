@@ -10,6 +10,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## 2024
 
+#### [Vue.js Nation] (https://vuejsnation.com/)
+
+- **Dates:** January 29-30, 2025
+- **Location:** [Remote Conference] (https://vuejsnation.com/)
+
 #### [Vue.js Forge](https://vuejsforge.com/)
 
 - **Dates:** November 14th, 2024
