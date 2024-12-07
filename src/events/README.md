@@ -6,20 +6,15 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
+### [Vue.js Nation](https://vuejsnation.com/)
 
-- **Dates:** October 19th, 2024
-- **Location:** [Tokyo, Japan](https://vuefes.jp/2024/)
+- **Dates:** January 29-30th, 2025
+- **Location:** Remote
 
-### [Nuxt Nation](https://nuxtnation.com/)
+### [PragVue](https://pragvue.com/)
 
-- **Dates:** November 12-13th, 2024
-- **Location:** [Remote Conference](https://nuxtnation.com/)
-
-### [Vue.js Forge](https://vuejsforge.com/)
-
-- **Dates:** November 14th, 2024
-- **Location:** [Remote Conference](https://vuejsforge.com/)
+- **Dates:** September 23rd, 2025
+- **Location:** Prague, Czech Republic
 
 ## Workshops
 
@@ -28,6 +23,11 @@ Looking for in-person training? Look no further. You will be able to find worksh
 <EventsTimeline type="workshop" />
 
 ## Call for Proposals
+
+### [Vue.js Nation](https://forms.gle/o4M8A34HRL1LmpY3A)
+
+- Dates: Open until December 23rd, 2024
+- Location: Remote
 
 ---
 

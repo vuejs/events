@@ -19,7 +19,7 @@ Please check out the [Issues board](https://github.com/vuejs/events/issues) for 
 
 ### Requirements
 
-1. [Node.js](https://nodejs.org/en/) v8.0+
+1. [Node.js](https://nodejs.org/en/) v20 recommended + use [`export NODE_OPTIONS=--openssl-legacy-provider`](https://stackoverflow.com/a/75414915/8816585) in your terminal
 1. [yarn](https://yarnpkg.com/en/) - Strongly recommended
 
 ### Instructions

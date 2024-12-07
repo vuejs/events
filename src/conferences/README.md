@@ -8,6 +8,20 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
+### 2025
+
+#### [Vue.js Nation](https://vuejsnation.com/)
+
+- **Dates:** January 29-30th, 2025
+- **Location:** Remote
+
+#### [PragVue](https://pragvue.com/)
+
+- **Dates:** September 23rd, 2025
+- **Location:** Prague, Czech Republic
+
+## Past
+
 ### 2024
 
 ### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
@@ -24,10 +38,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** November 14th, 2024
 - **Location:** [Remote Conference](https://vuejsforge.com/)
-
-## Past
-
-### 2024
 
 ### [Frontend Nation](https://frontendnation.com/)
 

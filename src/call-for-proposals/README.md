@@ -12,6 +12,11 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
+### [Vue.js Nation](https://forms.gle/o4M8A34HRL1LmpY3A)
+
+- Dates: Open until December 23rd, 2024
+- Location: Remote
+
 ## FAQs
 
 ### How do I add my conference on here?
