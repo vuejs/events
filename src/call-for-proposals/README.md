@@ -12,10 +12,10 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vue.js Nation](https://forms.gle/o4M8A34HRL1LmpY3A)
+### [MadVue](https://bit.ly/MadVueCFP)
 
-- Dates: Open until December 23rd, 2024
-- Location: Remote
+- Dates: Open until February 28th, 2025
+- Location: Madrid
 
 ## FAQs
 
