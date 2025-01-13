@@ -15,6 +15,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** January 29-30th, 2025
 - **Location:** Remote
 
+#### [MadVue](https://madvue.es/)
+
+- **Dates:** May 29th, 2025
+- **Location:** Madrid, Spain
+
 #### [PragVue](https://pragvue.com/)
 
 - **Dates:** September 23rd, 2025
