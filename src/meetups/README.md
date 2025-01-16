@@ -348,5 +348,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 ## Remote
 
-- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
 - JavaScript and Friends - [VueEvents](https://www.javascriptandfriends.com/communityevents)
+- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
+- Vuestic - [Vue Talks](https://lu.ma/ceiiaem4)
+
