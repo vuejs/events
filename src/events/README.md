@@ -34,6 +34,11 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - Dates: Open until February 28th, 2025
 - Location: Madrid
 
+### [Vue.js Talks](https://lu.ma/8hiuzfjc)
+
+- Dates: Open always
+- Location: Online
+
 ---
 
 If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
