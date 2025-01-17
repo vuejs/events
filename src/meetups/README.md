@@ -350,5 +350,5 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 - JavaScript and Friends - [VueEvents](https://www.javascriptandfriends.com/communityevents)
 - ThisDot - [VueMeetup](https://www.vuemeetup.com/)
-- Vuestic - [Vue Talks](https://lu.ma/ceiiaem4)
+- Epicmax - [Vue.js Talks](https://lu.ma/vuestic)
 
