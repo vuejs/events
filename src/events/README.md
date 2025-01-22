@@ -11,6 +11,11 @@ sidebar: auto
 - **Dates:** January 29-30th, 2025
 - **Location:** Remote
 
+### [VueJS Amsterdam](https://vuejs.amsterdam/)
+
+- **Dates:** March 12-13th, 2025
+- **Location:** Amsterdam, Netherlands
+
 ### [MadVue](https://madvue.es/)
 
 - **Dates:** May 29th, 2025
