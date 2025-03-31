@@ -30,6 +30,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** September 23rd, 2025
 - **Location:** Prague, Czech Republic
 
+#### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
+
 ## Past
 
 ### 2024

@@ -26,6 +26,11 @@ sidebar: auto
 - **Dates:** September 23rd, 2025
 - **Location:** Prague, Czech Republic
 
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
+
 ## Workshops
 
 Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
