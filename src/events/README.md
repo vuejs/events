@@ -6,15 +6,10 @@ sidebar: auto
 
 ## Conferences
 
-### [Vue.js Nation](https://vuejsnation.com/)
+### [Vueconf.US](https://vueconf.us/)
 
-- **Dates:** January 29-30th, 2025
-- **Location:** Remote
-
-### [VueJS Amsterdam](https://vuejs.amsterdam/)
-
-- **Dates:** March 12-13th, 2025
-- **Location:** Amsterdam, Netherlands
+- **Dates:** May 19-21th, 2025
+- **Location:** Tampa, USA
 
 ### [MadVue](https://madvue.es/)
 
