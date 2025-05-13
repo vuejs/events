@@ -12,11 +12,6 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [MadVue](https://bit.ly/MadVueCFP)
-
-- Dates: Open until February 28th, 2025
-- Location: Madrid
-
 ## FAQs
 
 ### How do I add my conference on here?

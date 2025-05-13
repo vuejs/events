@@ -16,6 +16,16 @@ sidebar: auto
 - **Dates:** May 29th, 2025
 - **Location:** Madrid, Spain
 
+### [Frontend Nation](https://frontendnation.com/)
+
+- **Dates:** June 3-5th, 2025
+- **Location:** Online
+
+### [VueConf CN 2025](https://vueconf.cn/)
+
+- **Dates:** July 12th, 2025
+- **Location:** 中国·深圳 / Shenzhen, China
+
 ### [PragVue](https://pragvue.com/)
 
 - **Dates:** September 23rd, 2025
@@ -33,11 +43,6 @@ Looking for in-person training? Look no further. You will be able to find worksh
 <EventsTimeline type="workshop" />
 
 ## Call for Proposals
-
-### [MadVue](https://bit.ly/MadVueCFP)
-
-- Dates: Open until February 28th, 2025
-- Location: Madrid
 
 ### [Vue.js Talks](https://forms.gle/AMBkomBWZwmA5veQ7)
 
