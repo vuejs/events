@@ -49,6 +49,11 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - Dates: Open always
 - Location: Online
 
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
+
 ---
 
 If you know of any, please submit it [here](https://github.com/vuejs/events/issues/new?assignees=&labels=&template=cfp-submission.md&title=%5BCFP%5D).
