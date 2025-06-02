@@ -12,6 +12,11 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
+
 ## FAQs
 
 ### How do I add my conference on here?
