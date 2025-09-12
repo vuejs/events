@@ -16,7 +16,7 @@ sidebar: auto
 - **Dates:** October 25th, 2025
 - **Location:** Tokyo, Japan
 
-### [MadVue](https://madvue.es/)
+### [MadVue](https://madvue.es/?utm_source=vuejsevents)
 
 - **Dates:** May 22nd, 2026
 - **Location:** Madrid, Spain
