@@ -10,26 +10,6 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ### 2025
 
-#### [Vueconf.US](https://vueconf.us/)
-
-- **Dates:** May 19-21th, 2025
-- **Location:** Tampa, USA
-
-#### [MadVue](https://madvue.es/)
-
-- **Dates:** May 29th, 2025
-- **Location:** Madrid, Spain
-
-#### [Frontend Nation](https://frontendnation.com/)
-
-- **Dates:** June 3-5th, 2025
-- **Location:** Online
-
-#### [VueConf CN 2025](https://vueconf.cn/)
-
-- **Dates:** July 12th, 2025
-- **Location:** 中国·深圳 / Shenzhen, China
-
 #### [PragVue](https://pragvue.com/)
 
 - **Dates:** September 23rd, 2025
@@ -40,7 +20,36 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** October 25th, 2025
 - **Location:** Tokyo, Japan
 
+### 2026
+
+#### [MadVue](https://madvue.es/)
+
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
+
 ## Past
+
+### 2025
+
+### [Vueconf.US](https://vueconf.us/)
+
+- **Dates:** May 19-21th, 2025
+- **Location:** Tampa, USA
+
+### [MadVue](https://madvue.es/)
+
+- **Dates:** May 29th, 2025
+- **Location:** Madrid, Spain
+
+### [Frontend Nation](https://frontendnation.com/)
+
+- **Dates:** June 3-5th, 2025
+- **Location:** Online
+
+### [VueConf CN 2025](https://vueconf.cn/)
+
+- **Dates:** July 12th, 2025
+- **Location:** 中国·深圳 / Shenzhen, China
 
 ### 2024
 
