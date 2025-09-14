@@ -17,6 +17,11 @@ This section is intended to provide a single source of truth for Vue.js develope
 - **Dates:** October 25th, 2025
 - **Location:** Tokyo, Japan
 
+### [MadVue 2026](https://madvue.es/cfp/)
+
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
+
 ## FAQs
 
 ### How do I add my conference on here?
