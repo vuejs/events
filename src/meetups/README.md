@@ -77,7 +77,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 - Shenzhen - [Vue.js Shenzhen](http://vueshenzhen.com/)
 
 ### Philippines
-
+- Philippines - [Vue.js Philippines](https://www.facebook.com/VuePh/)
 - Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
 
 ### Singapore
