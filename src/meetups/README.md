@@ -90,7 +90,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 ### Sri Lanka
 
-- Sri Lanka - [Vue.js Sri Lanka](https://www.facebook.com/groups/956997605457925)/[Github](https://github.com/vuejssrilanka)
+- Sri Lanka - [Vue.js Sri Lanka](https://www.linkedin.com/company/vue-js-sri-lanka/)/[Github](https://github.com/vuejssrilanka)
 
 ### Thailand
 
