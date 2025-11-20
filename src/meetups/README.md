@@ -6,8 +6,6 @@ sidebar: auto
 
 To add yours to the list, please [open an issue](https://github.com/vuejs/events/issues/new/choose) or submit a PR to the [repo](https://github.com/vuejs/events).
 
-And if you haven't heard of it, check out [VuePeople](https://vuepeople.org) to get connected with individuals around the world.
-
 Many thanks to [TheJaredWilcurt](https://github.com/TheJaredWilcurt) for the list that got us started!
 
 ::: tip Disclaimer
@@ -79,7 +77,7 @@ The following list includes **both countries and regions**, in alphabetic order.
 - Shenzhen - [Vue.js Shenzhen](http://vueshenzhen.com/)
 
 ### Philippines
-
+- Philippines - [Vue.js Philippines](https://www.facebook.com/VuePh/)
 - Cebu - [Vue.js Cebu](https://facebook.com/vuejscebu/)
 
 ### Singapore
@@ -196,11 +194,10 @@ The following list includes **both countries and regions**, in alphabetic order.
 ### Netherlands
 
 - Amsterdam - [VueJS Meetup Amsterdam](https://meetup.com/VueJSMeetupAmsterdam)
-- Amsterdam - [VueJS Amsterdam](https://meetup.com/VueJS-Amsterdam)
 
 ### Poland
 
-- Poland - [Vue.js Poland Meetup](https://meetup.com/Vue-js-Poland)
+- Wrocław - [Vue.js Meetup by Monterail](https://www.meetup.com/pl-PL/wroclaw-technology-events-monterail/events/306950577)
 
 ### Portugal
 
@@ -347,5 +344,6 @@ The following list includes **both countries and regions**, in alphabetic order.
 
 ## Remote
 
-- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
 - JavaScript and Friends - [VueEvents](https://www.javascriptandfriends.com/communityevents)
+- ThisDot - [VueMeetup](https://www.vuemeetup.com/)
+- Epicmax - [Vue.js Talks](https://lu.ma/vuestic)

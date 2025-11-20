@@ -12,15 +12,15 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [VueConf Toronto](https://app.formester.com/f/9c3c4031-6d84-463e-aca0-4c10dad1da8c)
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
 
-- Dates: Open until September 15th, 2023
-- Location: Toronto, Ontario
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
 
-### [Nuxt Nation](https://forms.gle/GrVk2M7bt4GfLPCF7)
+### [MadVue 2026](https://madvue.es/cfp/)
 
-- Dates: Open until October 4th, 2023
-- Location: Remote
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
 
 ## FAQs
 

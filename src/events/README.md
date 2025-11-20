@@ -6,25 +6,20 @@ sidebar: auto
 
 ## Conferences
 
-### [Nuxt Nation](https://nuxtnation.com/)
+### [PragVue](https://pragvue.com/)
 
-- **Dates:** October 18-19th, 2023
-- **Location:** Remote Conference
+- **Dates:** September 23rd, 2025
+- **Location:** Prague, Czech Republic
 
-### [Vue Fes Japan](https://vuefes.jp/2023/)
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
 
-- **Dates:** October 28th, 2023
-- **Location:** Nakano, TOKYO
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
 
-### [VueConf Toronto](https://www.vuetoronto.com/)
+### [MadVue](https://madvue.es/)
 
-- **Dates:** November 8-9th, 2023
-- **Location:** Toronto, Ontario
-
-### [Vueday](https://2023.vueday.it/)
-
-- **Dates:** November 10th, 2023
-- **Location:** Verona, Italy (and Online)
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
 
 ## Workshops
 
@@ -34,9 +29,20 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 ## Call for Proposals
 
-### [VueConf Toronto](https://app.formester.com/f/9c3c4031-6d84-463e-aca0-4c10dad1da8c) (CFP ends September 15th)
+### [Vue.js Talks](https://forms.gle/AMBkomBWZwmA5veQ7)
 
-### [Nuxt nation](https://docs.google.com/forms/d/e/1FAIpQLSdfmH4CrFG9QI3wg20EaWfvH1C1P0jLaUbh1VqAc1kd0HIl6A/viewform) (CFP ends October 4th)
+- Dates: Open always
+- Location: Online
+
+### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
+
+### [MadVue 2026](https://madvue.es/cfp/)
+
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
 
 ---
 

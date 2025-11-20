@@ -8,41 +8,105 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### 2023
+### 2025
 
-### [Nuxt Nation](https://nuxtnation.com/)
+#### [PragVue](https://pragvue.com/)
 
-- **Dates:** October 18-19th, 2023
-- **Location:** Remote Conference
+- **Dates:** September 23rd, 2025
+- **Location:** Prague, Czech Republic
 
-### [Vue Fes Japan](https://vuefes.jp/2023/)
+#### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
 
-- **Dates:** October 28th, 2023
-- **Location:** Nakano, TOKYO
+- **Dates:** October 25th, 2025
+- **Location:** Tokyo, Japan
 
-### [VueConf Toronto](https://www.vuetoronto.com/)
+### 2026
 
-- **Dates:** November 8-9th, 2023
-- **Location:** Toronto, Ontario
+#### [MadVue](https://madvue.es/)
 
-### [Vueday](https://2023.vueday.it/)
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
 
-- **Dates:** November 10th, 2023
-- **Location:** Verona, Italy (and Online)
+## Past
+
+### 2025
+
+### [Vueconf.US](https://vueconf.us/)
+
+- **Dates:** May 19-21th, 2025
+- **Location:** Tampa, USA
+
+### [MadVue](https://madvue.es/)
+
+- **Dates:** May 29th, 2025
+- **Location:** Madrid, Spain
+
+### [Frontend Nation](https://frontendnation.com/)
+
+- **Dates:** June 3-5th, 2025
+- **Location:** Online
+
+### [VueConf CN 2025](https://vueconf.cn/)
+
+- **Dates:** July 12th, 2025
+- **Location:** 中国·深圳 / Shenzhen, China
 
 ### 2024
 
+### [Vue Fes Japan 2024](https://vuefes.jp/2024/)
+
+- **Dates:** October 19th, 2024
+- **Location:** Tokyo, Japan
+
+### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** November 12-13th, 2024
+- **Location:** [Remote Conference](https://nuxtnation.com/)
+
+### [Vue.js Forge](https://vuejsforge.com/)
+
+- **Dates:** November 14th, 2024
+- **Location:** [Remote Conference](https://vuejsforge.com/)
+
+### [Frontend Nation](https://frontendnation.com/)
+
+- **Dates:** June 4-7th, 2024
+- **Location:** [Remote Conference](https://frontendnation.com/)
+
+### [VueConf CN 2024](https://vueconf.cn/)
+
+- **Dates:** July 6th, 2024
+- **Location:** 中国·深圳 (Shenzhen Zhuoyuehui Store)
+
+### [PragVue 2024](https://pragvue.com/)
+
+- **Dates:** September 17th, 2024
+- **Location:** Cinema City - Nový Smíchov, Czechia
+
+### [Vuejs.de Conf](https://conf.vuejs.de/)
+
+- **Dates:** October 08-11th, 2024
+- **Location:** Bonn, Germany
+
+### [VueConf US](https://us.vuejs.org/)
+
+- **Dates:** May 15-17th, 2024
+- **Location:** New Orleans, USA
+
+### [Vue.js Live](https://vuejslive.com/)
+
+- **Dates:** April 25-26th, 2024
+- **Location:** Remote Conference
+
 ### [Vue.js Nation](https://vuejsnation.com/)
 
-- **Dates:** January (TBD), 2024
+- **Dates:** January 24-25th, 2024
 - **Location:** Remote Conference
 
 ### [Vue.js Amsterdam](https://vuejs.amsterdam/)
 
 - **Dates:** February 28-29th, 2024
 - **Location:** Amsterdam, Netherlands and Online
-
-## Past
 
 ### 2023
 
@@ -70,6 +134,26 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** May 24-26th, 2023
 - **Location:** New Orleans, USA
+
+### [Nuxt Nation](https://nuxtnation.com/)
+
+- **Dates:** October 18-19th, 2023
+- **Location:** Remote Conference
+
+### [Vue Fes Japan 2023](https://vuefes.jp/2023/)
+
+- **Dates:** October 28th, 2023
+- **Location:** Tokyo, Japan
+
+### [VueConf Toronto](https://www.vuetoronto.com/)
+
+- **Dates:** November 8-9th, 2023
+- **Location:** Toronto, Ontario
+
+### [Vueday](https://2023.vueday.it/)
+
+- **Dates:** November 10th, 2023
+- **Location:** Verona, Italy (and Online)
 
 ### 2022
 
@@ -138,12 +222,12 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 #### [Vue.js Forge](https://vuejsforge.com/)
 
 - **Dates:** August 30-31st, 2022
-- **Location:** [Remote Conference] (https://vuejsforge.com/)
+- **Location:** [Remote Conference](https://vuejsforge.com/)
 
 #### [Nuxt Nation](https://nuxtnation.com/)
 
 - **Dates:** November 16-17th, 2022
-- **Location:** [Remote Conference] (https://nuxtnation.com/)
+- **Location:** [Remote Conference](https://nuxtnation.com/)
 
 ## Past
 
