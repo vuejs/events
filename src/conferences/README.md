@@ -27,6 +27,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Dates:** May 22nd, 2026
 - **Location:** Madrid, Spain
 
+### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
+
+- **Dates:** October 24th, 2026
+- **Location:** Tokyo, Japan
+
 ## Past
 
 ### 2025
