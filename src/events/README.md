@@ -21,6 +21,11 @@ sidebar: auto
 - **Dates:** May 22nd, 2026
 - **Location:** Madrid, Spain
 
+### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
+
+- **Dates:** October 24th, 2026
+- **Location:** Tokyo, Japan
+
 ## Workshops
 
 Looking for in-person training? Look no further. You will be able to find workshops around the world by core team members and official community partners here.
