@@ -11,11 +11,6 @@ sidebar: auto
 - **Dates:** September 23rd, 2025
 - **Location:** Prague, Czech Republic
 
-### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
-
-- **Dates:** October 25th, 2025
-- **Location:** Tokyo, Japan
-
 ### [MadVue](https://madvue.es/)
 
 - **Dates:** May 22nd, 2026
@@ -39,15 +34,15 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - Dates: Open always
 - Location: Online
 
-### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
-
-- **Dates:** October 25th, 2025
-- **Location:** Tokyo, Japan
-
 ### [MadVue 2026](https://madvue.es/cfp/)
 
 - **Dates:** May 22nd, 2026
 - **Location:** Madrid, Spain
+
+### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
+
+- **Dates:** Stay tuned
+- **Location:** Tokyo, Japan
 
 ---
 
