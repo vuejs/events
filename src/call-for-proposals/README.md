@@ -12,9 +12,9 @@ This section is intended to provide a single source of truth for Vue.js develope
 
 ## Current CFPs
 
-### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
+### [Vue Fes Japan 2026](https://vuefes.jp/2026/en#cfp)
 
-- **Dates:** October 25th, 2025
+- **Dates:** October 24th, 2026
 - **Location:** Tokyo, Japan
 
 ### [MadVue 2026](https://madvue.es/cfp/)
