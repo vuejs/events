@@ -39,9 +39,9 @@ Looking for in-person training? Look no further. You will be able to find worksh
 - **Dates:** May 22nd, 2026
 - **Location:** Madrid, Spain
 
-### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
+### [Vue Fes Japan 2026](https://vuefes.jp/2026/en#cfp)
 
-- **Dates:** Stay tuned
+- **Dates:** October 24th, 2026
 - **Location:** Tokyo, Japan
 
 ---
