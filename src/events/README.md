@@ -6,15 +6,10 @@ sidebar: auto
 
 ## Conferences
 
-### [PragVue](https://pragvue.com/)
+### [Vue & ViteConf CN 2026](https://vueconf.cn/)
 
-- **Dates:** September 23rd, 2025
-- **Location:** Prague, Czech Republic
-
-### [MadVue](https://madvue.es/)
-
-- **Dates:** May 22nd, 2026
-- **Location:** Madrid, Spain
+- **Dates:** July 18th, 2026
+- **Location:** 中国·上海 / Shanghai, China
 
 ### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
 
@@ -33,11 +28,6 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 - Dates: Open always
 - Location: Online
-
-### [MadVue 2026](https://madvue.es/cfp/)
-
-- **Dates:** May 22nd, 2026
-- **Location:** Madrid, Spain
 
 ### [Vue Fes Japan 2026](https://vuefes.jp/2026/en#cfp)
 

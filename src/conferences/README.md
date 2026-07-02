@@ -8,19 +8,12 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 ## Upcoming
 
-### 2025
-
-#### [PragVue](https://pragvue.com/)
-
-- **Dates:** September 23rd, 2025
-- **Location:** Prague, Czech Republic
-
 ### 2026
 
-#### [MadVue](https://madvue.es/)
+#### [Vue & ViteConf CN 2026](https://vueconf.cn/)
 
-- **Dates:** May 22nd, 2026
-- **Location:** Madrid, Spain
+- **Dates:** July 18th, 2026
+- **Location:** 中国·上海 / Shanghai, China
 
 #### [Vue Fes Japan 2026](https://vuefes.jp/2026/en)
 
@@ -28,6 +21,13 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 - **Location:** Tokyo, Japan
 
 ## Past
+
+### 2026
+
+### [MadVue](https://madvue.es/)
+
+- **Dates:** May 22nd, 2026
+- **Location:** Madrid, Spain
 
 ### 2025
 
@@ -50,6 +50,11 @@ Here you will find conferences that have a specific focus on Vue.js. This means 
 
 - **Dates:** July 12th, 2025
 - **Location:** 中国·深圳 / Shenzhen, China
+
+### [PragVue](https://pragvue.com/)
+
+- **Dates:** September 23rd, 2025
+- **Location:** Prague, Czech Republic
 
 ### [Vue Fes Japan 2025](https://vuefes.jp/2025/)
 
